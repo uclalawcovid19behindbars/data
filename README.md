@@ -1,5 +1,5 @@
-# An Initiative of the UCLA Prison Law and Policy Program				
-
+# UCLA Law Covid-19 Behind Bars Data Project
+### An Initiative of the UCLA Prison Law and Policy Program				
 ### Project Director: Sharon Dolovich, Professor of Law				
 ### Deputy Director: Aaron Littman, Binder Clinical Teaching Fellow				
 
@@ -7,16 +7,14 @@ _Follow us on Twitter @uclaprisondata_
 
 _Data to add? Please email covidbehindbars@law.ucla.edu_		
 
-_Questions about the data? Read our description of the data, `codebook_confirmed_cases_deaths.pdf`._
+_Questions about the data? Read our Data Dictionary, `data_dictionary_confirmed_cases_deaths.pdf`._
 
 _Further Questions? Contact data science fellows Chase Hommeyer and Michael Everett at hommeyer@law.ucla.edu and everett@law.ucla.edu_
 
-### Description of the Data
-This repository contains one dataset, COVID-19 Jail/Prison Confirmed Cases & Deaths, in `.csv` and `.xlsx` formats. We've also posted a codebook to accompany the data, `codebook_confirmed_cases_deaths.pdf`.
+### Description of our Data
+This repository contains one dataset, COVID-19 Jail/Prison Confirmed Cases & Deaths, in `.csv` and `.xlsx` formats. We've also posted a data dictionary to accompany the data, `data_dictionary_confirmed_cases_deaths.pdf`. It contains FAQs, a description of each variable, and notes about how each state reports Covid-19 counts. The data were collected by Grace diLaura and Kalind Parish.
 
-The data contain cumulative confirmed COVID-19 case counts and death counts in U.S. jail/prison facilities, separately for staff and residents, for every day since we began data collection on March 31st, 2020. The data were collected primarily from Department of Corrections websites. Not all states report facility-specific counts, so some rows of the dataset are aggregate state-wide counts, not counts within a specific facility. You can identify these rows by filtering on column `facility_specific == 0`. For more information about the format of the data and our data collection procedure, we respectfully refer you to our codebook, `codebook_confirmed_cases_deaths.pdf`.
-
-Thank you to Grace diLaura and Kalind Parish who collected the data with the help of many volunteers. Thank you to Topos AI to geocoding our data to ascertain the location of each jail/prison facility.
+The data contain cumulative confirmed COVID-19 case counts and death counts in U.S. jail/prison facilities, separately for staff and residents, for every day since data collection began on March 31st, 2020. The data were collected primarily from Department of Corrections websites. Not all states report facility-specific counts, so some rows of the dataset are aggregate state-wide counts, not counts within a specific facility. You can identify these rows by filtering on column `Facility.Specific == 0`. For more information about the format of the data and our data collection procedure, please see our data dictionary data_dictionary_confirmed_cases_deaths.pdf`.
 
 ### Additional Data
 This dataset is just one of many that our project maintains. The rest is posted on our Google Sheets link here: https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906
