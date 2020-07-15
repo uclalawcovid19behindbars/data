@@ -1,0 +1,82 @@
+Unique ID (internal use only),Request or Motion Type,Date of Filing,Facility,State,"Judge
+(for bond or habeas)",Outcome,Number of Releases,Age,Lung Conditions,Heart Conditions,Substance Abuse History,Cancer,Diabetes,Immuno- suppressant Medication,History of Smoking,Other Risk Factor(s),"Additional Details
+(Health Conditions / Risk Factors)",Criminal Background
+1-PT-57,Habeas petition,43929,Franklin County House of Correction,MA,Mark Mastroianni,Unsuccessful,0,Age (31-40),No,No,No,No,No,No,No,No,NA,Yes (violent)
+2-SG-57,Parole request,43942,"Orange County Correctional Facility (Goshen, NY)",NY,NA,Successful,1,Age (31-40),No,No,Yes,No,Yes,No,No,Yes,obesity; high blood pressure,Yes (violent)
+3-AM-57,Habeas petition,43917,Bristol County House of Correction,MA,William Young,Class Action Litigation; individuals bail considerations remain pending - 50 individuals released to-date.,50,Age (31-40),Yes,Yes,Yes,Unknown,Yes,Yes,Yes,Yes,"The answers to the risk factors are spread across the entire class of individuals (148). Additionally, a several class members experience asthma, mental illness, obseity and gastrointestinal complications, among other illnesses.",Yes (violent)
+4-RB-57,Bond motion,43893,Adelanto Detention Facility,CA,Left,Successful,1,Age (21-30),No,No,No,No,No,No,No,Yes,"Detained, PTSD/Depression/anxiety","No (charges, but no convictions)"
+5-KC-57,Bond motion,43936,Adelanto Detention Facility,CA,Tara Naselow-Nahas,"Bond granted, but too high to pay, client was released after grant of relief in merits hearing",1,Age (31-40),No,No,No,No,No,No,No,No,NA,No
+6-RB-57,Parole request,43913,Adelanto Detention Facility,CA,NA,Unsuccessful,0,Age (21-30),No,No,No,No,No,No,No,Yes,"Detained, PTSD/Anxiety",No
+7-RB-57,Habeas petition,43925,Adelanto Detention Facility,CA,Hatter,Successful,4,Age (51-60),Yes,Yes,Yes,No,No,Yes,Yes,Yes,"Hep B, recent surgeries","Yes (non-violent, pled down from violent)"
+8-RB-57,Bond motion,43943,Adelanto Detention Facility,CA,Walker,Successful,1,Age (31-40),No,No,No,No,No,No,No,Yes,Detained,No
+9-CS-57,Bond motion,43937,Northwest Detention Center,WA,Floyd,Successful,1,Age (21-30),No,No,No,No,No,Yes,No,Yes,immune disorder,No
+10-SR-57,Parole request,43927,Cowlitz County Juvenile Detention Center,WA,NA,Unsuccessful,1,Age (Below 21),No,No,Yes,No,No,No,Yes,Unknown,NA,Yes (violent)
+11-KH-57,Habeas petition,43927,Hudson County Correctional Facility and Bergen County Jail,NJ,Madeline Cox Arleo,Successful,5,Age (31-40),Yes,Yes,Unknown,No,Yes,Yes,Unknown,Yes,NA,Yes (violent)
+12-SR-57,Parole request,43935,Cowlitz County Juvenile Detention Center,WA,NA,Unsuccessful,1,Age (Below 21),No,No,No,No,No,No,Unknown,Unknown,NA,Yes (violent)
+13-SR-57,Parole request,43935,Cowlitz County Juvenile Detention Center,WA,NA,Unsuccessful,1,Age (Below 21),No,No,No,No,No,No,Unknown,Unknown,NA,No
+14-KH-57,Habeas petition,43919,Essex County Correctional Facility,NJ,Judge Esther Salas,ICE released voluntarily after petition filed,2,Age (41-50),Unknown,Yes,Unknown,No,Yes,No,Unknown,Yes,NA,Yes (non-violent)
+15-KH-57,Habeas petition,43945,Hudson County Correctional Facility,NJ,Judge John Michael Vazquez,Successful,1,Age (41-50),No,No,Unknown,No,No,No,Yes,Yes,Asthma,Yes (non-violent)
+16-KB-57,Habeas petition,43924,Adelanto ICE Processing Center,CA,Hatter,Successful,1,Age (51-60),Yes,Yes,No,No,No,Unknown,No,Yes,"asthma, hypertension, arthritis, liver issues, traumatic brain injury, member of Franco class",Yes (non-violent)
+17-KB-57,Parole request,43914,Adelanto ICE Processing Center,CA,NA,No response,0,Age (51-60),Yes,Yes,No,No,No,Unknown,No,Yes,"Asthma, hypertension, arthritis, liver issues, traumatic brain injury, member of Franco class",Yes (non-violent)
+18-DG-57,Parole request,43916,South Louisiana ICE Processing Center,LA,NA,Unsuccessful,1,Age (31-40),No,No,No,No,No,No,No,No,NA,No
+19-AS-58,Parole request,43929,York county prison,PA,NA,Unsuccessful,0,Age (31-40),No,No,No,No,No,No,No,Yes,Hepatitis B,Yes (violent)
+20-MK-58,Parole request,43955,Pike County Correctional Facility,PA,NA,Unsuccessful,0,Age (31-40),No,No,No,No,No,No,No,No,NA,"No (charges, but no convictions)"
+21-MK-58,Parole request,43937,Pike County Correctional Facility,PA,NA,Unsuccessful,0,Age (51-60),Yes,Yes,No,No,Yes,No,Yes,Yes,"Hypertension, sleep apnea, borderline diabetes, overweight",Yes (non-violent)
+22-MK-58,Habeas petition,43929,Pike County Correctional Facility,PA,Brann,Unsuccessful,0,Age (51-60),Yes,Yes,No,No,Yes,Unknown,Yes,Yes,"High blood pressure, sleep apnea, borderline diabetes, overweight, smoker",Yes (non-violent)
+23-MK-58,Parole request,43937,Pike County Correctional Facility,PA,NA,Unsuccessful,0,Age (31-40),No,No,No,No,No,Yes,No,Yes,"Surgery in 2018 on throat, 42 stitches, trouble breathing when coughing b/c scar","No (charges, but no convictions)"
+24-MK-58,Habeas petition,43929,Pike County Correctional Facility,PA,Brann,Unsuccessful,0,Age (31-40),No,No,No,No,No,Yes,No,Yes,"Surgery in 2018 on throat, 42 stitches, trouble breathing when coughing b/c scar","No (charges, but no convictions)"
+25-MK-58,Bond motion,43944,Prairieland Detention Center,TX,Nugent,Unsuccessful: Appealed,0,Age (31-40),No,No,No,No,No,Yes,No,Yes,"Anxiety and depression, medicated",Yes (non-violent)
+26-MK-58,Parole request,43920,Pike County Correctional Facility,PA,NA,Successful,2,Age (41-50),No,No,No,No,No,No,No,Yes,NA,No
+27-MK-58,Bond motion,43933,Mesa Verde Detention Facility,CA,Ila C. Deiss,Successful,1,Age (31-40),No,No,Yes,No,No,No,No,No,Client had classic COVID-19 symptom a month previously but testing was refused,Yes (non-violent)
+28-MK-58,Parole request,43955,Adelanto,CA,NA,Awaiting response,0,Age (21-30),No,No,Yes,No,No,No,Yes,Yes,"Severe psychiatric illness, per Fraihat",Yes (violent)
+29-MK-58,Parole request,43957,Adelanto,CA,NA,Unsuccessful,1,Age (31-40),No,No,Yes,No,No,No,Yes,Yes,"Severe psychiatric illness, per Fraihat",Yes (non-violent)
+30-MK-58,Parole request,43951,Adelanto,CA,NA,Unsuccessful,1,Age (21-30),No,No,Yes,No,No,No,Yes,Yes,"Severe psychiatric illness, per Fraihat",Yes (violent)
+31-MK-58,Habeas petition,43922,Adelanto,CA,Terry Hatter (Central District of CA),Successful,1,Age (51-60),No,Yes,Yes,No,Yes,No,Yes,Yes,"Hepatitis C, high blood pressure, cellulitis, gout, severe psychiatric illness",Yes (violent)
+32-MG-511,Habeas petition,43948,Adelanto,CA,"Judge Terry Hatter, Jr.",Stayed pending outcome in Roman class action,0,Age (41-50),No,No,Yes,Yes,No,No,No,No,None,Yes (non-violent)
+33-EHP-511,Parole request,43942,Adelanto ICE Processing Center,CA,NA,Pending as of 4/21/2020,0,Age (41-50),Unknown,Unknown,Unknown,No,Unknown,No,Unknown,Yes,"high blood pressure, depression, anxiety, suicidal thoughts",Yes (non-violent)
+34-HM-511,Parole request,43949,Mesa Verde,CA,NA,Unsuccessful,0,Age (31-40),No,No,No,No,No,No,No,No,Schizophrenia,Yes (violent)
+35-CF-512,Parole request,43906,Aurora ICE Processing Center,CO,NA,"Rejected parole request, released on parole 2 days later",1,Age (21-30),No,No,No,No,Unknown,Unknown,No,Yes,HIV,Yes (non-violent)
+36-JH-512,Parole request,NA,La Salle,LA,NA,Not yet filed,0,Age (31-40),No,No,No,No,No,No,No,Yes,Possible history of smoking,No
+37-RS-512,Habeas petition,43951,South Texas Detention Complex,TX,Xavier Rodriguez,Pending,1,Age (41-50),Unknown,Yes,Unknown,Unknown,Yes,Unknown,Unknown,"Yes, Unknown",NA,Yes (non-violent)
+38-MB-512,Bond motion,43938,Farmville,VA,Elise Manuel,Successful,1,Age (21-30),No,No,No,No,No,No,No,No,"Client was transferred between multiple facilities - from Farmville to Caroline County back to Farmville. When he was returned back to Farmville, he was quarantined for two weeks with about 40 other people.",Yes (violent)
+39-SS-513,Bond motion,43934,Stewart Detention Center,GA,Trimble,Unsuccessful,0,Age (31-40),Yes,No,No,No,No,No,No,Yes,"Asthma, pulmonary emphyzema",No
+40-SS-513,Parole request,43945,Stewart Detention center,GA,NA,Unsuccessful,0,Age (Below 21),Yes,No,No,No,No,No,No,Yes,"Asthma,emphysema, pulmonary infection",No
+41-SS-513,Parole request,43928,Stewart Detention Center,GA,NA,Unsuccessful,0,Age (31-40),Yes,No,No,No,No,No,No,Yes,"Asthma, pulmonary emphysema",No
+42-SS-513,Bond motion,43935,Stewart Detention center,GA,Brown,Successful,0,Age (Below 21),Yes,No,No,No,No,No,No,No,Asthma,No
+43-HS-513,Parole request,43945,Sherburne County Jail,MN,NA,Still not adjudicated.,0,Age (21-30),No,No,No,No,No,Yes,No,Yes,HIV+. No COVID-19 tests have been done in MN facilities. Client won withholding and DHS is appealing. DHS has known about his condition for a long time.,Yes (non-violent)
+44-EK-513,Parole request,43942,Cibola County Correctional Center,NM,NA,Parole request denied but is being considered for OSUP,1,Age (31-40),Yes,Yes,Unknown,No,No,No,No,No,Asthma,No
+45-AV-514,Bond motion,43922,Detroit Immigration Court,MI,Seppanen,Denied Bond Redetermination on changed circ. post covid. Original Bond on appeal,0,Age (21-30),No,No,No,No,No,No,Unknown,No,NA,No
+46-AV-514,Parole request,43924,ICE/ERO Detroit,MI,ERO FOD Rebecca Adducci,Unsuccessful,0,Age (21-30),No,No,No,No,No,No,No,No,no,No
+47-HC-518,Parole request,43949,McHenry County Jail,IL,NA,Unsuccessful,0,Age (Below 21),No,No,No,No,No,No,Unknown,Unknown,"Client is single mother of a 15 month old son (who was born prematurely and has continuing health issues) who is currently in the care of client's mother (diabetes and at high risk of COVID) and grandmother (kidney disease, diabetes and at high risk of COVID) while she is detained. Provided medical records for child, mother, and grandmother in release request.",Yes (non-violent)
+48-KA-520,Parole request,43951,Adelanto Detention Facility,CA,NA,Unsuccessful,0,Age (31-40),No,No,Yes,No,No,No,No,Yes,psychiatric disorder,Yes (non-violent)
+49-KA-520,Habeas petition,43925,Adelanto Detention Facility,CA,Hadder,Successful,1,Age (41-50),No,No,Yes,No,No,No,No,Yes,psychiatric disorders,Yes (non-violent)
+50-KA-520,Habeas petition,43931,Adelanto Detention Facility,CA,Unknown,Successful,1,Age (41-50),Yes,Yes,Yes,No,No,No,No,Yes,psychiatric/neurocognitive disorders,Yes (non-violent)
+51-DH-522,Habeas petition,43936,"Webb County Detention Facility, Port Isabel Detention Center, Rio Grande Detention Center",TX,Judge Marmolejo,We continue to litigate,3,Age (61-70),No,No,No,No,Yes,No,No,Yes,"osteoarthritis, hypertension, depression","No (charges, but no convictions)"
+52-EA-69,Parole request,43929,Adelanto ICE Detention,CA,NA,Unsuccessful,1,Age (51-60),Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Client is in age risk group.,Yes (non-violent)
+53-EA-69,Parole request,43930,Adelanto ICE Detention,CA,NA,Successful,1,Age (31-40),No,No,No,No,Yes,No,Unknown,Yes,Hypertension,No
+54-EA-611,Parole request,43931,Adelanto ICE Detention,CA,NA,Unsuccessful,1,Age (51-60),No,No,No,No,Yes,No,Unknown,Yes,Hypertension,No
+55-EA-611,Parole request,43944,Adelanto ICE Detention,CA,NA,Unsuccessful,1,Age (21-30),No,Yes,No,No,No,No,Unknown,Yes,Client was shot in the head and has suffered from memory and hearing losses.  Since his time in detention he fractured his arm and treatment was delayed and he received a bone transplant.,Yes (non-violent)
+56-EA-611,Parole request,43942,Adelanto ICE Detention,CA,NA,Unsuccessful,1,Age (31-40),No,Yes,No,No,No,No,Unknown,Yes,"Client has arthritis, high blood pressure, high cholesterol, migraines and liver problems.",Yes (non-violent)
+57-EA-611,Parole request,43928,Adelanto ICE Detention,CA,NA,No response. Client was released before response after winning pro se asylum.,1,Age (51-60),No,Unknown,No,No,No,No,Unknown,Yes,"Client has hypertension, acid reflux, experiences a lot of pain and is highly anxious.",No
+58-EA-612,Habeas petition,43931,Adelanto ICE Detention,CA,Judge Hatter,Successful,1,Age (61-70),No,Yes,No,No,No,No,Unknown,Unknown,Client had a heart attack while in detention.,Yes (non-violent)
+59-EA-612,Parole request,43923,Adelanto ICE Detention,CA,NA,No decision yet,1,Age (31-40),Unknown,Unknown,Unknown,No,No,No,Unknown,Unknown,NA,No
+60-EA-612,Parole request,43936,Adelanto ICE Detention,CA,NA,Unsuccessful,1,Age (51-60),No,Yes,No,No,No,No,Unknown,Yes,Client has hypertension and kidney disease.  He was interned for 2 weeks at medical center to receive treatment.,No
+61-EA-612,Parole request,43929,Adelanto,CA,NA,Unsuccessful,1,Age (31-40),No,No,No,No,No,No,Unknown,Yes,Client is a survivor of government sanctioned torture and sexual assault.,"No (charges, but no convictions)"
+62-EA-612,Bond motion,43978,Adelanto ICE Detention,CA,Amy T. Lee,Successful,1,Age (21-30),No,No,No,No,No,No,No,No,NA,No
+63-JW-615,Bond motion,43971,Adelanto Detention Facility,CA,Tara Naselow-Nahas,Successful,1,Age (31-40),No,No,No,No,No,No,No,No,NA,No
+64-JW-615,Bond motion,43914,Adelanto Detention Facility,CA,Nathaniel Walker,"Removal proceedings terminated, so bond hearing was not held",1,Age (31-40),No,Yes,Unknown,No,No,No,No,No,Hypertension,Yes (violent)
+65-EA-616,Parole request,43970,Adelanto,CA,NA,No decision yet,0,Age (31-40),Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,"treated with prozac; leg and back pain from car accident; taken to hospital 3 times; they told her she has a stomach infection, has had chest pains for 3 days and cant breath. 3 years in Adelanto ... bond always denied.",Yes (non-violent)
+66-EA-616,Parole request,43927,Adelanto,CA,NA,Unsuccessful,0,Age (21-30),Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,Was on suicide watch. Assaulted in her dorm Feb 2020,Yes (non-violent)
+67-EA-616,Parole request,43927,Adelanto,CA,NA,Unsuccessful,0,Age (21-30),Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Yes,"racing heart rate, lung infection, heart condition",No
+68-EA-616,Parole request,43936,Adelanto,CA,NA,Unsuccessful,0,Age (31-40),No,No,Unknown,No,No,Yes,Unknown,Yes,"Immunocompromised, forced to touch face constantly; Eye injury, must have eye drops, not getting any, blurred vision & pain; will not be able to stop touching eyes",Yes (non-violent)
+69-EA-616,Parole request,43927,Adelanto,CA,NA,Unsuccessful,0,Age (31-40),No,Yes,No,No,No,No,Unknown,Yes,"hypertension. Fractured arm and leg, bad surgery, pain & lack of mobility.",No
+70-EA-616,Parole request,43924,Adelanto,CA,NA,No decision yet,0,Age (41-50),No,No,No,No,No,No,No,No,NA,No
+71-EA-616,Parole request,43923,Adelanto,CA,NA,Unsuccessful,0,Age (31-40),No,No,Unknown,No,No,No,Unknown,Unknown,none identified,No
+72-EA-616,Parole request,43973,Adelanto,CA,NA,No decision yet,0,Age (31-40),No,No,No,No,No,No,No,No,NA,No
+73-EA-616,Parole request,43937,Adelanto,CA,NA,Unsuccessful,0,Age (21-30),No,No,No,No,No,Yes,No,Yes,"Bloody gums, side pain, coughing. Autoimmune deficiency.",Yes (non-violent)
+74-EA-616,Parole request,43973,Adelanto,CA,NA,No decision yet,0,Age (31-40),No,No,No,No,No,No,No,Yes,"Dislocation in right arm; went to medical and got ""some drugs""",No
+75-EA-616,Parole request,43930,Adelanto,CA,NA,Unsuccessful,0,Age (Below 21),No,No,No,No,No,Yes,No,Yes,immunocompromised; suffers from chronic nosebleeds.,No
+76-EA-616,Parole request,43929,Adelanto,CA,NA,Unsuccessful,0,Age (51-60),"No, Unknown","No, Unknown","No, Unknown",No,No,No,"No, Unknown",Yes,55+,Yes (non-violent)
+77-HB-622,Parole request,43942,Adelanto ICE Processing Center,CA,NA,Unsuccessful,0,Age (21-30),Yes,No,No,No,No,No,No,No,Client has had asthma since he was a child.,No
+78-HB-622,Bond motion,43992,Adelanto ICE Processing Center,CA,IJ Walker,Successful,1,Age (21-30),Yes,No,No,No,No,No,No,No,Client has had asthma since he was a child.,No
+79-HB-622,Parole request,43962,Adelanto ICE Processing Center,CA,NA,Unsuccessful,0,Age (31-40),No,Yes,No,No,No,No,No,Yes,"Client has high blood pressure, umbilical hernia",No
