@@ -7,30 +7,50 @@ _Follow us on Twitter @uclaprisondata_
 
 _Data to add? Please email covidbehindbars@law.ucla.edu_		
 
-_Questions about the data? Read our Data Dictionary, `data_dictionary_confirmed_cases_deaths.pdf`._
+_Questions about a dataset? Read the Data Dictionary accompanying each dataset which answers FAQs._
 
 _Further Questions? Contact data science fellows Chase Hommeyer and Michael Everett at hommeyer@law.ucla.edu and everett@law.ucla.edu_
 
-### Description of our Data
-This repository contains one dataset, COVID-19 Jail/Prison Confirmed Cases & Deaths, in `.csv` and `.xlsx` formats. We've also posted a data dictionary to accompany the data, `data_dictionary_confirmed_cases_deaths.pdf`. It contains FAQs, a description of each variable, and notes about how each state reports Covid-19 counts. The data were collected by Grace diLaura and Kalind Parish.
 
-The data contain cumulative confirmed COVID-19 case counts and death counts in U.S. jail/prison facilities, separately for staff and residents, for every day since data collection began on March 31st, 2020. The data were collected primarily from Department of Corrections websites. Not all states report facility-specific counts, so some rows of the dataset are aggregate state-wide counts, not counts within a specific facility. You can identify these rows by filtering on column `Facility.Specific == 0`. For more information about the format of the data and our data collection procedure, please see our data dictionary data_dictionary_confirmed_cases_deaths.pdf`.
+This repository contains fives datasets, each in both `.csv` and `.xlsx` formats. To accompany each dataset, we've posted a data dictionary for each one. Please read it if you are using one of our datasets. It contains FAQs, a description of each variable, and notes.
+
+### Description of Datasets
+* COVID-19 Jail/Prison Confirmed Cases & Deaths
+   * Data File Name: `ConfirmedCasesAndDeaths_[date].[xlsx/csv]`
+   * Data Dictionary: `data_dictionary_confirmed_cases_deaths.pdf`
+   * Description: This dataset contains cumulative confirmed COVID-19 case counts and death counts in U.S. jail/prison facilities, separately for staff and residents, for every day since data collection began on March 31st, 2020. The data were collected primarily from Department of Corrections websites.
+
+* COVID-19 Related Immigration Filings	
+   * Data File Name: `COVID-19_Related_Immigration_Filings.[xlsx/csv]`
+   * Data Dictionary: 
+   * Description: This dataset contains immigration-related filings regarding Covid-19 as self-reported by attorneys. Filings are submitted by attorneys through a Google Form which we distributed via email list servs to a large network of advocates. It lists information about the filing including the outcome and the presence of various COVID-19 health risk factors for the plaintiff such as diabetes, lung conditions, etc.
+   
+* COVID-19 Related Youth Filings & Court Orders
+   * Data File Name: `COVID-19_Related_Youth_Filings_and_Court_Orders.[xlsx/csv]`
+   * Data Dictionary: 
+   * Description: This dataset contains legal requests and court orders regarding youth facilities and COVID-19.
+   
+* COVID-19 Youth Correctional Facilities
+   * Data File Name: `COVID-19_Youth_Correctional_Facilities.[xlsx/csv]`
+   * Data Dictionary: 
+   * Description: This dataset contains cumulative confirmed COVID-19 case counts, testing, visitation policy, etc. in U.S. youth correctional facilities.
+   
+* COVID-19 Immigration Detention Facilities: 	
+   * Data File Name: `COVID-19_Immigration_Detention_Facilities.[xlsx/csv]`
+   * Data Dictionary: 
+   * Description: This dataset contains confirmed COVID-19 case counts and death counts in U.S. ICE detention facilities, separately for staff and residents. It also contains information about visitation policies.
+
 
 ### Additional Data
-This dataset is just one of many that our project maintains. The rest is posted on our Google Sheets link here: https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906
+These datasets are just five of many that our project maintains. The rest are posted on our Google Sheets link here: https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906
 
 Visit the above link to check out the following other datasets:
 
-* COVID-19 Jail/Prison Confirmed Cases & Deaths: _This dataset contains the same data as in this repository, except it only has today's cumulative counts, not the history of counts back to March 31st._
 * COVID-19 Related Jail Releases: Tracking number of residents released for jail population reduction efforts			
 * COVID-19 Related Prison Releases: Tracking number of residents released for prison population reduction efforts			
 * COVID-19 Correctional Pop. Reduction Requests: Requests for authoritiative actions necessary to reduce correctional population densities
 * COVID-19 Correctional Pop. Reduction Responses: System responses and authoritative actions to reduce correctional population densities	
 * COVID-19 Related Legal Filings & Court Orders: Tracking specific legal requests and court orders			
-* COVID-19 Related Immigration Filings: Cataloging immigration-related filings self-reported by attorneys  			
-* COVID-19 Related Youth Filings & Court Orders: Tracking specific legal requests and court orders regarding youth facilities			
-* COVID-19 Youth Correctional Facilities: Confirmed cases, requests for decarceration, responses, and policy in youth correctional facilities			
-* COVID-19 Immigration Detention Facilities: Confirmed cases, requests for decarceration, responses, and policy in immigration detention facilities			
 * COVID-19 Visitation Policy by State (Prisons): Tracking visitation suspension policies and offerings of compensatory remote access			
 * COVID-19 Jail/Prison Condition Policies: Descriptive summaries of ongoing policies affecting carceral conditions			
 * COVID-19 Fundraisers & Mutual Aid Efforts: Links and descriptions of COVID-19 fundraising efforts			
