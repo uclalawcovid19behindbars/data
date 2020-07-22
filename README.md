@@ -15,7 +15,7 @@ _Further Questions? Contact data science fellows Chase Hommeyer and Michael Ever
 This repository contains fives datasets, each in both `.csv` and `.xlsx` formats. To accompany each dataset, we've posted a data dictionary for each one. Please read it if you are using one of our datasets. It contains FAQs, a description of each variable, and notes.
 
 ### Description of Datasets
-* COVID-19 Jail/Prison Confirmed Cases & Deaths *This dataset is currently under maintenance so it is not posted here.*
+* COVID-19 Adult Facilities Confirmed Cases & Deaths *This dataset is currently under maintenance so it is not posted here.*
    * Data File Name: `ConfirmedCasesAndDeaths_[date].[xlsx/csv]`
    * Data Dictionary: `data_dictionary_confirmed_cases_deaths.pdf`
    * Description: This dataset contains cumulative confirmed COVID-19 case counts and death counts in U.S. jail/prison facilities, separately for staff and residents, for every day since data collection began on March 31st, 2020. The data were collected primarily from Department of Corrections websites.
