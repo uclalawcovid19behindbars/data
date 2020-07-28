@@ -39,15 +39,23 @@ This repository contains fives datasets, each in both `.csv` and `.xlsx` formats
    * Data File Name: `COVID-19_Immigration_Detention_Facilities.[xlsx/csv]`
    * Data Dictionary: Will be uploaded soon. Email us for questions.
    * Description: This dataset contains confirmed COVID-19 case counts and death counts in U.S. ICE detention facilities, separately for staff and residents. It also contains information about visitation policies.
-
+  
+* COVID-19 Related Jail Releases: 	
+   * Data File Name: `COVID-19_Related_Jail_Releases.[xlsx/csv]`
+   * Data Dictionary: Will be uploaded soon. Email us for questions.
+   * Description: This dataset tracks “release programs” enacted by jurisdictions in the United States that allow for the release of a certain segment of the incarcerated population of an adult jail facility or group of adult jail facilities in response to Covid-19. This dataset contains information about which categories of incarcerated populations have been released, where, and when. 
+   
+* COVID-19 Related Prison Releases: 	
+   * Data File Name: `COVID-19_Related_Prison_Releases.[xlsx/csv]`
+   * Data Dictionary: Will be uploaded soon. Email us for questions.
+   * Description: This dataset tracks “release programs” enacted by jurisdictions in the United States that allow for the release of a certain segment of the incarcerated population of an adult prison facility or group of adult prison facilities in response to Covid-19. This dataset contains information about which categories of incarcerated populations have been released, where, and when.
+   
 
 ### Additional Data
-These datasets are just five of many that our project maintains. The rest are posted on our Google Sheets link here: https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906
+These datasets are just seven of many that our project maintains. The rest are posted on our Google Sheets link here: https://docs.google.com/spreadsheets/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906
 
 Visit the above link to check out the following other datasets:
-
-* COVID-19 Related Jail Releases: Tracking number of residents released for jail population reduction efforts			
-* COVID-19 Related Prison Releases: Tracking number of residents released for prison population reduction efforts			
+	
 * COVID-19 Correctional Pop. Reduction Requests: Requests for authoritiative actions necessary to reduce correctional population densities
 * COVID-19 Correctional Pop. Reduction Responses: System responses and authoritative actions to reduce correctional population densities	
 * COVID-19 Related Legal Filings & Court Orders: Tracking specific legal requests and court orders			
