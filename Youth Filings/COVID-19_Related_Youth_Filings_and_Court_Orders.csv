@@ -1,17 +1,12 @@
-"Document Type
-(Order/Opinion; Filing/Motion)",Date,Case Name,Jurisdiction,"Citation 
-(if available)","Class Action
-(Y/N)","Type of Motion/Order
-(temporary release, modify sentence, etc.)","Holding / Decision 
-(if applicable)",Source or case link,Permalinks,"Additional Notes (explanation of holding, explanation of individual health conditions for vulnerable plaintiffs, helpful passages or parentheticals, etc.)"
-Filing/Motion,2020-03-25T00:00:00Z,Freeman v. Hansell,N.Y. Cty. Sup. Ct.,"Freeman v. Hansell, No. 451130/2020
+Document_Type,Date,Case_Name,Jurisdiction,Citation,Class_Action,Type_of_Motion_Order,Holding_or_Decision,Source,Permalinks,Additional_Notes,
+Filing/Motion,3/25/20,Freeman v. Hansell,N.Y. Cty. Sup. Ct.,"Freeman v. Hansell, No. 451130/2020
  (N.Y. Cty. Sup. Ct. Mar. 25, 2020).",No,Writ of Habeas Corpus,Pending,https://bit.ly/3b5UIwr,perma.cc/W3SB-CSZE,"Petition seeks the immediate release from detention of all 22 youth 
 detained by Family Courts in secure and non-secure detention centers 
 in NYC, on the grounds that continuing to hold them in these facilities 
 constitutes deliberate indifference to the risk of serious medical harm 
 in violation of the Fourteenth Amendment and state constitutional 
-right to due process."
-Filing/Motion,2020-04-03T00:00:00Z,"In Re: J.B., L.H., L.S., R.P.",Md. App. Ct.,"In Re: J.B., L.H., L.S., R.P., Misc. 
+right to due process. ", 
+Filing/Motion,4/3/20,"In Re: J.B., L.H., L.S., R.P. ",Md. App. Ct.,"In Re: J.B., L.H., L.S., R.P., Misc. 
 No. 19 (Md. Ct. App. Apr. 3, 2020) 
 (application for immediate 
 and extraordinary relief)",Yes,"
@@ -21,8 +16,8 @@ And Extraordinary Relief",Denied*see row 5,"https://tinyurl.com/ybbyj4jv
 application for immediate and extraordinary relief requested that the 
 court release vulnerable individuals, people under 15, and people being 
 detained solely on findings of technical violations or failure to appear/pay 
-fees and take other actions to reduce population of people in juvenile detention."
-Order/Opinion,2020-04-07T00:00:00Z,"In re: the Petition of C.Z., A.O., and Z.S.-W.,
+fees and take other actions to reduce population of people in juvenile detention.", 
+Order/Opinion,4/7/20,"In re: the Petition of C.Z., A.O., and Z.S.-W.,
  on behalf of all similarly situated individuals",Pa.,"In re: the Petition of C.Z., A.O., and Z.S.-W., 
 on behalf of all similarly situated individuals,
  No. 24 EM 2020 (Pa. Apr. 1 2020)",Yes,"Petition to reduce population 
@@ -33,39 +28,40 @@ decisions. Still, the court directed that President Judges engage with
 county leaders to immediately review the capabilities of residential 
 placements where juveniles were housed to address COVID-19 and to 
 identify juveniles for potential release while still considering
- individual circumstances."
-Order/Opinion,2020-04-10T00:00:00Z,"In Re: J.B., L.H., L.S., R.P.",Md. Ct. App.,NA,Yes,NA,Denied,https://tinyurl.com/yazesnw3,https://perma.cc/BUK7-KPHH,"The Maryland Court of Appeals denied Public Defender's Office's petition 
+ individual circumstances.", 
+Order/Opinion,4/10/20,"In Re: J.B., L.H., L.S., R.P.",Md. Ct. App.,,Yes,N/A,Denied,https://tinyurl.com/yazesnw3,https://perma.cc/BUK7-KPHH,"The Maryland Court of Appeals denied Public Defender's Office's petition 
 to release low-level offenders from Maryland’s juvenile facilities, but hinted 
 that the chief judge will issue guidance “shortly” on how lower courts
- should handle the growing coronavirus pandemic."
-Order/Opinion,2020-04-13T00:00:00Z,NA,Md. Ct. App.,"Administrative Order Guiding the Response of the 
+ should handle the growing coronavirus pandemic.", 
+Order/Opinion,4/13/20,,Md. Ct. App.,"Administrative Order Guiding the Response of the 
 Circuit Courts Sitting as Juvenile Judges to the Covid-19  
 Emergency as it Relates to Those Juveniles 
 Who Are Detained, Committed Pending Placement  
-or In Commitments (Md. Ct. App. Apr. 13, 2020)",Yes,NA,NA,https://bit.ly/2KcplEq,https://perma.cc/KQ3J-MKKM,"Chief Judge of the Maryland Court of Appeals ordered lower court 
+or In Commitments (Md. Ct. App. Apr. 13, 2020)",Yes,N/A,N/A,https://bit.ly/2KcplEq,https://perma.cc/KQ3J-MKKM,"Chief Judge of the Maryland Court of Appeals ordered lower court 
 judges to consider a number of factors in determining whether detention
  of a juvenile is warranted, including the risk the juvenile poses and 
-any preexisting conditions the juvenile has."
-Filing/Motion,2020-04-19T00:00:00Z,NA,Harris County Juvenile District Court,NA,No,17 writs of habeas corpus to release youth,Denied,"https://tinyurl.com/y92btwdw;
-https://tinyurl.com/y8ovrs37",https://perma.cc/NBT7-2BWC; https://perma.cc/MWA7-VHW6,"Writs of habeas corpus filed by Harris County Public Defender's office, 
+any preexisting conditions the juvenile has.", 
+Filing/Motion,4/19/20,,Harris County Juvenile District Court,,No,17 writs of habeas corpus to release youth,Denied,"https://tinyurl.com/y92btwdw;
+https://tinyurl.com/y8ovrs37",https://perma.cc/NBT7-2BWC; https://perma.cc/MWA7-VHW6 ,"Writs of habeas corpus filed by Harris County Public Defender's office, 
 alleging 8th and 14th amendment violations where youth were being confined
  to their rooms 23 and a half hours per fay at Harris County's juvenile detention 
-center."
-Order/Opinion,2020-04-22T00:00:00Z,"All Youth Detained in Juvenile Halls and Camps in
+center. ", 
+Order/Opinion,4/22/20,"All Youth Detained in Juvenile Halls and Camps in
  Los Angeles County v. Juvenile Division",Cal.,"All Youth Detained in Juvenile Halls and Camps in Los Angeles County v. Superior Court of Los Angeles County, Juvenile Division, No. S261701 (Apr. 22, 2020)",Yes,Petition for writ of mandate,Transferred,https://bit.ly/2YKYnMB,https://perma.cc/F9SJ-7U5U,"Transferred writ of mandate to Court of Appeal, Second Appellate District,
  with directions to issue an order to show cause returnable before the 
 Los Angeles County Superior Court, addressing whether juveniles detained 
 in Los Angeles County juvenile facilities are being denied due process under
  the Fourteenth Amendment by being held in conditions that could subject
  them to contracting the COVID-19 virus and, if so, what remedies
- can be lawfully ordered."
-Filing/Motion,2020-04-30T00:00:00Z,"In Re State of Alabama ex rel. -
+ can be lawfully ordered.", 
+Filing/Motion,4/30/20,"In Re State of Alabama ex rel. -
  Children and youth advocacy network - 
-Emergency Original Petition for Extraordinary Relief",AL Sup. Ct.,NA,Yes,Petition for extroardinary relief,Pending,"https://tinyurl.com/ybng4e2q
+Emergency Original Petition for Extraordinary Relief ",AL Sup. Ct.,,Yes,Petition for extroardinary relief,Pending,"https://tinyurl.com/ybng4e2q
 ",https://perma.cc/F45L-8EVN,"Petition asks the Alabama Supreme Court to order the state’s lower-level 
 courts to reduce the number of children in detention, correctional and 
-other residential facilities."
-Order/Opinion,2020-05-12T00:00:00Z,NA,Los Angeles Sup Ct.,NA,Yes,"Petition for writ of mandate 
+other residential facilities.", 
+Order/Opinion,5/6/20,State of Louisiana in the Interest of L.S.,La. Ct. App.,"State in the Interest of L.S., 2020-0221 (La. App. 4 Cir. 5/6/20) WL 4199724",No,Review of denial of motion for early release,Denied,https://bit.ly/3lzHzB9,https://perma.cc/Q7K7-WDEE,"Court affirmed denial for early release. No opinion, but lengthy dissent. Original motion was denied by juvenile court without hearing.",
+Order/Opinion,5/12/20,,Los Angeles Sup Ct. ,,Yes ,"Petition for writ of mandate 
 (to reduce population of youth detained) 
 ",Denied,"https://tinyurl.com/yagx83tu
 ",https://perma.cc/USS3-YAGD,"""Requests to release juveniles from detention must be based on an 
@@ -75,10 +71,11 @@ appropriate based on the totality of the circumstances, including the
 a preexisting medical condition that makes him or her particularly 
 vulnerable to COVID-19; whether the minor would pose a safety risk"" 
 if released; the seriousness of the offense and history of criminal activity;
- and the minor’s release plan or family circumstances."""
-Filing/Motion,2020-05-14T00:00:00Z,N.H. ex rel J.H. v. Edwards,M.D. La.,"3:20-cv-00293-JWD-EWD
+ and the minor’s release plan or family circumstances.""",    
+Filing/Motion,5/14/20,N.H. ex rel J.H. v. Edwards,M.D. La.,"3:20-cv-00293-JWD-EWD
 
-",Yes,"Class Action Complaint for Declaratory 
+",Yes,"
+Class Action Complaint for Declaratory 
 and Injunctive Relief and Petition 
 for Writ of Habeas Corpus
 ",Denied *see row 13,"https://tinyurl.com/ycp226wh
@@ -88,15 +85,17 @@ for Writ of Habeas Corpus
 mitigation in light of the COVID-19 pandemic. The plaintiffs alleged that
  children are at-risk for contracting and transmitting COVID-19 and that they 
 may be vulnerable to life-threatening complications both during and after
- the infection itself appears to have resolved."
-Order/Opinion,2020-06-05T00:00:00Z,"In the MATTER OF the REQUEST TO MODIFY 
+ the infection itself appears to have resolved.", 
+Order/Opinion,6/5/20,"In the MATTER OF the REQUEST TO MODIFY 
 PRISON SENTENCES, Expedite Parole Hearings, 
-and Identify Vulnerable Prisoners",N.J.,"Matter of Request to Modify Prison Sentences, No. 084412, 2020 WL 3022885 (N.J. June 5, 2020)",NA,"Petition for early release or furlough 
-of several groups",Remanded,NA,NA,"""We have not granted the full relief the Public Defender and
+and Identify Vulnerable Prisoners",N.J.,"Matter of Request to Modify Prison Sentences, No. 084412, 2020 WL 3022885 (N.J. June 5, 2020)",,"Petition for early release or furlough 
+of several groups",Remanded,https://bit.ly/2FDuSF8,https://perma.cc/5FB9-ZFG,"""We have not granted the full relief the Public Defender and
 ACLU sought. The arguments raised do not provide a basis
 for that relief, and we recognize the role the other branches
 of government have. The Executive and Legislative Branches
 retain the authority to enact policy changes in response to the
-spread of COVID-19 in state prisons and juvenile facilities."""
-Order/Opinion,2020-06-24T00:00:00Z,N.H. ex rel J.H. v. Edwards,M.D. La.,NA,Yes,NA,Denied,https://tinyurl.com/yc3dudm3,https://perma.cc/DP6T-CMTN,"LA federal judged refused to order youth released, arguing the OJJ's response to COVID 19 has been reasonable
-Those who filed the case viewed it as a partial victory, because the OJJ made some changes since they filed the lawsuit on May 14, including stopping the use of pepper spray and resuming in person instruction"
+spread of COVID-19 in state prisons and juvenile facilities.""",
+Order/Opinion,6/24/20,N.H. ex rel J.H. v. Edwards,M.D. La.,,Yes,N/A,Denied,https://tinyurl.com/yc3dudm3,https://perma.cc/DP6T-CMTN,"LA federal judged refused to order youth released, arguing the OJJ's response to COVID 19 has been reasonable
+Those who filed the case viewed it as a partial victory, because the OJJ made some changes since they filed the lawsuit on May 14, including stopping the use of pepper spray and resuming in person instruction ",
+Order/Opinion,7/17/20,People v. K.F.,N.Y. Co. Ct.,"People v. K.F., No. FYC-00000-00/000, 2020 WL 5103725, at *3 (N.Y. Co. Ct. July 17, 2020)",No,Opposition to the People's Opposition Motion for Removal to Family Court,Denied,bit.ly/3gWzUJQbi,https://perma.cc/2U2B-W68F,Judge did not find the pandemic a compelling reason for why the youth was unable to secure school and medical documents to prove his disabilities at an earlier date,
+Order/Opinion,8/10/20,Matter of M.R.,N.Y. Fam. Ct.,"Matter of M.R., No. D-08439/20, 2020 WL 4669178, at *1 (N.Y. Fam. Ct. Aug. 10, 2020)",No,Motion to Dismiss,Denied,https://bit.ly/3jtK1aM,https://perma.cc/QV2A-TY3B,"Court held that governor's executive order effectviely tolled the statute of limitations and even though the ""juvenile"" was now over 18, Family Court still had jurisdiction over him ",

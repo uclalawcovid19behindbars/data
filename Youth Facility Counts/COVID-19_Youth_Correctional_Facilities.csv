@@ -1,331 +1,338 @@
-State,City,County,Facility,Confirmed Cases (Youth),Confirmed Cases (Staff),"Testing for Youth (Y/N)
+State,City,County,Facility ,Confirmed Cases (Youth),Confirmed Cases (Staff),"Testing for Youth (Y/N)
 includes testing at intake","Testing for Staff (Y/N)
 includes verbal screenings and temperature checks","Visitation 
 Policy (Suspended/Limited/Adapted*/
 No Change/Resumed)
 *includes increasing phone/video visitation","Education Policy
 (In Person/Suspended/Educational Packets/Virtual)",Last Updated,Sources,Perma Links,Additional Notes
-Alabama,NA,NA,NA,0,0,NA,NA,"Suspended, Adapted",Educational Packets,2020-04-20T00:00:00Z,https://dys.alabama.gov/wp-content/uploads/2020/04/DYS-COVID-19-Update-4-20-20-002.pdf,https://perma.cc/39U4-H8MZ,NA
-Alaska,NA,Anchorage,McLaughlin Youth Facility,0,1,NA,NA,Resumed,NA,2020-07-06T00:00:00Z,"https://www.adn.com/alaska-news/2020/04/06/anchorage-juvenile-justice-center-staff-member-among-14-new-covid-19-cases/
-http://dhss.alaska.gov/djj/Pages/COVID-19.aspx",perma.cc/UN69-ACG7,NA
-Arizona,NA,Yavapai County,Mingus Mountain Academy,92,,N,N,NA,NA,2020-07-09T00:00:00Z,https://patch.com/arizona/across-az/covid-19-outbreaks-arizona-child-detention-centers-worry-advocates,https://perma.cc/ZSY2-LY8S,NA
-Arizona,NA,NA,Queen Creek,23,8,NA,NA,NA,NA,2020-07-09T00:00:00Z,https://patch.com/arizona/across-az/covid-19-outbreaks-arizona-child-detention-centers-worry-advocates,https://perma.cc/BK4U-AYQC,NA
-California,NA,Alameda,NA,1,0,Y,Y,Suspended,Educational packets,2020-07-07T00:00:00Z,"Chief Probation Officer 
-Wendy Still",https://perma.cc/EVS7-6PMZ,NA
-California,NA,Alameda,NA,0,0,Y,Y,Suspended,Virtual,2020-04-02T00:00:00Z,"Chief Probation 
-Officer Wendy Still",https://perma.cc/HG26-UFHX,NA
-California,NA,Los Angeles County,NA,40,54,NA,NA,Resuming,NA,2020-07-24T00:00:00Z,https://chronicleofsocialchange.org/top-stories/los-angeles-will-restart-family-visits-at-some-of-its-juvenile-probation-camps/45566,perma.cc/YL67-4FFG,"In-person family visits will now be available at the Afflerbaugh, Paige, Rockey and Kilpatrick juvenile camps, where visitors must get their temperature taken in a screening booth outside of the facility. No parent with a temperature over 100 degrees or those exhibiting COVID-19 symptoms will be permitted to enter."
-California,NA,NA,Department of Juvenile Justice,46,13,NA,NA,NA,NA,2020-07-27T00:00:00Z,"https://www.cdcr.ca.gov/juvenile-justice/
-https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/",perma.cc/3UAL-6K4L,"staff includes people at: Northern California Youth Correctional 
+Total,,,,1594,1453,,,,,,,,
+Alabama,,,,0,0,,,"Suspended, Adapted",Educational Packets,04/20,https://dys.alabama.gov/wp-content/uploads/2020/04/DYS-COVID-19-Update-4-20-20-002.pdf,perma.cc/UN69-ACG7, 
+Alaska,,Anchorage,McLaughlin Youth Facility,12,3,,,Resumed,,08/27,http://dhss.alaska.gov/djj/Pages/default.aspx,https://perma.cc/ZSY2-LY8S, 
+Arizona,,Yavapai County,Mingus Mountain Academy,92,20,N,N,,,07/09,https://patch.com/arizona/across-az/covid-19-outbreaks-arizona-child-detention-centers-worry-advocates,https://perma.cc/BK4U-AYQC, 
+Arizona,,,Queen Creek,23,8,,,,,07/09,https://patch.com/arizona/across-az/covid-19-outbreaks-arizona-child-detention-centers-worry-advocates,https://perma.cc/BK4U-AYQC, 
+Arkansas,,,Dermott Youth Facility,,2,,,,,07/19,https://www.arkansasonline.com/news/2020/jul/19/filing-rips-operator-of-lockup-for-youths/, ,
+California,,Alameda,,1,0,Y,Y,Suspended,Educational packets,07/07,"Chief Probation Officer 
+Wendy Still",https://perma.cc/EVS7-6PMZ, 
+California,,Alameda,,0,0,Y,Y,Suspended,Virtual,04/02,"Chief Probation 
+Officer Wendy Still",https://perma.cc/HG26-UFHX, 
+California,,Los Angeles County,,40,54,,,Resuming ,,07/24,https://chronicleofsocialchange.org/top-stories/los-angeles-will-restart-family-visits-at-some-of-its-juvenile-probation-camps/45566,perma.cc/YL67-4FFG,"In-person family visits will now be available at the Afflerbaugh, Paige, Rockey and Kilpatrick juvenile camps, where visitors must get their temperature taken in a screening booth outside of the facility. No parent with a temperature over 100 degrees or those exhibiting COVID-19 symptoms will be permitted to enter."
+California,,Sacramento County,,1,,,,,,08/11,https://sacramento.cbslocal.com/2020/08/11/sacramento-county-juvenile-hall-youth-tests-positive/, ,
+California,,,Department of Juvenile Justice,64,15,,,Suspended,,8/16,"https://www.cdcr.ca.gov/juvenile-justice/
+https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/ https://www.vcstar.com/story/news/local/2020/07/30/coronavirus-cases-california-youth-prison-double-week/5548281002/
+
+https://www.laprogressive.com/guards-without-masks/",perma.cc/3UAL-6K4L,"staff includes people at: Northern California Youth Correctional 
 Center (NCYCC); OH Close Youth Correctional Facility
  (OH Close) - 12 youth; NA Chaderjian Youth Correctional 
 Facility (NAC) - 9 youth ; Ventura Youth Conservation Camp 
-- 6 youth ; Pine Grove Youth Conservation Camp - 0 youth"
-Colorado,NA,NA,Department of Youth Services,10,22,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://www.colorado.gov/pacific/cdhs/dys-covid-19-dashboard,https://perma.cc/4EN3-6B4D,NA
-Connecticut,NA,Hartford,NA,0,1,NA,Y,NA,NA,2020-03-25T00:00:00Z,https://ctmirror.org/2020/03/25/hartford-juvenile-detention-center-employee-second-doc-staffer-test-positive-for-covid-19/,perma.cc/NU2Y-WWZU,NA
-Connecticut,NA,NA,Manson Youth Institute,0,0,Y,Y,NA,NA,2020-06-29T00:00:00Z,https://www.courant.com/coronavirus/hc-news-coronavirus-doc-mass-testing-numbers-20200629-fdgou7ywpneknewyl32d4e3bxe-story.html,NA,NA
-Delaware,NA,NA,Ferris School,0,1,NA,NA,Suspended,NA,2020-03-31T00:00:00Z,https://kids.delaware.gov/news/pr/pr-20200330-dscyf-announces-positive-coronavirus-test-result-at-secure-facility.pdf,perma.cc/UP8H-786H,NA
-Delaware,NA,NA,"Stevenson House 
-Juvenile Detention",0,1,NA,NA,Suspended,NA,2020-03-31T00:00:00Z,https://kids.delaware.gov/news/pr/pr-20200331-dscyf-positive-coronavirus-test-result-stevenson-house.pdf,perma.cc/7MBT-5ALJ,NA
-Florida,NA,NA,"Boward Regional 
-Juvenile Detention Center",4,16,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/16/DJJ-COVID-UPDATE,https://perma.cc/6ASC-Z7R4,NA
-Florida,NA,NA,"Palm Beach Regional
-Juvenile Detention Center",0,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/FV9B-MD59,NA
-Florida,NA,NA,"Miami-Dade Regional Juvenile
- Detention Center",4,13,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/4GAG-YN7C,NA
-Florida,NA,NA,"Collier Regional Juvenile
- Detention Center",3,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/5FH2-HVSM,NA
-Florida,NA,NA,"Manatee Regional Juvenile 
-Detention Center",0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/3UX8-G4UZ,NA
-Florida,NA,NA,"Orange Regional Juvenile 
-Detention Center",3,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/EU2B-YQPS,NA
-Florida,NA,NA,"Pinellas Regional Juvenile 
-Detention Center",5,6,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/3RCR-EFUW,NA
-Florida,NA,NA,"Volusia Regional Juvenile 
-Detention Center",7,6,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/EY7X-F6KE,NA
-Florida,NA,NA,"St. Lucie Regional Juvenile
- Detention Center",2,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/D6EM-6X4U,NA
-Florida,NA,NA,"Leon Regional Juvenile 
-Detention Center",1,6,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/7ADK-HNX4,NA
-Florida,NA,NA,"Brevard Regional Juvenile 
-Detention Center",0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/9JAL-A9BL,NA
-Florida,NA,NA,"SWFL Regional Juvenile 
-Detention Center",2,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/Z4J2-A2QQ,NA
-Florida,NA,NA,"Duval Regional Juvenile 
-Detention Center",1,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/LJ2G-X7KH,NA
-Florida,NA,NA,"Broward Youth 
-Treatment Center",2,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/W3FF-CLWP,NA
-Florida,NA,NA,Columbus Youth Academy,1,6,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/W9TZ-ATD7,NA
-Florida,NA,NA,Crestview Youth Academy,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/8C2C-WX88,NA
-Florida,NA,NA,Miami Youth Academy,4,8,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/BRN6-UTS6,NA
-Florida,NA,NA,Miami Girls Academy,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/9CG3-MFRY,NA
-Florida,NA,NA,Dove Academy,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/GF39-VK5N,NA
-Florida,NA,NA,"Daytona Juvenile 
+- 41 adults -8 adults; Pine Grove Youth Conservation Camp - 0 youth "
+Colorado,,,Department of Youth Services,11,34,,,,,08/21,https://www.colorado.gov/pacific/cdhs/dys-covid-19-dashboard, ,
+Delaware,,,Ferris School,0,1,,,Suspended,,03/31,https://kids.delaware.gov/news/pr/pr-20200330-dscyf-announces-positive-coronavirus-test-result-at-secure-facility.pdf,perma.cc/UP8H-786H, 
+Delaware,,,"Stevenson House 
+Juvenile Detention",0,1,,,Suspended,,03/31,https://kids.delaware.gov/news/pr/pr-20200331-dscyf-positive-coronavirus-test-result-stevenson-house.pdf,perma.cc/7MBT-5ALJ, 
+Florida,,,"Boward Regional 
+Juvenile Detention Center",6,21,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/6ASC-Z7R4, 
+Florida,,,"Palm Beach Regional
+Juvenile Detention Center",1,7,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/FV9B-MD59, 
+Florida,,,"Miami-Dade Regional Juvenile
+ Detention Center",10,18,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/4GAG-YN7C, 
+Florida,,,"Collier Regional Juvenile
+ Detention Center",4,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/5FH2-HVSM, 
+Florida,,,"Manatee Regional Juvenile 
+Detention Center",1,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/3UX8-G4UZ, 
+Florida,,,"Orange Regional Juvenile 
+Detention Center",4,6,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/EU2B-YQPS, 
+Florida,,,"Pinellas Regional Juvenile 
+Detention Center",5,7,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/3RCR-EFUW, 
+Florida,,,"Volusia Regional Juvenile 
+Detention Center",7,6,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/EY7X-F6KE, 
+Florida,,,"St. Lucie Regional Juvenile
+ Detention Center",1,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/D6EM-6X4U, 
+Florida,,,"Leon Regional Juvenile 
+Detention Center",1,8,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/7ADK-HNX4, 
+Florida,,,"Brevard Regional Juvenile 
+Detention Center",0,4,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/9JAL-A9BL, 
+Florida,,,"SWFL Regional Juvenile 
+Detention Center",6,8,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/Z4J2-A2QQ, 
+Florida,,,"Duval Regional Juvenile 
+Detention Center",15,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/LJ2G-X7KH, 
+Florida,,,"Broward Youth 
+Treatment Center",4,4,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/W3FF-CLWP, 
+Florida,,,Columbus Youth Academy,1,6,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/W9TZ-ATD7, 
+Florida,,,Escambia Regional Juvenile Detention Center,0,8,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, , 
+Florida,,,Okaloosa Regional Juvenile Detention Center,0,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, , 
+Florida,,,Bay Regional Juvenile Detention Center,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Alachua Regional Juvenile Detention Center,0,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Crestview Youth Academy,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/8C2C-WX88, 
+Florida,,,Marion Regional Juvenial Detention Center,1,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Pasco Regional Juvenile Detention Center,0,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Miami Youth Academy,4,10,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/BRN6-UTS6, 
+Florida,,,Miami Girls Academy,0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/9CG3-MFRY, 
+Florida,,,Dove Academy,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/GF39-VK5N, 
+Florida,,,"Daytona Juvenile 
 Residential Facility
-",0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/2PSX-27WT,NA
-Florida,NA,NA,Palm Beach Youth Academy,21,14,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/PGN2-ZLL7,NA
-Florida,NA,NA,"Palm Beach Youth Academy
- Substance Abuse",10,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/P56C-BBTD,NA
-Florida,NA,NA,"Okeechobee Youth 
-Development Center",16,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/SUG8-Q3DY,NA
-Florida,NA,NA,"Okeechobee Youth 
-Treatment Center",0,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/9QNZ-V3Q6,NA
-Florida,NA,NA,Okeechobee Girls Academy,1,4,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/5YEM-EHD8,NA
-Florida,NA,NA,"Okeechobee Sex Offender 
-Facility",2,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/CR4L-UR3Q,NA
-Florida,NA,NA,Okeechobee JOCC Max Risk,17,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/6TWB-3RVY,NA
-Florida,NA,NA,"Okeechobee Intensive 
-Halfway House",0,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/U3SN-NARK,NA
-Florida,NA,NA,Oak Grove Academy,9,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/CB3M-PXS8,NA
-Florida,NA,NA,"Walton Academy for 
+",0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/2PSX-27WT, 
+Florida,,,Palm Beach Youth Academy,21,17,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/PGN2-ZLL7, 
+Florida,,,"Palm Beach Youth Academy
+ Substance Abuse",11,0,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/P56C-BBTD, 
+Florida,,,"Okeechobee Youth 
+Development Center",16,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/SUG8-Q3DY, 
+Florida,,,"Okeechobee Youth 
+Treatment Center",0,4,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/9QNZ-V3Q6, 
+Florida,,,Okeechobee Girls Academy,1,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/5YEM-EHD8, 
+Florida,,,"Okeechobee Sex Offender 
+Facility",2,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/CR4L-UR3Q, 
+Florida,,,Okeechobee JOCC Max Risk,17,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/6TWB-3RVY, 
+Florida,,,"Okeechobee Intensive 
+Halfway House",0,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/U3SN-NARK, 
+Florida,,,Oak Grove Academy,9,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/CB3M-PXS8, 
+Florida,,,"Walton Academy for 
 Growth and Change
-",0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/HP9D-FLGB,NA
-Florida,NA,NA,Escambia Boys Base,3,6,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/UJG2-LHVM,NA
-Florida,NA,NA,Kissimmee Youth Academy,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/FL8L-LD3B,NA
-Florida,NA,NA,Lake Academy,11,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/3TPR-85ZH,NA
-Florida,NA,NA,Redwood Youth Academy,16,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/45SZ-DQBY,NA
-Florida,NA,NA,Okaloosa Youth Academy,3,7,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/L5GU-45FP,NA
-Florida,NA,NA,Hillsborough Girls Academy,4,5,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/UG52-PSK5,NA
-Florida,NA,NA,Duval Academy,0,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/H33X-TM6M,NA
-Florida,NA,NA,"Pompano Youth 
-Treatment Center",2,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/4GM3-UGC8,NA
-Florida,NA,NA,"Cypress Creek 
-Treatment Center",1,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/D5SE-FXPE,NA
-Florida,NA,NA,Cypress Creek JOCC Max Risk,2,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/3MY5-L9N9,NA
-Florida,NA,NA,Marion Youth Academy,1,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/PN25-9U8Z,NA
-Florida,NA,NA,Orange Youth Academy,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/09/DJJ-UPDATES-COVID19,https://perma.cc/EK7H-3THU,NA
-Florida,NA,NA,Hope Forest Academy,0,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/16/DJJ-COVID-UPDATE,https://perma.cc/NZ5Q-53MJ,NA
-Florida,NA,NA,Joann Bridges Academy,0,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/16/DJJ-COVID-UPDATE,https://perma.cc/36EZ-V98F,NA
-Florida,NA,NA,"Juvenile Unit for Specialized 
-Treatment Program",1,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/16/DJJ-COVID-UPDATE,https://perma.cc/527N-YA85,NA
-Florida,NA,NA,"Hastings Comprehensive
- MH Treatment Program",0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/07/16/DJJ-COVID-UPDATE,https://perma.cc/P4ZP-56H8,NA
-Georgia,Midland,"Muscogee, Harris","Aaron Cohn Regional
- Youth Detention Center",1,3,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,https://perma.cc/YHY3-Z773,NA
-Georgia,Augusta,Richmond,"Augusta Regional Youth 
-Detention Center",0,1,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA4,NA
+",0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/HP9D-FLGB, 
+Florida,,,Escambia Boys Base,3,6,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/UJG2-LHVM, 
+Florida,,,Kissimmee Youth Academy,0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/FL8L-LD3B, 
+Florida,,,Lake Academy,11,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/3TPR-85ZH, 
+Florida,,,Redwood Youth Academy,16,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/45SZ-DQBY, 
+Florida,,,Okaloosa Youth Academy,23,21,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/L5GU-45FP, 
+Florida,,,Hillsborough Girls Academy,4,5,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/UG52-PSK5, 
+Florida,,,Duval Academy,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/H33X-TM6M, 
+Florida,,,"Pompano Youth 
+Treatment Center",13,9,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/4GM3-UGC8, 
+Florida,,,"Cypress Creek 
+Treatment Center",7,7,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/D5SE-FXPE, 
+Florida,,,Cypress Creek JOCC Max Risk,17,6,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/3MY5-L9N9, 
+Florida,,,Marion Youth Academy,4,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/PN25-9U8Z, 
+Florida,,,Orange Youth Academy,0,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE,https://perma.cc/EK7H-3THU, 
+Florida,,,Hope Forest Academy,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Joann Bridges Academy,0,4,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Juvenile Unit for Specialized Treatment Program,1,0,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Hastings Comprehensive MH Treatment Program,0,3,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,St Johns Youth Academy,26,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,"Center for Success and 
+Independence-Ocala",20,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,"Center for Success and 
+Independence SA",20,17,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Brooksville Academy,7,9,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Les Peters Academy,0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,"Melbourne Center for
+ Personal Growth",0,2,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Tampa Residential Facility,1,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Central Pasco Girls Academy,0,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Florida,,,Bartow Youth Academy,2,1,,,,,08/30,http://www.djj.state.fl.us/news/press-releases/press-release-detail/2020/08/13/DJJ-COVID-UPDATE, ,
+Georgia,Midland,"Muscogee, Harris",Aaron Cohn Regional Youth Detention Center,1,4,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,https://perma.cc/YHY3-Z773, 
+Georgia,Augusta,Richmond ,"Augusta Regional Youth 
+Detention Center",0,4,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA4, 
 Georgia,Rome,Floyd,"Bob Richards Regional
-Youth Detention Center",0,2,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA6,NA
+Youth Detention Center",0,4,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA6, 
 Georgia,Cadwell,Laurens,"Cadwell Regional Youth
-Detention Center",0,1,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA7,NA
+Detention Center",0,1,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA7, 
 Georgia,Claxton,Evans,"Claxton Regional Youth
-Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA8,NA
+Detention Center",0,0,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA8, 
 Georgia,Cordele,Crisp,"Crisp Regional Youth
-Detention Center",0,6,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA9,NA
-Georgia,Decatur,DeKalb,"DeKalb Regional Youth
-Detention Center",0,2,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA10,NA
+Detention Center",0,6,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA9, 
+Georgia,Decatur ,DeKalb ,"DeKalb Regional Youth
+Detention Center",3,4,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA10, 
 Georgia,Dalton,Whitfield,"Elbert Shaw Regional
-Youth Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA11,NA
-Georgia,Gainesville,Hall,"Gainesville Regional 
-Youth Detention Center",5,1,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA12,NA
+Youth Detention Center",0,2,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA11, 
+Georgia,Gainesville,Hall ,"Gainesville Regional 
+Youth Detention Center",5,6,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA12, 
 Georgia,Thomasville,Thomas,"Loftiss Regional
-Youth Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA13,NA
+Youth Detention Center",0,2,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA13, 
 Georgia,Macon,Bibb,"Macon Regional Youth
-Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA14,NA
+Detention Center",0,3,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA14, 
 Georgia,Marietta,Cobb,"Marietta Regional 
-Youth Detention Center",2,9,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA15,NA
+Youth Detention Center",2,12,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA15, 
 Georgia,Hampton,Lovejoy,"Martha Glaze Regional
-Youth Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA16,NA
-Georgia,Atlanta,DeKalb,"Metro Regional Youth
-Detention Center",31,11,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA17,NA
+Youth Detention Center",0,4,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA16, 
+Georgia,Atlanta,DeKalb ,"Metro Regional Youth
+Detention Center",28,15,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA17, 
 Georgia,Conyers,Rockdale,"Rockdale Regional
-Youth Detention Center",12,9,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA18,NA
+Youth Detention Center",12,12,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA18, 
 Georgia,Savannah,Chatham,"Savannah Regional
-Youth Detention Center",0,1,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA19,NA
+Youth Detention Center",0,3,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA19, 
 Georgia,Dawson,Terrell,"Terrell Regional Youth
-Detention Center",0,6,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA20,NA
+Detention Center",0,7,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA20, 
 Georgia,Waycross,Ware,"Waycross Regional
-Youth Detention Center",3,4,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA21,NA
+Youth Detention Center",4,6,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA21, 
 Georgia,Washington,Wilkes,"Wilkes Regional Youth
-Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA22,NA
-Georgia,Atlanta,DeKalb,"Atlanta Youth Detention 
-Center",12,7,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA23,NA
-Georgia,Augusta,Richmond,"Augusta Youth 
-Detention Center",0,2,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA24,NA
+Detention Center",0,1,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA22, 
+Georgia,Atlanta,DeKalb ,"Atlanta Youth Detention 
+Center",13,7,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA23, 
+Georgia,Augusta,Richmond ,"Augusta Youth 
+Detention Center",2,16,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA24, 
 Georgia,Eastman,Dodge,"Eastman Youth 
-Detention Center",0,4,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA26,NA
+Detention Center",5,7,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA26, 
 Georgia,Macon,Bibb,"Macon Youth
-Detention Center",0,4,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA27,NA
+Detention Center",0,8,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA27, 
 Georgia,Milledgeville,Baldwin,"Milledgeville Youth
-Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA28,NA
+Detention Center",1,7,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA28, 
 Georgia,Midland,Harris,"Muscogee Youth
-Detention Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA29,NA
+Detention Center",0,1,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-08-12/covid-19-case-update,perma.cc/8FWK-TXA29, 
 Georgia,Americus,Sumter,"Sumter Youth Detention
-Center",0,0,NA,NA,NA,NA,2020-07-22T00:00:00Z,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA29,NA
-Idaho,NA,NA,NA,NA,1,NA,NA,NA,NA,2020-07-02T00:00:00Z,https://www.idahostatesman.com/news/coronavirus/article243923357.html,NA,NA
-Illinois,Chicago,Cook,NA,2,8,NA,NA,"Suspended, Adapted","Educational Packets, Virtual",2020-07-21T00:00:00Z,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH,NA
-Illinois,Harrisburg,Saline,NA,0,1,NA,NA,NA,NA,2020-07-21T00:00:00Z,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH,NA
-Illinois,Pere Marquette,Jersey,NA,0,0,NA,NA,NA,NA,2020-07-21T00:00:00Z,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH,NA
-Illinois,St. Charles,DuPage and Kane,NA,3,21,NA,NA,NA,NA,2020-07-21T00:00:00Z,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH,NA
-Illinois,Warrenville,DuPage,NA,0,3,NA,NA,NA,NA,2020-07-21T00:00:00Z,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH,NA
-Illinois,NA,NA,Illinois Youth Center,16,3,NA,NA,NA,NA,2020-07-23T00:00:00Z,https://patch.com/illinois/stcharles-il/19-coronavirus-cases-illinois-juvenile-detention-center,https://perma.cc/3BWJ-QAMD,NA
-Louisiana,NA,Avoyelles Parish,"Acadiana Center 
-for Youth",1,8,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
-Louisiana,NA,Jefferson Parish,"Bridge City Center for 
-Youth",10,21,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
-Louisiana,NA,Ouachita Parish,"Swanson Center for 
-Youth in Monroe",6,25,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
-Louisiana,NA,Caldwell Parish,"Swanson Center for 
-Youth in Columbia",12,11,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
-Maine,NA,NA,"Long Creek Youth 
-Development Center",1,0,Y,Y,NA,NA,2020-06-29T00:00:00Z,https://mainebeacon.com/advocates-renew-call-to-empty-long-creek-after-16-year-old-contracts-covid/,https://perma.cc/2Z4U-XXWB,NA
-Maine,NA,NA,NA,1,NA,NA,NA,NA,NA,2020-07-17T00:00:00Z,https://www.maine.gov/corrections/home/MDOC%20COVID19WebDashboard7-17-2020.pdf,https://perma.cc/DW6X-S6PZ,NA
-Maryland,NA,NA,"Baltimore City 
-Juvenile Justice Center",5,18,Y,Y,NA,Virtual,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,perma.cc/SY5R-QXFC;  perma.cc/994A-GKQD,NA
-Maryland,NA,NA,Cheltenham Youth Detention Center,2,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Hickey School,0,2,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,"Lower Eastern Shores 
-Children's Center",1,3,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Cartern Center,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Noyes Center,1,4,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Waxter Center,0,2,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Western Maryland Children's Center,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Backbone Youth Center,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Mountain View,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Green Ridge Youth Center,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Meadow Mountain Youth Center,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Garrett,0,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Victor Cullen Center,0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,Abraxas Academy (PA),0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-COVID-Summary-Private-Providers-07172020.pdf,404 - Page Not Found,NA
-Maryland,NA,NA,"Arrow Child and Family 
-Ministries of Maryland, Inc.
- - Diagnostic Center",2,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Arc of Washington County, Inc.",0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Chesapeake Treatment Center 
-(The Right Moves/New Directions)",2,2,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Childrens Home, Inc.",0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,George Republic (PA),0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"UHS of Delaware, Inc. -
- Harbor Point (VA)",5,6,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Laurel Oaks (AL),0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Sandy Pines (FL),2,7,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Sequel - Mingus 
-Mountain Academy (AZ)",76,21,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Sequel - Woodward 
-Youth Academy (IA)",18,16,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Sheppard Pratt,14,,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Silver Oak Academy,27,18,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Summit School Inc. (PA),20,18,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"The Board of Child Care
- Eastern Shore (Denton)",0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"The Board of Child Care Main 
-Campus (Baltimore County)",1,18,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Board of Child Care Baltimore- 
-Treatment Foster Care",1,0,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"The Board of Child Care - Independent 
-Living Program (Balt. Co)",0,3,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"The Jefferson School and 
-Residential Treatment Center",0,1,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,"Woodbourne Center, Inc.",0,4,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Maryland,NA,NA,Wolverine Secure Treatment Center (MI),21,2,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://djs.maryland.gov/Documents/COVID-19/MD-DJS-Daily-Report-2-COVID-Summary-07172020.pdf,404 - Page Not Found,"DJS & non-DJS 
-facilities"
-Massachusetts,NA,NA,Department of Youth Services,3,4,NA,NA,NA,NA,2020-04-02T00:00:00Z,https://www.wbur.org/news/2020/04/02/massachusetts-youth-detention-covid-19-coronavirus,https://perma.cc/M6RG-MPRT,"3 staff cases and 3 youth cases in Suffolk County
+Center",0,0,,,,,8/31,https://djj.georgia.gov/news-cloned/2020-06-08/covid-19-case-update,perma.cc/8FWK-TXA29, 
+Idaho,,,,,1,,,,,7/2,https://www.idahostatesman.com/news/coronavirus/article243923357.html,,
+Idaho,,Treasure Valley Area,,1,,,,,,8/6,https://idahonews.com/news/coronavirus/idjc-reports-positive-covid-19-case-in-treasure-valley-reintegration-program,,
+Illinois,Chicago ,Cook,,2,8,,,"Suspended, Adapted","Educational Packets, Virtual",08/18,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH, 
+Illinois,Harrisburg,Saline,,0,2,,,,,08/18,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH, 
+Illinois,Pere Marquette,Jersey,,1,6,,,,,08/18,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH, 
+Illinois,St. Charles,DuPage and Kane,,13,28,,,,,08/18,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH, 
+Illinois,Warrenville,DuPage,,0,4,,,,,08/18,https://www2.illinois.gov/idjj/Pages/COVID19.aspx,https://perma.cc/7L82-63RH, 
+Illinois,,,Illinois Youth Center,16,3,,,,,07/23,https://patch.com/illinois/stcharles-il/19-coronavirus-cases-illinois-juvenile-detention-center, , 
+Iowa,,,Eldora Boys State Training School,12,5,,,,,07/28,https://www.adelnews.com/news/20200728/officials-virus-outbreak-hits-iowa-boys-detention-center, ,
+Louisiana,,Avoyelles Parish,"Acadiana Center 
+for Youth ",1,9,Y,Y,,,8/26,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
+Louisiana,,Jefferson Parish,"Bridge City Center for 
+Youth",10,22,Y,Y,,,8/26,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
+Louisiana,,Ouachita Parish,"Swanson Center for 
+Youth in Monroe",6,33,Y,Y,,,8/26,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
+Louisiana,,Caldwell Parish ,"Swanson Center for 
+Youth in Columbia",12,14,Y,Y,,,8/26,https://ojj.la.gov/ojj-covid-19-information/,https://perma.cc/DGZ2-XZDK,Their website is updated daily at 11:00am
+Maine,,,Long Creek Youth Development Center,1,0,Y,Y,,,6/29,https://mainebeacon.com/advocates-renew-call-to-empty-long-creek-after-16-year-old-contracts-covid/,https://perma.cc/2Z4U-XXWB,
+Maine,,,,1,,,,,,9/1,https://www.maine.gov/corrections/home/MDOC%20COVID19WebDashboard7-17-2020.pdf,https://perma.cc/DW6X-S6PZ,
+Massachusetts,,,Department of Youth Services,3,4,,,,,4/2,https://www.wbur.org/news/2020/04/02/massachusetts-youth-detention-covid-19-coronavirus,https://perma.cc/M6RG-MPRT,"3 staff cases and 3 youth cases in Suffolk County
 1 staff case in Western Mass"
-Michigan,NA,Kent,NA,2,3,NA,NA,NA,NA,2020-04-07T00:00:00Z,NA,NA,NA
-Michigan,Kalamazoo,NA,Lakeside Academy,40,9,NA,NA,NA,NA,2020-06-22T00:00:00Z,https://www.metrotimes.com/news-hits/archives/2020/06/22/black-teen-died-after-screaming-i-cant-breathe-while-restrained-at-a-for-profit-youth-center-in-kalamazoo-lawsuit-states,https://perma.cc/8TZJ-YJLP,NA
-Missouri,Fulton,NA,Fulton Youth Treatment Center,1,0,Y,NA,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/2YNT-4SRD,NA
-Missouri,Hillsboro,NA,Hillsboro Treatment Center,0,1,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/63MQ-597K,NA
-Missouri,St. Louis,NA,Hogan St Youth Center,23,15,y,Y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/77BE-63JK,NA
-Missouri,St. Louis,NA,Missouri Hills Youth Center,9,6,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/D4B7-PXDX,NA
-Missouri,Montgomery City,NA,Montgomery City Youth Center,6,2,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/LVP3-R3Y9,NA
-Missouri,Mount Vernon,NA,Mount Vernon Treatment Center,0,1,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/3JWV-NZAK,NA
-Missouri,Kansas City,NA,Northwest Regional Youth Center,3,2,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/X5HR-RUN9,NA
-Missouri,Wavery,NA,Waverly Youth Center,5,3,y,y,NA,NA,2020-07-17T00:00:00Z,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/LYG9-Q4HG,NA
-Nebraska,NA,NA,Youth Treatment and Rehabilitation Center-Kearney,3,6,NA,NA,NA,NA,2020-06-02T00:00:00Z,https://www.omaha.com/livewellnebraska/11-employees-and-1-patient-test-positive-for-covid-19-at-lincoln-regional-center/article_b5c166fc-1db9-5ae0-b6c4-180708ec187c.html,https://perma.cc/2QWJ-7C56,Happened in April
-Nebraska,NA,Douglas County Youth Center,NA,0,1,NA,NA,NA,NA,2020-05-27T00:00:00Z,https://www.usnews.com/news/best-states/nebraska/articles/2020-05-27/number-of-cases-at-nebraska-prisons-detention-centers-rise,https://drive.google.com/file/d/16QdmvNGwrfVGtgmdqLUMmIbnxDz0VYUE/view?usp=sharing,NA
-New Jersey,NA,NA,NA,29,39,Y,Y,Suspended (Video),Virtual,2020-07-07T00:00:00Z,https://www.nj.gov/oag/jjc/covid19-facilities.html,https://perma.cc/J668-XWMF,Numbers may overlap with information from Burlington and Middlesex Counties
-New Mexico,Albuquerque,NA,"Youth Diagnostic and 
-Development Center",0,1,Y,Y,NA,NA,2020-06-12T00:00:00Z,https://nmpoliticalreport.com/2020/06/12/cyfd-staff-at-youth-detention-center-tests-positive-for-covid-19/,https://perma.cc/L9V3-W36H,NA
-New Mexico,NA,NA,Bernalillo County Youth Services Center,1,NA,NA,NA,NA,NA,2020-07-14T00:00:00Z,https://nmpoliticalreport.com/2020/07/18/detainee-at-bernalillo-county-youth-detention-center-tests-positive-for-covid-19/,https://perma.cc/7S7U-ZXYG,NA
-New York,NA,Kings,NA,0,35,Y,NA,NA,Suspended,2020-05-28T00:00:00Z,https://jjie.org/2020/05/28/byzantine-system-for-youth-detention-facilities-in-viral-chaos/ for updated staff infections,https://perma.cc/TM53-CQ38; https://perma.cc/P4YB-462Z; https://perma.cc/F5LC-5MHD,first death 4/10
-New York,NA,Bronx,NA,3,1,Y,NA,Suspended,NA,2020-04-10T00:00:00Z,"https://thecity.nyc/2020/03/juvenile-detention-staff-test-positive-but-no-kids-sprung.html
- https://thecity.nyc/2020/03/teens-sue-to-exit-detention-centers-as-coronavirus-closes-in.htmlhttps://thecity.nyc/2020/04/covid-staff-death-rocks-juvenile-center-for-virus-free-youth.html",https://perma.cc/ZM4Z-JHL5,NA
-North Carolina,NA,NA,NA,0,4,O,O,NA,NA,2020-07-02T00:00:00Z,https://www.charlotteobserver.com/news/article243969897.html,https://perma.cc/XH8V-GSGL,includes 4 youth development centers & 7 juvenile detention centers
-North Carolina,NA,NA,Edgecomb Youth Development Center,0,1,Y,Y,Suspended,NA,2020-06-10T00:00:00Z,https://jjie.org/2020/06/10/nc-emergency-petition-on-protecting-inmates-from-coronavirus-advances/,https://perma.cc/M9WV-37Z7,NA
-North Carolina,NA,NA,Stonewall Jackson Youth Development Center,0,1,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://www.newsobserver.com/news/local/crime/article244475307.html,https://drive.google.com/file/d/1OofcrXcw8JkWplAl91ozEd5vn5IXj11n/view?usp=sharing,NA
-North Carolina,NA,Greenville,Pit Juvenile Detention Center,1,0,Y,Y,NA,NA,2020-07-24T00:00:00Z,https://www.newsobserver.com/news/local/crime/article244475307.html,https://drive.google.com/file/d/1OofcrXcw8JkWplAl91ozEd5vn5IXj11n/view?usp=sharing,NA
-Ohio,NA,Clark,"Clark County Juvenile
- Detention Center",1,4,Y,Y,NA,NA,2020-05-29T00:00:00Z,https://www.springfieldnewssun.com/news/local/coronavirus-juvenile-four-employees-test-positive-clark-county-juvenile-detention-center/GH9OmHe5T8l2G7wACqnKFI/,https://perma.cc/FHK2-9RPX,NA
-Ohio,NA,Franklin,NA,1,0,NA,NA,NA,NA,2020-04-22T00:00:00Z,https://abc6onyourside.com/news/coronavirus/ohio-governor-mike-dewine-first-minor-in-juvenile-correction-facility-has-tested-positive-for-covid-19,https://perma.cc/VB2K-6RTD; https://perma.cc/FY9Z-4AXA,NA
-Ohio,NA,Cuyahoga,"Cuyahoga Hills Juvenile
- Correctional Facility",28,16,y,y,Limited,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/VB2K-6RTD; https://perma.cc/FY9Z-4AXA,NA
-Ohio,NA,NA,"Circleville Juvenile 
-Correctional Facility",0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/28T2-5ZVH,NA
-Ohio,NA,NA,"Indian River Juvenile 
-Correctional Facility",1,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/G9NH-B4T6,NA
-Ohio,NA,NA,Center for Adolescent Services,3,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/QKM5-FSD2,NA
-Ohio,NA,NA,Paint Creek Youth Center,0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/K5C2-38XX,NA
-Ohio,NA,NA,Applewood,0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/R9EJ-DF4G,NA
-Ohio,NA,NA,Buckeye Ranch,0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/Z3UN-HF6F,NA
-Ohio,NA,NA,Oesterlen,0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/JN6Y-83LS,NA
-Ohio,NA,NA,CCF Step Down,0,0,y,y,NA,NA,2020-07-17T00:00:00Z,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/469Y-G37Y,NA
-South Carolina,NA,NA,Broad River Road Complex,0,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/73UV-X22W,NA
-South Carolina,NA,NA,Coastal Evaluation Center,0,2,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/CL5R-NYRW,NA
-South Carolina,NA,NA,Midlands Evaluation Center,1,7,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/W2VU-DATY,NA
-South Carolina,NA,NA,Upstate Evaluation Center,0,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/MW4D-222D,NA
-South Carolina,NA,NA,Juvenile Detention Center,4,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/C9CL-6295,NA
-South Carolina,Richland,NA,Camp Aspen,0,8,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/XFG8-XTEG,NA
-South Carolina,Aiken,NA,Youth Development Center,0,3,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/KGJ5-66BS,NA
-South Carolina,Laurens,NA,Piedmont Wilderness Institute,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/3WQT-L3V2,NA
-South Carolina,Union,NA,Camp White Pines 1 & 2,0,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/M25J-BBWF,NA
-South Carolina,Greenville,NA,Generations Bridges & Horizons,0,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/5PTE-P3YZ,NA
-South Carolina,Beaufort,NA,Beaufort Marine Institute,0,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/UGV5-9AMG,NA
-South Carolina,Georgetown,NA,Georgetown Marine Institute,0,1,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/XSC4-JWG9,NA
-South Carolina,Marlboro,NA,Camp Bennettsville,0,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/EE7S-NNK3,NA
-South Carolina,Chesterfield,NA,Camp Sand Hills,0,0,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/4JM7-KHV5,NA
-South Carolina,NA,NA,"Other Community-Based 
-Residential Facilities",2,NA,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/CT2D-JENY,NA
-South Carolina,NA,NA,NA,NA,NA,NA,NA,NA,NA,2020-07-16T00:00:00Z,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/C4EX-CT56,NA
-Tennessee,NA,statewide,Tennessee Department of Children's Services Sites,164,?,NA,NA,NA,NA,2020-06-29T00:00:00Z,https://www.timesfreepress.com/news/local/story/2020/jun/29/covid-19-cases-spike-tennessee-department-chi/526452/,https://perma.cc/UH7L-T3M3,"youth cases include youth at 
+Maryland,,,"Baltimore City 
+Juvenile Justice Center",8,32,Y,Y,,Virtual,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf,perma.cc/SY5R-QXFC;  perma.cc/994A-GKQD,
+Maryland,,,Cheltenham Youth Detention Center,4,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Hickey School ,0,6,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Lower Eastern Shores Children's Center,1,3,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Cartern Center ,0,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Noyes Center,1,5,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Waxter Center,1,15,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Western Maryland Children's Center,0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Backbone Youth Center,0,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Mountain View,0,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Green Ridge Youth Center,1,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Meadow Mountain Youth Center,0,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Garrett,0,0,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Victor Cullen Center,0,8,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-09/MD-DJS-Daily-Report-2-COVID-Summary-09012020.pdf, ,
+Maryland,,,Abraxas Academy (PA),0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,
+Maryland,,,"Arrow Child and Family Ministries of Maryland, Inc. - Diagnostic Center",2,4,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,"Arc of Washington County, Inc. ",0,2,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Chesapeake Treatment Center (The Right Moves/New Directions),2,2,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf,  ,DJS & non-DJS facilities
+Maryland,,,"Childrens Home, Inc. ",0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,George Republic (PA),0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,"UHS of Delaware, Inc. - Harbor Point (VA)",52,41,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Laurel Oaks (AL),6,5,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Sandy Pines (FL),28,9,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Sequel - Mingus Mountain Academy (AZ),76,21,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Sequel - Woodward Youth Academy (IA) ,36,21,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Sheppard Pratt ,15,11,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Silver Oak Academy ,27,20,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Summit School Inc. (PA),33,21,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,The Board of Child Care Eastern Shore (Denton),0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,The Board of Child Care Main Campus (Baltimore County),1,21,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Board of Child Care Baltimore- Treatment Foster Care,1,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,The Board of Child Care - Independent Living Program (Balt. Co),0,3,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,The Jefferson School and Residential Treatment Center,0,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,"UHS of Delaware Inc. 
+‐ Natchez Trace Youth Academy (TN)",0,2,,,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,
+Maryland,,,"Woodbourne Center, Inc.",2,7,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Wolverine Secure Treatment Center (MI),21,2,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,DJS & non-DJS facilities
+Maryland,,,Regional Institute for Children & Adolescents ‐ Baltimore1,1,1,Y,Y,,,09/01,https://djs.maryland.gov/Documents/COVID-19/2020-08/MD-DJS-Daily-Report-COVID-Summary-Contract-Providers-08312020.pdf, ,
+Michigan,,Kent,,2,3,,,,,09/01,,,
+Michigan,Kalamazoo,,Lakeside Academy,40,9,,,,,06/22,https://www.metrotimes.com/news-hits/archives/2020/06/22/black-teen-died-after-screaming-i-cant-breathe-while-restrained-at-a-for-profit-youth-center-in-kalamazoo-lawsuit-states,https://perma.cc/8TZJ-YJLP,
+Mississippi,,Hinds,Henley-Young Juvenile Justice Center,5,3,,,,,07/15,https://www.wapt.com/article/man-44-without-preexisting-conditions-battles-covid-19-for-weeks-in-hospital/33486711,,
+Missouri,Fulton,,Fulton Youth Treatment Center,1,0,Y,,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/2YNT-4SRD,
+Missouri,Cabool ,,Gentry Residential Treatment Center,1,1,,,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/63MQ-597K,
+Missouri,Columbia,,Cornerstone Youth Treatment Center,0,1,,,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/77BE-63JK,
+Missouri,Hillsboro,,Hillsboro Treatment Center,0,3,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/D4B7-PXDX,
+Missouri,St. Louis,,Hogan St Youth Center,23,15,y,Y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/LVP3-R3Y9,
+Missouri,St. Louis,,Missouri Hills Youth Center,9,7,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/3JWV-NZAK,
+Missouri,Montgomery City,,Montgomery City Youth Center,6,2,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/X5HR-RUN9,
+Missouri,Mount Vernon,,Mount Vernon Treatment Center,0,1,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/LYG9-Q4HG,
+Missouri,Kansas City,,Northwest Regional Youth Center,3,2,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/2QWJ-7C56,
+Missouri,Wavery,,Waverly Youth Center,6,4,y,y,,,09/01,https://dss.mo.gov/covid-19/dys-res-centers/index.htm,https://perma.cc/2QWJ-7C56,
+Nebraska,,,Youth Treatment and Rehabilitation Center-Kearney,3,6,,,,,6/2,https://www.omaha.com/livewellnebraska/11-employees-and-1-patient-test-positive-for-covid-19-at-lincoln-regional-center/article_b5c166fc-1db9-5ae0-b6c4-180708ec187c.html,,Happened in April
+Nebraska,,Douglas County Youth Center,,,8,,,,,8/10,https://www.3newsnow.com/news/coronavirus/coronavirus-case-updates-august-10,,
+Nebraska ,,,Nebraska Correctional Youth Facility,0,0,,,,,8/28,https://corrections.nebraska.gov/ndcs-coronavirus-health-update,,
+New Jersey,,,Residential Community Homes,8,15,Y,Y,Suspended (Video),Virtual,09/01,https://www.nj.gov/oag/jjc/covid19-facilities.html,https://perma.cc/J668-XWMF,
+New Jersey,,,The New Jersey Training School,21,15,Y,Y,,,09/01,https://www.nj.gov/oag/jjc/covid19-facilities.html,https://perma.cc/L9V3-W36H,
+New Jersey,,,"The Johnstone Campus
+ (Juvenile Medium Security Facility & 
+The Female Secure Care and Intake Facility)        ",0,24,Y,Y,,,09/01,https://www.nj.gov/oag/jjc/covid19-facilities.html,https://perma.cc/7S7U-ZXYG,
+New Jersey,,,"""Other Staff who may have contact
+with youth""",,3,,,,,09/01,https://www.nj.gov/oag/jjc/covid19-facilities.html, ,
+New Mexico,Albuquerque,,"Youth Diagnostic and 
+Development Center",0,1,Y,Y,,,06/12,https://nmpoliticalreport.com/2020/06/12/cyfd-staff-at-youth-detention-center-tests-positive-for-covid-19/,https://perma.cc/L9V3-W36H,
+New Mexico,,,Bernalillo County Youth Services Center,1,,,,,,07/14,https://nmpoliticalreport.com/2020/07/18/detainee-at-bernalillo-county-youth-detention-center-tests-positive-for-covid-19/,,
+New Mexico,,,Lea Couny Juvenile Detention Center,3,3,,,,,08/02,https://www.santafenewmexican.com/opinion/my_view/incarcerated-young-people-are-at-risk/article_5d7713ba-d361-11ea-b5ff-b3ea935e5a8d.html,,
+New York,,Bronx,,3,1,Y,,Suspended,,04/10,"https://thecity.nyc/2020/03/juvenile-detention-staff-test-positive-but-no-kids-sprung.html
+ https://thecity.nyc/2020/03/teens-sue-to-exit-detention-centers-as-coronavirus-closes-in.htmlhttps://thecity.nyc/2020/04/covid-staff-death-rocks-juvenile-center-for-virus-free-youth.html",https://perma.cc/ZM4Z-JHL5,
+New York,,Kings,,0,35,Y,,,Suspended,05/28,https://jjie.org/2020/05/28/byzantine-system-for-youth-detention-facilities-in-viral-chaos/ for updated staff infections,https://perma.cc/TM53-CQ38; https://perma.cc/P4YB-462Z; https://perma.cc/F5LC-5MHD,first death 4/10
+North Carolina,,,,0,4,O,O,,,07/02,https://www.charlotteobserver.com/news/article243969897.html,https://perma.cc/XH8V-GSGL,includes 4 youth development centers & 7 juvenile detention centers
+North Carolina,,,Edgecomb Youth Development Center,0,1,Y,Y,Suspended,,06/10,https://jjie.org/2020/06/10/nc-emergency-petition-on-protecting-inmates-from-coronavirus-advances/,https://perma.cc/M9WV-37Z7,
+North Carolina,,,Stonewall Jackson Youth Development Center,0,1,Y,Y,,,07/24,https://www.newsobserver.com/news/local/crime/article244475307.html, ,
+North Carolina,,Greenville, Pit Juvenile Detention Center,1,0,Y,Y,,,07/24,https://www.newsobserver.com/news/local/crime/article244475307.html, ,
+Ohio,,Clark,Clark County Juvenile Detention Center,1,4,Y,Y,,,5/29,https://www.springfieldnewssun.com/news/local/coronavirus-juvenile-four-employees-test-positive-clark-county-juvenile-detention-center/GH9OmHe5T8l2G7wACqnKFI/,https://perma.cc/FHK2-9RPX,
+Ohio,,Franklin,,1,0,,,,,04/22,https://abc6onyourside.com/news/coronavirus/ohio-governor-mike-dewine-first-minor-in-juvenile-correction-facility-has-tested-positive-for-covid-19,https://perma.cc/VB2K-6RTD; https://perma.cc/FY9Z-4AXA,
+Ohio,,Cuyahoga,Cuyahoga Hills Juvenile Correctional Facility,0,19,y,y,Limited ,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/28T2-5ZVH, 
+Ohio,,,Circleville Juvenile Correctional Facility,0,3,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/G9NH-B4T6,
+Ohio,,,Indian River Juvenile Correctional Facility,1,3,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/QKM5-FSD2,
+Ohio,,,Center for Adolescent Services,3,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/K5C2-38XX,
+Ohio,,,Paint Creek Youth Center,0,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/R9EJ-DF4G,
+Ohio,,,Applewood,0,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/Z3UN-HF6F,
+Ohio,,,Buckeye Ranch,0,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/JN6Y-83LS,
+Ohio,,,Oesterlen,0,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/469Y-G37Y,
+Ohio,,,CCF Step Down,0,0,y,y,,,09/01,https://coronavirus.ohio.gov/static/reports/DYSCOVID-19Report.pdf,https://perma.cc/JN6Y-83LS,
+South Carolina,,,Broad River Road Complex,9,7,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/73UV-X22W,
+South Carolina,,,Coastal Evaluation Center,0,2,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/CL5R-NYRW,
+South Carolina,,,Midlands Evaluation Center,12,12,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/W2VU-DATY,
+South Carolina,,,Upstate Evaluation Center,0,7,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/MW4D-222D,
+South Carolina,,,Juvenile Detention Center,4,4,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/C9CL-6295,
+South Carolina,Richland,,Camp Aspen,0,1,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/XFG8-XTEG,
+South Carolina,Aiken,,Youth Development Center,3,1,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/KGJ5-66BS,
+South Carolina,Laurens,,Piedmont Wilderness Institute,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/3WQT-L3V2,
+South Carolina,Union,,Camp White Pines 1 & 2,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/M25J-BBWF,
+South Carolina,Greenville,,Generations Bridges & Horizons,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/5PTE-P3YZ,
+South Carolina,Beaufort,,Beaufort Marine Institute,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/UGV5-9AMG,
+South Carolina,Georgetown,,Georgetown Marine Institute,1,1,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/XSC4-JWG9,
+South Carolina,Marlboro,,Camp Bennettsville,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/EE7S-NNK3,
+South Carolina,Chesterfield,,Camp Sand Hills,0,0,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/4JM7-KHV5,
+South Carolina,,,Other Community-Based Residential Facilities,2,,,,,,09/01,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/CT2D-JENY,
+South Carolina,,,,,,,,,,07/16,https://djj.sc.gov/Confirmed_COVID-19_Cases,https://perma.cc/C4EX-CT56,
+Tennessee,,statewide,Tennessee Department of Children's Services Sites,164,?,,,,,06/29,https://www.timesfreepress.com/news/local/story/2020/jun/29/covid-19-cases-spike-tennessee-department-chi/526452/,,"youth cases include youth at 
 county juvenile detention centers licensed 
 by DCS, in 49 residential facilities privately 
 operated by DCS contractors and at Wilder 
 Youth Development Center in Fayette County"
-Texas,NA,Harris,"Harris County
+Texas,,Harris,"Harris County
 Juvenile Detention
-Center",1,0,NA,NA,NA,NA,2020-04-22T00:00:00Z,https://hcjpd.harriscountytx.gov/Pages/default.aspxhttps://www.essence.com/news/juvenile-justice-covid-19-coronavirus/,https://perma.cc/2944-VHXQ; https://perma.cc/EP7E-N7UB,NA
-Texas,NA,Randall,"Youth Center of the High 
-Plains",0,0,NA,NA,"Suspended, Adapted",NA,2020-06-11T00:00:00Z,https://abc7amarillo.com/news/local/youth-center-of-the-high-plains-has-seen-fewer-referrals-during-pandemic,https://perma.cc/L6NB-5S27,NA
-Texas,Edinburg,NA,"Evins Regional
- Juvenile Center",23,49,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://www.brownwoodnews.com/2020/07/15/update-on-covid-19-at-tjjd-facilities-including-brownwood-2/,https://perma.cc/99GB-5VZ5,NA
-Texas,Willis,NA,Karyn’s House,0,4,Y,Y,NA,NA,2020-06-28T00:00:00Z,https://www.tjjd.texas.gov/index.php/doc-library/send/625-2020/2370-press-release-62820-update%E2%80%9D%20target=,https://perma.cc/99GB-5VZ5,NA
-Texas,NA,NA,"Giddings State 
- School",74,36,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://www.brownwoodnews.com/2020/07/15/update-on-covid-19-at-tjjd-facilities-including-brownwood-2/,https://perma.cc/99GB-5VZ5,NA
-Texas,Mart,NA,"McLennan County State
-  Juvenile Correctional Facility",31,9,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://www.brownwoodnews.com/2020/07/15/update-on-covid-19-at-tjjd-facilities-including-brownwood-2/,https://perma.cc/99GB-5VZ5,NA
-Texas,Brownwood,NA,"Ron Jackson State 
+Center",1,0,,,,,04/22,"https://hcjpd.harriscountytx.gov/Pages/default.aspx 
+
+https://www.essence.com/news/juvenile-justice-covid-19-coronavirus/",https://perma.cc/UH7L-T3M3, 
+Texas,,Randall,"Youth Center of the High 
+Plains ",0,0,,,"Suspended, Adapted",,06/11,https://abc7amarillo.com/news/local/youth-center-of-the-high-plains-has-seen-fewer-referrals-during-pandemic,https://perma.cc/2944-VHXQ; https://perma.cc/EP7E-N7UB,
+Texas,Edinburg,,"Evins Regional
+ Juvenile Center",31,55,Y,Y,,,08/10,https://www.tjjd.texas.gov/index.php/component/jdownloads/send/625-2020/2470-press-release-081020-update,https://perma.cc/L6NB-5S27,
+Texas,Willis ,,Karyn’s House,0,4,Y,Y,,,06/28,https://www.tjjd.texas.gov/index.php/doc-library/send/625-2020/2370-press-release-62820-update%E2%80%9D%20target=,https://perma.cc/99GB-5VZ5,
+Texas,,,"Giddings State 
+ School",84,41,Y,Y,,,09/01,https://www.tjjd.texas.gov/index.php/covid19,https://perma.cc/99GB-5VZ5,
+Texas,Mart,,"McLennan County State
+  Juvenile Correctional Facility",41,21,Y,Y,,,09/01,https://www.tjjd.texas.gov/index.php/covid19,https://perma.cc/99GB-5VZ5,
+Texas,Brownwood,,"Ron Jackson State 
  Juvenile Correctional 
- Complex",2,22,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://www.brownwoodnews.com/2020/07/15/update-on-covid-19-at-tjjd-facilities-including-brownwood-2/,https://perma.cc/99GB-5VZ5,NA
-Texas,Gainesville,Cooke County,Gainesville State School,13,8,Y,Y,NA,NA,2020-07-17T00:00:00Z,https://www.brownwoodnews.com/2020/07/15/update-on-covid-19-at-tjjd-facilities-including-brownwood-2/,https://perma.cc/99GB-5VZ5,NA
-Texas,NA,Travis County,Travis County Juvenile Detention FAcility,0,5,Y,Y,NA,NA,2020-06-23T00:00:00Z,https://www.kxan.com/investigations/5-staff-members-at-the-travis-county-juvenile-detention-center-test-positive-for-covid-19/,NA,NA
-Texas,NA,Collin County,Collin County Juvenile Detention,4,3,Y,Y,NA,NA,2020-06-30T00:00:00Z,https://dfw.cbslocal.com/2020/06/30/4-juveniles-3-staff-test-positive-for-covid-19-in-detention-facility/,https://perma.cc/KA4P-QD66,NA
-Virginia,NA,Chesterfield,NA,30,18,NA,NA,NA,Suspended,2020-07-10T00:00:00Z,http://www.djj.virginia.gov/pages/about-djj/covid.htm,https://perma.cc/T63B-YNQ5; https://perma.cc/U8F3-7ZK8; https://perma.cc/K89W-9EV5 https://perma.cc/K89W-9EV5,NA
-Virginia,NA,NA,NA,1,9,NA,NA,NA,NA,NA,http://www.djj.virginia.gov/pages/about-djj/covid.htm,https://perma.cc/Z228-4RJR,Contracted placements for Virginia
-Washington,NA,Lewis,NA,0,1,NA,NA,NA,NA,2020-04-23T00:00:00Z,https://crosscut.com/2020/04/advocates-seek-early-release-incarcerated-youth-amid-covid-19,https://perma.cc/Z228-4RJR,NA
-West Virigina,NA,NA,Out of State Centers,7,NA,NA,NA,NA,NA,2020-05-16T00:00:00Z,https://www.wvgazettemail.com/coronavirus/three-more-children-sent-to-out-of-state-facilities-test-positive-for-covid-19/article_7f316032-7155-5c5f-a08f-fd13310b0e96.html,NA,NA
-Wisconsin,NA,Milwaukee,NA,0,0,NA,NA,NA,Educational packets,2020-03-27T00:00:00Z,https://www.kalb.com/content/news/Office-of-Juvenile-Justice-reports-almost-a-dozen-positive-COVID-19-cases--569254961.html,https://perma.cc/R6C4-KL8L,NA
-Wisconsin,NA,NA,"Dane County Juvenile 
-Detention Center",0,0,N,N,"Suspended, Adapted",Virtual,2020-06-29T00:00:00Z,https://madison.com/ct/news/local/neighborhoods/for-juvenile-detention-pandemic-brings-a-chance-to-rethink/article_3c750ff7-ea2f-5264-be58-5b53e239f113.html,https://perma.cc/S9MX-LLCF,NA
-Wisconsin,NA,Lincoln,"Copper Lake School/
-Lincoln Hills School",0,3,NA,NA,NA,NA,2020-07-03T00:00:00Z,https://www.wsaw.com/2020/07/03/3-staff-members-at-lincoln-hillscopper-lake-school-test-positive-for-covid-19/,https://perma.cc/MB93-AZH9,NA
-Wyoming,NA,Natrona,NA,1,0,NA,NA,NA,NA,2020-04-07T00:00:00Z,https://k2radio.com/youth-at-nc-juvenile-detention-center-positive-for-covid-19/,https://perma.cc/42WS-Q4QC,NA
-NA,NA,District of Columbia,NA,4,5,NA,NA,NA,NA,2020-04-16T00:00:00Z,NA,NA,NA
+ Complex",26,41,Y,Y,,,09/01,https://www.tjjd.texas.gov/index.php/covid19,https://perma.cc/99GB-5VZ5,
+Texas,Gainesville,Cooke County,Gainesville State School,13,11,Y,Y,,,09/01,https://www.tjjd.texas.gov/index.php/covid19,https://perma.cc/99GB-5VZ5,
+Texas,,Travis County,Travis County Juvenile Detention FAcility,0,5,Y,Y,,,06/23,https://www.kxan.com/investigations/5-staff-members-at-the-travis-county-juvenile-detention-center-test-positive-for-covid-19/,https://perma.cc/99GB-5VZ5,
+Texas,,Collin County,Collin County Juvenile Detention,4,3,Y,Y,,,06/30,https://dfw.cbslocal.com/2020/06/30/4-juveniles-3-staff-test-positive-for-covid-19-in-detention-facility/,,
+Virginia,,,Bon Air JCC,0,8,,,,Suspended,08/26,http://www.djj.virginia.gov/pages/about-djj/covid.htm,https://perma.cc/T63B-YNQ5; https://perma.cc/U8F3-7ZK8; https://perma.cc/K89W-9EV5 https://perma.cc/K89W-9EV5, 
+Virginia,,,Alternative Placements,2,16,,,,,08/26,http://www.djj.virginia.gov/pages/about-djj/covid.htm,https://perma.cc/Z228-4RJR,Contracted placements for Virginia
+Washington,,Lewis,,0,1,,,,,04/23,https://crosscut.com/2020/04/advocates-seek-early-release-incarcerated-youth-amid-covid-19,https://perma.cc/Z228-4RJR,
+Washington,,,Adams Building Olympia,,1,,,,,07/29,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Twin Rivers,,2,,,,,07/27,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,West Seattle OICW,,1,,,,,07/23,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,"Green Hill School, JR Institution",,2,,,,,07/16,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Sunnyside,,1,,,,,05/29,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,King West (Harrison Street),,1,,,,,05/07,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Toppenish,,1,,,,,04/27,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Puyallup ,,2,,,,,04/19,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Kent,,1,,,,,04/11,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Everett,,1,,,,,04/06,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Yakima,,1,,,,,03/30,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+Washington,,,Delridge,,1,,,,,03/16,https://www.dcyf.wa.gov/coronavirus-covid-19/confirmed-cases,,
+West Virigina,,,Out of State Centers,7,,,,,,05/16,https://www.wvgazettemail.com/coronavirus/three-more-children-sent-to-out-of-state-facilities-test-positive-for-covid-19/article_7f316032-7155-5c5f-a08f-fd13310b0e96.html,,
+Wisconsin,,Milwaukee,,0,0,,,,Educational packets,03/27,https://www.kalb.com/content/news/Office-of-Juvenile-Justice-reports-almost-a-dozen-positive-COVID-19-cases--569254961.html	,https://perma.cc/R6C4-KL8L,
+Wisconsin,,,Dane County Juvenile Detention Center,0,0,N,N,"Suspended, Adapted",Virtual,06/29,https://madison.com/ct/news/local/neighborhoods/for-juvenile-detention-pandemic-brings-a-chance-to-rethink/article_3c750ff7-ea2f-5264-be58-5b53e239f113.html,https://perma.cc/S9MX-LLCF,
+Wisconsin,,Lincoln,Copper Lake School/Lincoln Hills School,0,3,,,,,07/03,https://www.wsaw.com/2020/07/03/3-staff-members-at-lincoln-hillscopper-lake-school-test-positive-for-covid-19/,,
+Wyoming,,Natrona,,1,0,,,,,04/07,https://k2radio.com/youth-at-nc-juvenile-detention-center-positive-for-covid-19/,https://perma.cc/42WS-Q4QC,
+N/A,,District of Columbia,,4,5,,,,,04/16,,,

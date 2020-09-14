@@ -1,109 +1,117 @@
-Facility,Address,State,Agency / Authority,ICE Field Office,System Type,County,Facility Type,Facility Operator,"Confirmed Cases
+Facility,Address,State,ICE Field Office,System Type,County,Facility Type,Facility Operator,"Confirmed Cases
 OUTSIDE SOURCES (Detainees)","ACTIVE Confirmed Cases - ICE DATA
-(Detainees)",Confirmed Deaths - ICE DATA (Detainees),TOTAL Confirmed Cases - ICE DATA (Detainees),Confirmed Cases - ICE DATA (Staff),Confirmed Deaths - ICE DATA (Staff),Confirmed Cases - OUTSIDE SOURCES (Staff),Visitation Policy,Last Updated Date
-Charleston County Detention Center,"3841 Leeds Avenue North Charleston, SC 29405",Georgia,NA,Atlanta,NA,NA,NA,Charleston County Sheriff's Office,NA,2,0,2,NA,NA,NA,NA,2020-06-26T00:00:00Z
-Columbia Regional Care Center,"7901 Farrow Rd. Columbia, SC 29203",South Carolina,DHS/ICE,Atlanta,NA,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,NA
-Folkston ICE Processing Center,"3026 Hwy 252 East PO Box 248 Folkston, GA, 31537",Georgia,DHS/ICE,Atlanta,ICE-dedicated,Charlton County,NA,Geo,NA,43,0,45,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Irwin County Detention Center,"132 Cotton Drive Ocilla, GA, 31774",Georgia,DHS/ICE,Atlanta,Non ICE-dedicated,Irwin County,NA,LaSalle,NA,23,0,31,NA,NA,NA,NA,2020-07-31T00:00:00Z
-Stewart Detention Center,"146 CCA Road Lumpkin, GA, 31815",Georgia,DHS/ICE,Atlanta,ICE-dedicated,Stewart County,NA,CoreCivic,NA,21,2,154,2,NA,NA,NA,2020-08-12T00:00:00Z
-Bristol County House of Corrections,"400 Faunce Corner Road North Dartmouth, MA, 02747",Massachusetts,DHS/ICE,Boston,Non ICE-dedicated,Bristol County,NA,Bristol County Sheriff's Office,NA,0,0,1,0,NA,NA,In person visitation suspended.,2020-06-30T00:00:00Z
-Franklin County House of Corrections,"160 Elm Street Greenfield, MA, 01301",Massachusetts,DHS/ICE,Boston,Non ICE-dedicated,Franklin County,NA,Franklin Count Sheriff's Office,NA,5,0,7,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Strafford County Corrections,"266 County Farm Road Dover, NH, 03820",New Hampshire,DHS/ICE,Boston,Non ICE-dedicated,Strafford County,NA,Strafford County Department of Corrections,2,2,0,2,NA,NA,NA,NA,2020-06-03T00:00:00Z
+(Detainees)",Confirmed Deaths - ICE DATA (Detainees),TOTAL Confirmed Cases - ICE DATA (Detainees),Confirmed Cases - ICE DATA (Staff),Confirmed Deaths - ICE DATA (Staff),Confirmed Cases - OUTSIDE SOURCES (Staff),Facility Responses to COVID-19 / Mitigation Measures (quarantine; isolation; etc.),Visitation Policy,Date,Additional Notes
+TOTAL,,,,,,,,0,660,6,"5,772",44,0,,,,,
+Charleston County Detention Center,"3841 Leeds Avenue North Charleston, SC 29405",Georgia,Atlanta,,,,Charleston County Sheriff's Office,,0,0,2,,,,,,8/31/20,
+Columbia Regional Care Center,"7901 Farrow Rd. Columbia, SC 29203",South Carolina,Atlanta,,,,,,0,0,1,,,,,,8/31/20,
+Folkston ICE Processing Center,"3026 Hwy 252 East PO Box 248 Folkston, GA, 31537",Georgia,Atlanta,ICE-dedicated,Charlton County,,Geo,,19,0,67,,,,Geo Group Response: https://www.geogroup.com/Portals/0/GEO_Coronavirus_Statement.pdf  (detainees allege inadequate protocols and cleaning supplies).,,9/9/20,https://www.miamiherald.com/news/local/immigration/article242485081.html
+Irwin County Detention Center,"132 Cotton Drive Ocilla, GA, 31774",Georgia,Atlanta,Non ICE-dedicated,Irwin County,,LaSalle,,10,0,42,,,,,,8/31/20,
+Stewart Detention Center,"146 CCA Road Lumpkin, GA, 31815",Georgia,Atlanta,ICE-dedicated,Stewart County,,CoreCivic,,17,2,327,2,,,,,9/9/20,
+Bristol County House of Corrections,"400 Faunce Corner Road North Dartmouth, MA, 02747",Massachusetts,Boston,Non ICE-dedicated,Bristol County,,Bristol County Sheriff's Office,,0,0,1,,,,"Transfers ""cohorted"". In May, court found that social distancing was not practiced.",In person visitation suspended.,6/30/20,May - violent clash over coronavirus tests. Detainees who exhibited symptoms refused to be taken to another unit to be tested; asked to bee tested in their own unit to avoid cross-contamination. https://www.nbcnews.com/news/us-news/violent-clash-over-coronavirus-tests-ice-detention-center-massachusetts-3-n1198726
+Franklin County House of Corrections,"160 Elm Street Greenfield, MA, 01301",Massachusetts,Boston,Non ICE-dedicated,Franklin County,,Franklin Count Sheriff's Office,,0,0,7,,,,,,8/18/20,
+Strafford County Corrections,"266 County Farm Road Dover, NH, 03820",New Hampshire,Boston,Non ICE-dedicated,Strafford County,,Strafford County Department of Corrections,,0,0,2,,,,,,6/3/20,2nd Case: https://www.unionleader.com/news/health/coronavirus/second-ice-detainee-tests-positive-for-covid-19-at-strafford-county-jail/article_79cdc3cb-1a47-56d3-bc6b-57883b226ec0.html
 Wyatt Detention Center,"950 High Street
-Central Falls, RI 02863",Rhode Island,DHS/ICE,Boston,Non ICE-dedicated,Providence County,NA,Central Falls Detention Facility Corporation,NA,0,0,2,NA,NA,NA,NA,2020-06-24T00:00:00Z
-Buffalo (Batavia) Service Processing Center,"4250 Federal Drive Batavia, NY, York",New York,DHS/ICE,Buffalo,ICE-dedicated,Genesee County,NA,ICE,NA,0,0,49,NA,NA,NA,NA,2020-05-01T00:00:00Z
-Lincoln County Detention Center,"65 Business Park Dr, Troy, MO 63379",Missouri,DHS/ICE,Chicago,Non ICE-dedicated,Lincoln County,NA,Lincolin County Sheriff's Office,NA,0,0,1,NA,NA,NA,NA,2020-06-16T00:00:00Z
-Pulaski County Detention Center,"1026 Shawnee College Road Ullin, IL, 62992",Illinois,DHS/ICE,Chicago,Non ICE-dedicated,Pulaski County,NA,Pulaski County Sheriff's Office,NA,3,0,51,NA,NA,NA,NA,2020-07-15T00:00:00Z
-Bluebonnet Detention Facility,"400 2nd Street Anson, TX, 79501",Texas,DHS/ICE,Dallas,Non ICE-dedicated,Hockley County,NA,MTC,NA,1,0,293,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Johnson County Law Enforcement Center,"1800 Ridgemar Drive Cleburne, TX, 76031",Texas,DHS/ICE,Dallas,Non ICE-dedicated,Johnson County,NA,LaSalle,NA,1,0,1,NA,NA,NA,NA,2020-06-03T00:00:00Z
-Prairieland Detention Center,"1209 Sunflower Lane Alvarado, TX, 76009",Texas,DHS/ICE,Dallas,ICE-dedicated,Johnson County,NA,LaSalle,NA,8,0,72,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Moore Detention Center,"111 S. Alabama Ave., Okmulgee, OK 74447.",Texas,DHS/ICE,Dallas,NA,NA,NA,Moore County Sheriff's Office,NA,12,0,21,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Rolling Plains Detention Facility,"118 County Road 206 Haskell, TX, 79521",Texas,DHS/ICE,Dallas,ICE-dedicated,Haskell County,NA,LaSalle,NA,0,0,55,0,NA,NA,NA,2020-07-10T00:00:00Z
-Aurora Contract Detention Facility,"3130 North Oakland Street Aurora, CO, 80010",Colorado,DHS/ICE,Denver,ICE-dedicated,Arapahoe County,NA,NA,11,3,0,20,2,NA,2,NA,2020-07-31T00:00:00Z
-Calhoun County Correction Center,"185 E. Michigan Street Battle Creek, MI, 49014",Michigan,DHS/ICE,Detroit,NA,Calhoun County,NA,Calhoun County Sheriff's Office,NA,6,0,12,0,NA,NA,NA,2020-07-21T00:00:00Z
-Morrow County Correctional Facility,"101 Home Road Mt. Gilead, OH, 43338",Ohio,DHS/ICE,Detroit,Non ICE-dedicated,Morrow County,NA,Morrow County Sheriff's Office,NA,0,0,48,0,NA,NA,NA,2020-06-24T00:00:00Z
-St. Clair County Jail,"1170 Michigan Road Port Huron, MI, 48060",Michigan,DHS/ICE,Detroit,Non ICE-dedicated,St. Clair County,NA,Saint Clair County Sheriff's Office,NA,2,0,10,0,NA,NA,NA,2020-06-30T00:00:00Z
-Cibola County Correctional Center,"2000 Cibola Loop Milan, NM, 87021",Texas,NA,El Paso,NA,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,2020-08-05T00:00:00Z
-El Paso Processing Center,"8915 Montana Ave. El Paso, TX, 79925",Texas,DHS/ICE,El Paso,ICE-dedicated,El Paso County,NA,ICE,NA,13,0,170,1,NA,NA,NA,2020-07-29T00:00:00Z
-Otero County Processing Center,"26 McGregor Range Road Chaparral, NM, 88081",New Mexico,DHS/ICE,El Paso,ICE-dedicated,Otero County,NA,MTC,92,0,0,150,NA,NA,NA,NA,2020-07-07T00:00:00Z
-Torrance County Detention Center,"209 County Road A049 Estancia, NM, 87016",New Mexico,NA,El Paso,NA,Torrance County,NA,CoreCivic,NA,0,0,55,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Houston Contract Detention Facility,"15850 Export Plaza Drive Houston, TX, 77032",Texas,DHS/ICE,Houston,ICE-dedicated,Montgomery County,NA,CoreCivic,NA,1,0,125,2,NA,NA,NA,2020-08-05T00:00:00Z
-IAH Polk Adult Detention Facility,"3400 FM 350 South Livingston, TX, 77351",Texas,DHS/ICE,Houston,ICE-dedicated,Polk County,NA,MTC,NA,2,0,18,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Joe Corley Detention Center,"500 Hilbig Rd Conroe, TX, 77301",Texas,DHS/ICE,Houston,ICE-dedicated,Montgomery County,NA,GeoGroup,NA,9,0,50,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Montgomery Processing Center,"806 Hilbig Road Conroe, TX, 77301",Texas,DHS/ICE,Houston,ICE-dedicated,Montgomery County,NA,GeoGroup,NA,0,0,206,NA,NA,3,NA,2020-08-05T00:00:00Z
-Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road Adelanto, CA, 92301",California,DHS/ICE,Los Angeles,ICE-dedicated,San Bernardino County,NA,GeoGroup,NA,2,0,12,0,NA,NA,NA,2020-08-12T00:00:00Z
-LA (Los Angeles) Staging,"300 North Los Angeles Street Suite B-18, Los Angeles, CA 90012",California,DHS/ICE,Los Angeles,NA,NA,NA,ICE,NA,0,0,1,NA,NA,NA,NA,2020-05-31T00:00:00Z
-Baker County Detention Center,"1 Sheriff's Office Drive MacClenny, FL, 32063",Florida,NA,Miami,NA,Baker County,NA,NA,NA,0,0,3,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Broward Transitional Center,"3900 N. Powerline Road Pompano Beach, FL, 33073",Florida,DHS/ICE,Miami,ICE-dedicated,Broward County,NA,GeoGroup,NA,35,0,72,0,NA,NA,NA,2020-08-12T00:00:00Z
-Glades County Detention Center,"1297 East SR 78 Moore Haven, FL, 33471",Florida,DHS/ICE,Miami,NA,NA,NA,Glades County Sheriff's Office,NA,12,1,150,0,NA,NA,NA,2020-08-12T00:00:00Z
-Krome Detention Center,"18201 SW 12th Street Miami, FL, 33194",Florida,DHS/ICE,Miami,ICE-dedicated,Miami-Dade,NA,ICE,NA,29,0,147,0,NA,NA,NA,2020-08-12T00:00:00Z
-Wakulla County Jail,"15 Oak Street Crawfordville, FL, 32327",Florida,DHS/ICE,Miami,NA,NA,NA,Wakulla County Sheriff's Office,NA,25,0,26,NA,NA,NA,NA,2020-08-12T00:00:00Z
-Adams County Correctional Center,"20 Hobo Fork Road, Natchez, MS 39120",Mississippi,DHS/ICE,New Orleans,Non ICE-dedicated,Adams County,NA,CoreCivic,NA,5,0,41,NA,NA,NA,All social visitation suspended as of 3/13/2020.,2020-07-29T00:00:00Z
-Alexandria Staging Facility,"96 George Thompson Drive, Alexandria, LA 71303",Louisiana,DHS/ICE,New Orleans,ICE-dedicated,Rapides Parish,NA,GeoGroup,NA,39,0,119,15,NA,NA,NA,2020-08-05T00:00:00Z
-Allen Parish Detention Center,"7340 Highway 26, Oberlin, LA 70655",Louisiana,NA,New Orleans,NA,Allen Parish,NA,NA,NA,0,0,1,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Catahoula Correctional Center,"499 Old Columbia Road Harrisonburg, Louisiana 71340",Louisiana,DHS/ICE,New Orleans,Non ICE-dedicated,Catahoula Parish,NA,LaSalle Corrections,NA,14,0,116,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Etowah County Jail (Etowah County Detention Center),"827 Forrest Avenue Gadsden, AL, 35901",Alabama,DHS/ICE,New Orleans,Non ICE-dedicated,Etowah County,NA,Etowah County Sheriff's Department,NA,19,0,21,0,NA,NA,NA,2020-07-21T00:00:00Z
-Jackson Parish Correctional,"287 Industrial Drive Jonesboro, LA, 71251",Louisiana,NA,New Orleans,NA,NA,NA,LaSalle Corrections,NA,3,0,5,NA,NA,NA,NA,2020-06-26T00:00:00Z
-LaSalle ICE Processing Center - Jena,"830 Pine Hill Road Jena, LA, 71342",Louisiana,DHS/ICE,New Orleans,ICE-dedicated,La Salle Parish (Jena),NA,GeoGroup,NA,2,0,20,2,NA,NA,NA,2020-08-05T00:00:00Z
-La Salle ICE Processing Center - Olla,"15976 Highway 165. Olla, Louisiana 71465",Louisiana,DHS/ICE,New Orleans,ICE-dedicated,La Salle Parish (Olla),NA,LaSalle,NA,14,0,23,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Pine Prairie ICE Processing Center,"1133 Hampton Dupre Road Pine Prairie, LA, 70576",Louisiana,DHS/ICE,New Orleans,Non ICE-dedicated,Evangeline Parish,NA,GeoGroup,NA,33,0,64,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Richwood Correctional Center,"180 Pine Bayou Circle Monroe, LA, 71202",Louisiana,DHS/ICE,New Orleans,Non ICE-dedicated,Ouachita Parish,NA,LaSalle Corrections,NA,8,0,73,NA,NA,NA,NA,2020-07-21T00:00:00Z
-River Correctional Center,"26362 Highway 15 Ferriday, LA, 71334",Louisiana,DHS/ICE,New Orleans,Non ICE-dedicated,Concordia Parish,NA,LaSalle Corrections,NA,7,0,11,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Winn Correctional Center,"560 Gum Springs Road Winnfield, LA, 71483",Louisiana,DHS/ICE,New Orleans,Non ICE-dedicated,Winn Parish,NA,LaSalle Corrections,NA,24,0,152,NA,NA,NA,NA,2020-07-31T00:00:00Z
-Bergen County Jail,"160 South River Street Hackensack, NJ, Jersey",New Jersey,DHS/ICE,New York City,Non ICE-dedicated,Bergen County,NA,NA,NA,2,0,4,1,NA,NA,NA,2020-05-04T00:00:00Z
-Hudson County Jail,"30-35 Hackensack Avenue Kearny, NJ, 07032",New Jersey,DHS/ICE,New York City,Non ICE-dedicated,Hudson County,NA,NA,NA,5,0,14,1,4,NA,NA,2020-05-19T00:00:00Z
-Elizabeth Detention Center,"625 Evans Street Elizabeth, NJ, 07201",New Jersey,DHS/ICE,Newark,ICE-dedicated,Union County,NA,CoreCivic,NA,0,0,18,2,NA,NA,NA,2020-05-04T00:00:00Z
-Essex County Correctional Facility,"354 Doremus Avenue Newark, NJ, 07105",New Jersey,DHS/ICE,Newark,Non ICE-dedicated,Essex County,NA,NA,NA,4,0,8,1,NA,NA,NA,2020-07-21T00:00:00Z
-Pike County Correctional Facility,"175 Pike County Blvd. Lords Valley, PA, 18428",Pennsylvania,DHS/ICE,Philadelphia,Non ICE-dedicated,Pike County,NA,NA,NA,0,0,22,NA,NA,NA,NA,2020-06-26T00:00:00Z
-York County Prison,"3400 Concord Road York, PA, 17402",Pennsylvania,DHS/ICE,Philadelphia,Non ICE-dedicated,York County,NA,York County,NA,2,0,4,NA,NA,NA,NA,2020-08-12T00:00:00Z
-Eloy Federal Contract Facility,"1705 E Hanna Rd Eloy, AZ, 85131",Arizona,DHS/ICE,Phoenix,ICE-dedicated,Pinal County,NA,CoreCivic,4,0,0,247,1,1,128,NA,2020-07-29T00:00:00Z
-Florence Detention Center,"1100 Bowling Road Florence, AZ, 85132",Arizona,DHS/ICE,Phoenix,ICE-dedicated,Pinal County,NA,CoreCivic,15,4,0,60,1,NA,NA,NA,2020-08-05T00:00:00Z
-La Palma Correctional Facility,"5501 North La Palma Road Eloy, AZ",Arizona,DHS/ICE,Phoenix,ICE-dedicated,Pinal County,NA,CoreCivic,78,2,0,120,NA,NA,NA,NA,2020-08-12T00:00:00Z
-Henderson Detention Center,"18 E. Basic Road Henderson, NV, 89015",Nevada,NA,Salt Lake City,NA,NA,NA,NA,NA,5,0,5,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Nevada Southern Detention Center,"2190 E Mesquite Avenue Pahrump, NV, 89048",Nevada,DHS/ICE,Salt Lake City,Non ICE-dedicated,Nye County,NA,NA,NA,3,0,10,NA,NA,NA,NA,2020-07-15T00:00:00Z
-Nye County Jail,"1521 E. Siri Lane, Pahrump, NV 89060.",Nevada,NA,Salt Lake City,NA,NA,NA,NA,NA,34,0,37,NA,NA,NA,NA,2020-07-21T00:00:00Z
+Central Falls, RI 02863",Rhode Island,Boston,Non ICE-dedicated,Providence County,,Central Falls Detention Facility Corporation,,0,0,2,,,,,,6/24/20,
+Buffalo (Batavia) Service Processing Center,"4250 Federal Drive Batavia, NY, York",New York,Buffalo,ICE-dedicated,Genesee County,,ICE,,0,0,49,,,,,,5/1/20,
+Lincoln County Detention Center,"65 Business Park Dr, Troy, MO 63379",Missouri,Chicago,Non ICE-dedicated,Lincoln County,,Lincolin County Sheriff's Office,,0,0,1,,,,,,6/16/20,https://wbsm.com/eight-bristol-county-inmates-test-positive-for-covid-19/
+Pulaski County Detention Center,"1026 Shawnee College Road Ullin, IL, 62992",Illinois,Chicago,Non ICE-dedicated,Pulaski County,,Pulaski County Sheriff's Office,,18,0,70,,,,,,9/9/20,https://www.nbcmiami.com/news/local/federal-judge-orders-detainees-released-from-south-florida-facilities-over-pandemic-conditions/2227446/
+Bluebonnet Detention Facility,"400 2nd Street Anson, TX, 79501",Texas,Dallas,Non ICE-dedicated,Hockley County,,MTC,,0,0,296,,,,"One detainee stated that in April he and others in his dorm developed fevers and coughs; treatment was Tylenol, allergy pills, and salt to gargle with. Facility didn't test until mid-May.",,8/18/20,"ICE protocol for transfers: Detainees are medically screened and cleared for travel, issued a mask, and in some cases, have their temperatures taken, according to court filings and ICE statements. But it does not routinely test prior to moving detainees from one place to the next."
+Johnson County Law Enforcement Center,"1800 Ridgemar Drive Cleburne, TX, 76031",Texas,Dallas,Non ICE-dedicated,Johnson County,,LaSalle,,1,0,1,,,,,,6/3/20,
+Prairieland Detention Center,"1209 Sunflower Lane Alvarado, TX, 76009",Texas,Dallas,ICE-dedicated,Johnson County,,LaSalle,,20,0,88,,,,,,9/9/20,
+Moore Detention Center,"111 S. Alabama Ave., Okmulgee, OK 74447. ",Texas,Dallas,,,,Moore County Sheriff's Office,,0,0,20,,,,,,8/31/20,
+Rolling Plains Detention Facility,"118 County Road 206 Haskell, TX, 79521",Texas,Dallas,ICE-dedicated,Haskell County,,LaSalle,,1,0,56,,,,"Measures include providing additional personal protection equipment like masks and gloves, screening inmates for the virus during the intake process, monitoring inmates for symptoms of the virus and reducing employee and inmate contact inside the facility where possible. ""Every employee is now screened and has their temperature taken upon arriving at work each day,"" Hearn said. ""Our nurses are making rounds, checking on prisoners to see if any of them are experiencing symptoms. We have social distancing. And we are cleaning and sanitizing throughout the facility."" Also holding all new detainees/transferees together for two weeks.",,7/10/20,
+Aurora Contract Detention Facility (Denver Contract Detention Facility),"3130 North Oakland Street Aurora, CO, 80010",Colorado,Denver,ICE-dedicated,Arapahoe County,,,,21,0,39,2,,,"In June 2020, ICE stated that it will provide tests to all people held at the facility. In March, ICE paroled women (unclear how many). In April, ICE released 8 women with HIV (after a lawsuit was filed).",,9/2/20,"1) ICE released eight medically vulnerable detainees on April 15.  2) Per Colorado Rep Jason Crow, ICE was transferring detainees to the Aurora facility in order to meet contract minimums at the facilities.
+"
+Calhoun County Correction Center,"185 E. Michigan Street Battle Creek, MI, 49014",Michigan,Detroit,,Calhoun County,,Calhoun County Sheriff's Office,,2,0,15,,,,federal judge releases 2 medically vulnerable detainees. ACLU case,,9/9/20,
+Morrow County Correctional Facility,"101 Home Road Mt. Gilead, OH, 43338",Ohio,Detroit,Non ICE-dedicated,Morrow County,,Morrow County Sheriff's Office,,0,0,48,,,,"ACLU lawsuit over faciltiy responses to COVID, using broken/expired thermometers",,6/24/20,"""Although ICE has reported the number of people who have tested positive for COVID-19 at specific facilities, it has not provided information as to how many people at each facility have been tested — critical information to understand how widespread the virus is."""
+St. Clair County Jail,"1170 Michigan Road Port Huron, MI, 48060",Michigan,Detroit,Non ICE-dedicated,St. Clair County,,Saint Clair County Sheriff's Office,,0,0,11,,,,,,8/31/20,
+Cibola County Correctional Center,"2000 Cibola Loop Milan, NM, 87021",Texas,El Paso,,,,,,0,0,1,,,,,,8/5/20,
+El Paso Processing Center,"8915 Montana Ave. El Paso, TX, 79925",Texas,El Paso,ICE-dedicated,El Paso County,,ICE,,7,0,186,1,,,,,9/9/20,
+Otero County Processing Center,"26 McGregor Range Road Chaparral, NM, 88081",New Mexico,El Paso,ICE-dedicated,Otero County,,MTC,,0,0,150,,,,,,7/7/20,ACLU lawsuit
+Torrance County Detention Center,"209 County Road A049 Estancia, NM, 87016",New Mexico,El Paso,,Torrance County,,CoreCivic,,0,0,55,,,,,,7/21/20,
+Coastal Bend Detention Center,,,,,,,,,12,0,12,,,,,,9/2/20,
+Houston Contract Detention Facility,"15850 Export Plaza Drive Houston, TX, 77032",Texas,Houston,ICE-dedicated,Montgomery County,,CoreCivic,,8,0,132,2,,,ICE is not reporting contractors,,9/9/20,
+IAH Polk Adult Detention Facility,"3400 FM 350 South Livingston, TX, 77351",Texas,Houston,ICE-dedicated,Polk County,,MTC,,7,0,25,,,,,,9/9/20,
+Joe Corley Detention Center,"500 Hilbig Rd Conroe, TX, 77301",Texas,Houston,ICE-dedicated,Montgomery County,,GeoGroup,,0,1,50,,,,,,8/31/20,
+Montgomery Processing Center,"806 Hilbig Road Conroe, TX, 77301",Texas,Houston,ICE-dedicated,Montgomery County,,GeoGroup,,0,0,207,,,,,,8/26/20,
+Adelanto ICE Processing Center,"Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road Adelanto, CA, 92301",California,Los Angeles,ICE-dedicated,San Bernardino County,,GeoGroup,,2,0,13,,,,Individual who tested positive was quarantined; those who came in contact monitored for symptoms.,,8/18/20,
+LA (Los Angeles) Staging,"300 North Los Angeles Street Suite B-18, Los Angeles, CA 90012",California,Los Angeles,,,,ICE,,,,,,,,,,5/31/20,
+Baker County Detention Center,"1 Sheriff's Office Drive MacClenny, FL, 32063",Florida,Miami,,Baker County,,,,1,0,4,,,,,,8/25/20,
+Broward Transitional Center,"3900 N. Powerline Road Pompano Beach, FL, 33073",Florida,Miami,ICE-dedicated,Broward County,,GeoGroup,,27,0,121,,,,"As of May, social distancing not practiced.",,9/9/20,"In May DHS confirmed that the 16 individuals who tested positive had just been transferred by ICE from Krome to BTC. This came after a judge's order that ICE release hundreds of detainees in South Florida. Some have claimed that ICE has not complied with this order, but rather has moved detainees around."
+Glades County Detention Center,"1297 East SR 78 Moore Haven, FL, 33471",Florida,Miami,,,,Glades County Sheriff's Office,,10,1,164,,,,"In June: “Due to an increase in positive cases, all detainees are being medically assessed approximately every six hours, four times a day."" Because of these cases, the facility is not accepting new detainees or transfers. All exposed detainees placed in one housing unit for 14 days. ""ICE said that in order to slow the spread at South Florida detention centers, the agency will begin quarantining all detainees together, which the agency calls “cohorting,” for two weeks after they arrive at any facility and that both symptomatic and asymptomatic detainees will have their temperatures taken daily. Detainees who refuse testing will be quarantined for two weeks.""",,8/31/20,151
+Krome Detention Center,"18201 SW 12th Street Miami, FL, 33194",Florida,Miami,ICE-dedicated,Miami-Dade,,ICE,,17,0,183,,,,move 350 detainees to quarantine (date?). Update (June): Every immigration detainee booked into Krome will be tested for coronavirus.,,9/9/20,"In May a judge ordered release of detainees because social distancing is ""practically impossible"" in the facility. Goal was to reduce to 75% within two weeks. https://www.npr.org/sections/coronavirus-live-updates/2020/05/01/848681749/federal-judge-orders-ice-to-release-detainees-at-3-florida-facilities"
+Wakulla County Jail,"15 Oak Street Crawfordville, FL, 32327",Florida,Miami,,,,Wakulla County Sheriff's Office,,2,0,32,,,,,,9/2/20,
+Adams County Correctional Center,"20 Hobo Fork Road, Natchez, MS 39120 ",Mississippi,New Orleans,Non ICE-dedicated,Adams County,,CoreCivic,,32,0,74,,,,PPE for staff; plan to separate high-risk individuals who are more susceptible to COVID-19; detainee releases at the discretion of ICE.,All social visitation suspended as of 3/13/2020.,9/9/20,
+Alexandria Staging Facility ,"96 George Thompson Drive, Alexandria, LA 71303",Louisiana,New Orleans,ICE-dedicated,Rapides Parish,,GeoGroup,,21,0,139,15,,,,,9/9/20,
+Allen Parish Detention Center,"7340 Highway 26, Oberlin, LA 70655",Louisiana,New Orleans,,Allen Parish,,,,0,0,10,,,,,,8/31/20,
+Catahoula Correctional Center,"499 Old Columbia Road Harrisonburg, Louisiana 71340",Louisiana,New Orleans,Non ICE-dedicated,Catahoula Parish,,LaSalle Corrections,,0,0,117,,,,,,9/2/20,
+Etowah County Jail (Etowah County Detention Center),"827 Forrest Avenue Gadsden, AL, 35901",Alabama,New Orleans,Non ICE-dedicated,Etowah County,,Etowah County Sheriff's Department,,1,0,22,,,,,,8/31/20,
+Jackson Parish Correctional,"287 Industrial Drive Jonesboro, LA, 71251",Louisiana,New Orleans,,,,LaSalle Corrections,,44,0,50,,,,,,9/9/20,
+LaSalle ICE Processing Center - Jena,"830 Pine Hill Road Jena, LA, 71342",Louisiana,New Orleans,ICE-dedicated,La Salle Parish (Jena),,GeoGroup,,2,0,28,2,,,"Detainees claim that they are not provided with enough soap, sanitizing wipes/lotion, or cleaning supplies; also claim lax socioal distancing and hygiene practices. Even with screening protocols for new detainees, there is a constant flow of immigrants and staff. See Additional Notes section for GeoGroup's response.",,9/9/20,Geo Group Response: https://www.geogroup.com/Portals/0/GEO_Coronavirus_Statement.pdf
+La Salle ICE Processing Center - Olla,"15976 Highway 165. Olla, Louisiana 71465",Louisiana,New Orleans,ICE-dedicated,La Salle Parish (Olla),,LaSalle,,2,0,25,,,,,,8/31/20,
+Pine Prairie ICE Processing Center,"1133 Hampton Dupre Road Pine Prairie, LA, 70576",Louisiana,New Orleans,Non ICE-dedicated,Evangeline Parish,,GeoGroup,,0,0,65,,,,,,8/26/20,
+Richwood Correctional Center,"180 Pine Bayou Circle Monroe, LA, 71202",Louisiana,New Orleans,Non ICE-dedicated,Ouachita Parish,,LaSalle Corrections,,27,0,100,,,,,,9/9/20,
+River Correctional Center,"26362 Highway 15 Ferriday, LA, 71334",Louisiana,New Orleans,Non ICE-dedicated,Concordia Parish,,LaSalle Corrections,,7,0,20,,,,,,9/9/20,
+Winn Correctional Center,"560 Gum Springs Road Winnfield, LA, 71483",Louisiana,New Orleans,Non ICE-dedicated,Winn Parish,,LaSalle Corrections,,35,0,198,,,,,,9/9/20,
+Bergen County Jail,"160 South River Street Hackensack, NJ, Jersey",New Jersey,New York City,Non ICE-dedicated,Bergen County,,,,0,0,5,1,,,Detainees monitored in isolation for possessing at least one symptom. All staff and detainees required to wear masks. Judge ordered release of a couple ICE detainees with health problems in April. (Insider NJ reports that 96 ICE detainees have been released).,,8/26/20,
+Hudson County Jail,"30-35 Hackensack Avenue Kearny, NJ, 07032",New Jersey,New York City,Non ICE-dedicated,Hudson County,,,,0,0,14,1,,,,,5/19/20,
+Elizabeth Detention Center,"625 Evans Street Elizabeth, NJ, 07201",New Jersey,Newark,ICE-dedicated,Union County,,CoreCivic,,0,0,18,2,,,,,5/4/20,
+Essex County Correctional Facility,"354 Doremus Avenue Newark, NJ, 07105",New Jersey,Newark,Non ICE-dedicated,Essex County,,,,0,0,8,1,,,,,8/25/20,
+Pike County Correctional Facility,"175 Pike County Blvd. Lords Valley, PA, 18428",Pennsylvania,Philadelphia,Non ICE-dedicated,Pike County,,,,0,0,22,,,,Federal court ordered that 9 immigrants with chronic health conditions be released on 04/07/2020.,,6/26/20,
+York County Prison,"3400 Concord Road York, PA, 17402",Pennsylvania,Philadelphia,Non ICE-dedicated,York County,,York County,,55,0,60,,,,Federal court ordered the release of 16 immigrants with chronic health conditions in early April 2020 (both before and after the announcement that a detainee had tested positive). Detainee that tested positive was isolated in negative-air housing (5 days after initial presentation of symptoms). Her dorm was then placed on cohort status (the women were not allowed the leave the area) and medical staff took their temperatures daily. Those who presented symptoms were not tested or treated because of lack of space/no fevers.,,9/4/20,
+Eloy Federal Contract Facility,"1705 E Hanna Rd Eloy, AZ, 85131",Arizona,Phoenix,ICE-dedicated,Pinal County,,CoreCivic,,1,0,250,1,,,,,9/9/20,https://www.azcentral.com/story/news/politics/immigration/2020/06/15/coronavirus-cases-arizona-eloy-detention-center-guard-covid-19-deaths/3193118001/
+Florence Detention Center ,"1100 Bowling Road Florence, AZ, 85132",Arizona,Phoenix,ICE-dedicated,Pinal County,,CoreCivic,,2,0,66,1,,,,,9/4/20,
+La Palma Correctional Facility,"5501 North La Palma Road Eloy, AZ",Arizona,Phoenix,ICE-dedicated,Pinal County,,CoreCivic,,13,0,366,,,,,,9/9/20,
+Henderson Detention Center,"18 E. Basic Road Henderson, NV, 89015",Nevada,Salt Lake City,,,,,,17,0,20,,,,,,9/9/20,
+Nevada Southern Detention Center,"2190 E Mesquite Avenue Pahrump, NV, 89048",Nevada,Salt Lake City,Non ICE-dedicated,Nye County,,,,3,0,10,,,,,,7/15/20,
+Nye County Jail,"1521 E. Siri Lane, Pahrump, NV 89060.",Nevada,Salt Lake City,,,,,,0,0,37,,,,,,9/9/20,
 Washington County Jail,"750 South 5300 West
-Hurricane, Utah 84737",Utah,NA,Salt Lake City,NA,NA,NA,NA,NA,1,0,2,NA,NA,NA,NA,2020-07-10T00:00:00Z
-El Valle Detention Facility,"1800 Industrial Drive Raymondville, TX, 78580",Texas,DHS/ICE,San Antonio,NA,Bexar,NA,NA,NA,23,0,24,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Karnes County Family Residential Center,"409 FM 1144 Karnes City, TX, 78118",Texas,NA,San Antonio,NA,NA,NA,NA,NA,13,0,73,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Port Isabel Service Processing Center,"27991 Buena Vista Blvd. Los Fresnos, TX, 78566",Texas,DHS/ICE,San Antonio,ICE-dedicated,Cameron County,NA,Ahtna Support and Training Services,216,19,0,132,NA,NA,NA,NA,2020-08-12T00:00:00Z
+Hurricane, Utah 84737",Utah,Salt Lake City,,,,,,2,0,3,,,,,,9/2/20,
+El Valle Detention Facility,"1800 Industrial Drive Raymondville, TX, 78580",Texas,San Antonio,,Bexar,,,,27,0,40,,,,,,9/9/20,
+Karnes County Family Residential Center,"409 FM 1144 Karnes City, TX, 78118",Texas,San Antonio,,,,,,2,0,79,,,,,,9/9/20,
+Port Isabel Service Processing Center,"27991 Buena Vista Blvd. Los Fresnos, TX, 78566",Texas,San Antonio,ICE-dedicated,Cameron County,,Ahtna Support and Training Services,,5,0,143,,,,,,9/9/20,
 Rio Grande Detention Center,"1001 San Rio Blvd
-Laredo, TX, 78046",Texas,DHS/ICE,San Antonio,ICE-dedicated,Webb County,NA,GeoGroup,NA,114,0,114,NA,NA,NA,NA,2020-07-31T00:00:00Z
-South Texas ICE Processing Center (Dilley),"300 El Rancho Way Dilley, TX, 78017",Texas,NA,NA,NA,NA,NA,NA,NA,2,0,3,NA,NA,NA,NA,2020-07-29T00:00:00Z
-South Texas ICE Processing Center (Pearsall),"566 Veterans Drive Pearsall, TX, 78061",Texas,DHS/ICE,San Antonio,ICE-dedicated,Frio County,NA,GeoGroup,NA,24,0,155,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Webb County Detention Center,"9998 U.S. 83 Laredo, TX, 78046",Texas,NA,San Antonio,NA,Webb County,NA,CoreCivic,NA,74,0,82,NA,NA,NA,NA,2020-07-31T00:00:00Z
-Imperial Regional Detention Facility,"1572 Gateway Road Calexico, CA, 92231",California,DHS/ICE,San Diego,ICE-dedicated,Imperial,NA,MTC,NA,0,0,2,NA,NA,NA,NA,2020-06-17T00:00:00Z
-Otay Mesa Detention Center,"7488 Calzada de la Fuente San Diego, CA, 92231",California,DHS/ICE,San Diego,ICE-dedicated,San Diego County,NA,CoreCivic,167,2,1,168,11,NA,NA,NA,2020-07-29T00:00:00Z
+Laredo, TX, 78046",Texas,San Antonio,ICE-dedicated,Webb County,,GeoGroup,,2,0,161,,,,,,8/26/20,
+South Texas ICE Processing Center (Pearsall),"566 Veterans Drive Pearsall, TX, 78061",Texas,San Antonio,ICE-dedicated,Frio County,,GeoGroup,,4,0,179,,,,"In an April earnings release, GEO’s CEO, George Zoley, said that his company has worked to procure safety supplies, do temperature checks and follow Centers for Disease Control and Prevention guidelines, and that all of its facilities have ""access to regular hand-washing with clean water and soap, round-the-clock healthcare, and typically have approximately double the number of healthcare staff, compared to state correctional facilities."" HOWEVER: allegations that: not enough cleaning supplies, masks and gloves, inability to stay 6 feet apart, holdiing those who test positive together in rooms with poor ventilation and hygiene.",,9/9/20,
+Webb County Detention Center,"9998 U.S. 83 Laredo, TX, 78046",Texas,San Antonio,,Webb County,,CoreCivic,,1,0,85,,,,,,9/9/20,
+Imperial Regional Detention Facility,"1572 Gateway Road Calexico, CA, 92231",California,San Diego,ICE-dedicated,Imperial,,MTC,,0,0,3,,,,,,9/9/20,
+Otay Mesa Detention Center,"7488 Calzada de la Fuente San Diego, CA, 92231",California,San Diego,ICE-dedicated,San Diego County,,CoreCivic,,0,1,168,11,,,,,9/9/20,
 San Luis Regional Detention Center,"406 N. Avenue D
-San Luis, Arizona 85349",California,DHS/ICE,San Diego,Non ICE-dedicated,NA,NA,LaSalle Corrections,NA,1,0,10,NA,NA,NA,NA,2020-08-05T00:00:00Z
-Tacoma ICE Processing Center/Northwest Detention Center,"1623 E J Street, Suite 2 Tacoma, WA, 98421-1615",Washington,DHS/ICE,Seattle,ICE-dedicated,Pierce County,NA,GeoGroup,NA,0,0,7,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Freeborn County Adult Detention Center,"411 S. Broadway Ave. Albert Lea, MN, 56007",Minnesota,NA,St. Paul,NA,NA,NA,NA,NA,0,0,2,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Polk County Jail,"1985 NE 51st Place Des Moines, IA, 50313",Iowa,NA,St. Paul,NA,Polk County,NA,NA,NA,1,0,12,NA,NA,NA,NA,2020-07-10T00:00:00Z
-Caroline Detention Facility,"11093 SW Lewis Memorial Dr Bowling Green, VA, 22427",Virginia,DHS/ICE,Washington D.C.,ICE-dedicated,Caroline County,NA,NA,NA,1,0,5,NA,NA,NA,NA,2020-05-08T00:00:00Z
-Farmville Detention Center/Immigration Centers of America,"508 Waterworks Road Farmville, VA, 23901",Virginia,DHS/ICE,Washington D.C.,ICE-dedicated,Prince Edward County,NA,NA,NA,259,0,339,NA,NA,NA,NA,2020-07-29T00:00:00Z
-South Louisiana Correctional Center,"3843 Stagg Ave Basile, LA, 70515",Louisiana,NA,NA,NA,NA,NA,NA,NA,3,0,3,NA,NA,NA,NA,2020-07-21T00:00:00Z
-Ada County Jail,"7210 Barrister Dr. Boise, ID 83704",Idaho,DHS/ICE,NA,Non ICE-dedicated,Ada County,NA,Ada County Sheriff's Office,NA,NA,NA,1,NA,NA,NA,NA,2020-05-01T00:00:00Z
-Adams County Correctional Center,NA,Colorado,DHS/ICE,NA,Non ICE-dedicated,Adams County,NA,NA,NA,5,0,41,NA,NA,NA,On-site jail visits discontinued until further notice.,2020-07-07T00:00:00Z
-Butler County Jail,"705 Hanover Street Hamilton, OH, 45011",Ohio,DHS/ICE,NA,Non ICE-dedicated,Butler County,NA,NA,NA,0,0,0,1,NA,NA,NA,2020-05-01T00:00:00Z
-CCA Florence Correctional Center,"1100 Bowling Road Florence, AZ, 85132",Arizona,DHS/ICE,NA,NA,Maricopa County,NA,CoreCivic,NA,2,0,18,NA,NA,NA,NA,2020-07-29T00:00:00Z
-Central Arizona Detention Center,NA,Arizona,DHS/ICE,NA,Non ICE-dedicated,Pinal County,NA,CoreCivic,NA,-,NA,0,NA,NA,NA,NA,2020-05-01T00:00:00Z
-Denver Contract Detention Facility (Aurora Detention Facility),"3130 North Oakland Street Aurora, CO, 80010",Colorado,DHS/ICE,NA,NA,NA,NA,NA,NA,0,NA,5,NA,NA,NA,NA,2020-05-31T00:00:00Z
-Federal Correctional Institute (FCI),"37900 N 45th Drive Phoenix, AZ, 85086",Arizona,DHS/ICE,NA,Non ICE-dedicated,Maricopa County,NA,BOP,NA,NA,NA,NA,NA,NA,NA,NA,2020-05-01T00:00:00Z
+San Luis, Arizona 85349",California,San Diego,Non ICE-dedicated,,,LaSalle Corrections,,0,0,12,,,,,,9/9/20,
+Tacoma ICE Processing Center (Northwest Detention Center),"1623 E J Street, Suite 2 Tacoma, WA, 98421-1615",Washington,Seattle,ICE-dedicated,Pierce County,,GeoGroup,,2,0,14,,,,,,9/2/20,
+South Texas Family Residential Center (Dilley),"300 El Rancho Way Dilley, TX, 78017",Texas,,,,,,,1,0,4,,,,,,8/27/20,
+Freeborn County Adult Detention Center,"411 S. Broadway Ave. Albert Lea, MN, 56007",Minnesota,St. Paul,,,,,,1,0,4,,,,,,9/9/20,
+Polk County Jail,"1985 NE 51st Place Des Moines, IA, 50313",Iowa,St. Paul,,Polk County,,,,0,0,12,,,,,,7/10/20,
+Caroline Detention Facility,"11093 SW Lewis Memorial Dr Bowling Green, VA, 22427",Virginia,Washington D.C.,ICE-dedicated,Caroline County,,,,0,0,5,,,,,,5/8/20,
+Immigration Centers of America - Farmville,"508 Waterworks Road Farmville, VA, 23901",Virginia,Washington D.C.,ICE-dedicated,Prince Edward County,,,,0,1,339,,,,,,8/31/20,
+South Louisiana Correctional Center,"3843 Stagg Ave Basile, LA, 70515",Louisiana,New Orleans,,,,,,0,0,3,,,,,,8/31/20,
+Ada County Jail,"7210 Barrister Dr. Boise, ID 83704",Idaho,,Non ICE-dedicated,Ada County,,Ada County Sheriff's Office,,,,,,,,"Medical staff does a thorough screening for symptoms for everyone booked in the jail. If any inmate shows symptoms, they are given a mask and placed into a neegative pressure room until it can be confirmed whether or not they have the virus. If multiple cases at the same time and no availability of hospital beds in the community, plan to designate quarantine zones (different zones for inmates with high risk factors). PPE for staff who deal with an inmate with COVID. Decision matrix on how to monitor employees who many have been exposed to COVID.",,5/1/20,
+Adams County Correctional Center,,Colorado,,Non ICE-dedicated,Adams County,,,,32,0,74,,,,Work release program suspended.,On-site jail visits discontinued until further notice.,9/4/20,
+Butler County Jail ,"705 Hanover Street Hamilton, OH, 45011",Ohio,,Non ICE-dedicated,Butler County,,,,,,,1,,,,,5/1/20,
+CCA Florence Correctional Center,"1100 Bowling Road Florence, AZ, 85132",Arizona,,,Maricopa County,,CoreCivic,,3,0,21,,,,,,8/31/20,
+Central Arizona Detention Center,,Arizona,,Non ICE-dedicated,Pinal County,,CoreCivic,,,,,,,,,,5/1/20,
 "Florence Services Processing Center
-(Florence Staging Facility)","3250 N. Pinal Parkway Florence, AZ, 85132",Arizona,DHS/ICE,NA,ICE-dedicated,Pinal County,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,2020-05-01T00:00:00Z
-Mesa Verde ICE Processing Facility,"425 Golden State Avenue Bakersfield, CA, 93301",Califorina,DHS/ICE,NA,ICE-dedicated,Kern County,NA,GeoGroup,NA,10,0,10,NA,NA,1,NA,2020-08-05T00:00:00Z
-Santa Ana City Jail,"62 Civic Center Plaza Santa Ana, CA, 92701",Califorina,DHS/ICE,NA,Non ICE-dedicated,Orange County,NA,City of Santa Ana,NA,NA,NA,NA,NA,NA,NA,NA,2020-05-01T00:00:00Z
-Sherburne County Jail,"13880 Business Center Drive NW Elk River, MN, 55330",Minnesota,DHS/ICE,NA,Non ICE-dedicated,Sherburne County,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-T. Don Hutto Residential Center,"1001 Welch St. Taylor, TX, 76574",Texas,DHS/ICE,San Antonio,NA,Williamson County,NA,CoreCivic,NA,0,0,0,1,NA,NA,NA,2020-06-09T00:00:00Z
-Yuba County Jail,"215 5th St. Marysville, CA, 95901",Califorina,DHS/ICE,NA,Non ICE-dedicated,Yuba County,NA,Yuba County Sheriff's Department,NA,NA,NA,NA,NA,NA,NA,"As of 3/23/2020, suspended visitation (still allow legal representation visits).",2020-05-01T00:00:00Z
+(Florence Staging Facility)","3250 N. Pinal Parkway Florence, AZ, 85132",Arizona,,ICE-dedicated,Pinal County,,,,,,,,,,,,5/1/20,Death reported from a presumptively positive case
+Mesa Verde ICE Processing Facility,"425 Golden State Avenue Bakersfield, CA, 93301",Califorina,,ICE-dedicated,Kern County,,GeoGroup,,53,0,59,,,,Federal judge ordered release of detainee with asthma (ACLU suit); ICE released 13 women and slated 3 for deportation in May 2020 (these 16 constituted the entire female population at Mesa Verde).,,9/4/20,"A 75 year old man with a variety of health conditions was considered too dangerous to release (he was awaiting deportation after serving his sentence for attempted murder). He was put in isolation after a trip to the hospital, and was left unsupervised despite a history of suicide attempts. He died of apparent suicide. https://www.latimes.com/california/story/2020-05-20/immigrant-ice-detention-suicide-coronavirus Hunger strike: https://www.bakersfield.com/news/100-immigrant-detainees-hold-hunger-strike-at-mesa-verde-in-response-to-covid-19-measures/article_4bc2c88e-7b88-11ea-bf82-c3fcec598e57.html Facility response sources: https://www.nbcbayarea.com/investigations/covid-19-outbreaks-may-arise-from-immigrant-detention-centers-doctors-say/2289775/; https://www.latimes.com/california/story/2020-05-20/immigrant-ice-detention-suicide-coronavirus; https://www.bakersfield.com/news/advocates-say-ice-has-released-nearly-all-women-from-mesa-verde/article_09926498-917b-11ea-9352-034bf1e2890b.html"
+Santa Ana City Jail,"62 Civic Center Plaza Santa Ana, CA, 92701",Califorina,,Non ICE-dedicated,Orange County,,City of Santa Ana,,,,,,,,,,5/1/20,
+Sherburne County Jail,"13880 Business Center Drive NW Elk River, MN, 55330",Minnesota,,Non ICE-dedicated,Sherburne County,,,,,,,,,,,,,started hunger strike 
+T. Don Hutto Residential Center,"1001 Welch St. Taylor, TX, 76574",Texas,San Antonio,,Williamson County,,CoreCivic,,,,,1,,,,,6/9/20,
+Yuba County Jail,"215 5th St. Marysville, CA, 95901",Califorina,,Non ICE-dedicated,Yuba County,,Yuba County Sheriff's Department,,,,,,,,"On 4/8/2020 (20 days after Newsom's stay-at-home order), jail captain asked community orgs and individuals to make 1,000 masks for those in custody in the jail; gave no guidance on quality control. Masks distributed on 4/20/2020: one per person in custody; masks were only laundered once a week. It is reported that the officers did not wear masks appropriately.","As of 3/23/2020, suspended visitation (still allow legal representation visits).",5/1/20,
 Linn County Jail,"53 3rd Avenue Bridge
-Cedar Rapids, IA 52401",Iowa,DHS/ICE,NA,Non ICE-dedicated,Linn County,NA,NA,1,1,0,2,0,NA,NA,NA,2020-07-24T00:00:00Z
-Sheriff Al Cannon Detention Center,"3841 Leeds Ave, North Charleston, SC 29405",South Carolina,NA,NA,NA,NA,NA,NA,NA,0,0,1,0,NA,NA,NA,NA
-McHenry County Adult Correctional Facility,"2200 N. Seminary Ave. Woodstock, IL, 60098",Illinois,NA,NA,NA,McHenry County,NA,NA,NA,3,0,4,0,NA,NA,NA,NA
-Limestone County Detention Center,"910 North Tyus Street Groesbeck, TX 76642",Texas,NA,NA,NA,Limestone County,NA,NA,NA,4,0,4,0,NA,NA,NA,NA
-Kay County Detention Center,"1101 West Dry Road Newkirk, OK, 74647",Oklahoma,NA,NA,NA,Kay County,NA,NA,NA,0,0,1,0,NA,NA,NA,NA
+Cedar Rapids, IA 52401",Iowa,,Non ICE-dedicated,Linn County,,,,0,0,2,,,,,,8/18/20,
+Sheriff Al Cannon Detention Center,"3841 Leeds Ave, North Charleston, SC 29405",South Carolina,,,,,,,0,0,1,,,,,,8/18/20,
+McHenry County Adult Correctional Facility,"2200 N. Seminary Ave. Woodstock, IL, 60098",Illinois,,,McHenry County,,,,1,0,5,,,,,,8/31/20,
+Limestone County Detention Center,"910 North Tyus Street Groesbeck, TX 76642",Texas,,,Limestone County,,,,1,0,53,,,,,,9/2/20,
+Kay County Detention Center,"1101 West Dry Road Newkirk, OK, 74647",Oklahoma,,,Kay County,,,,0,0,1,,,,,,,
 Chase County Detention Facility,"
-301 S. Walnut Cottonwood Falls, KS 66845",Kansas,NA,NA,NA,Chase County,NA,NA,NA,27,0,27,0,NA,NA,NA,NA
-Larkin Behavioral Health Center,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,0,2,NA,NA,NA,NA,NA
-San Juan Staging Facility,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,NA
-Phelps County Jail,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,1,NA,NA,NA,NA,NA
+301 S. Walnut Cottonwood Falls, KS 66845",Kansas,,,Chase County,,,,27,0,59,,,,,,9/9/20,
+Larkin Behavioral Health Center,,,,,,,,,0,0,2,,,,,,8/31/20,
+San Juan Staging Facility,"7 Tabonuco St., Suite 100 Guaynabo, Puerto Rico",Puerto Rico,,,,,,,0,0,1,,,,,,,
+Phelps County Jail,"715 5th Ave., Holdridge, NE",Nebraska,,,Phelps County,,,,0,0,2,,,,,,,
+Robert A. Deyton Detention Facility,"11866 Hastings Bridge Road Lovejoy, GA, 30250",Georgia,Atlanta,,Clayton County,,GeoGroup,,0,0,1,,,,,,,
+Costal Bend Detention Center,"4909 FM 2826, Robstown, TX 78380",Texas,,,Nueces County,,GeoGroup,,12,0,12,,,,,,8/31/20,
+Geauga County Jail,"12450 Merritt Rd, Chardon, OH 44024",Ohio,,,Geauga County,,,,1,0,1,,,,,,8/31/20,
+Cache County Jail,"225 West Valley View #100, Logan, UT 84321",Utah,,,Cache County,,,,15,0,15,,,,,,9/9/20,
+Worcester County Jail,"5022 Joyner Rd Snow Hill, MD 21863",Maryland,,,Worcester County,,,,1,0,1,,,,,,,
+Douglas County Corrections,"710 South 17th Street Omaha, NE, 68102",Nebraska,,,Douglas,,,,1,0,1,,,,,,9/4/20,
+Laredo Processing Center,"4702 E. Saunders Street., Lardo TX. 78041",Texas,San Antonio,,Webb,,CoreCivic,,2,0,3,,,,,,9/8/20,
