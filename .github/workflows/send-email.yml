@@ -28,7 +28,6 @@ jobs:
         # Literal body:
         body: Latest data successfully pushed to ${{github.repository}}!
         # Read file contents as body:
-        body: 
         to: johnsonh@law.ucla.edu, hopecaneel@gmail.com
         from: data bot 
 
