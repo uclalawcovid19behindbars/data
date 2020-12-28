@@ -9,9 +9,6 @@ _Data to add? Please email covidbehindbars@law.ucla.edu_
 
 _Questions about a dataset? Read the Data Dictionary accompanying each dataset which answers FAQs._
 
-_Further Questions? Contact data science fellows Chase Hommeyer and Michael Everett at hommeyer@law.ucla.edu and everett@law.ucla.edu_
-
-
 This repository contains fives datasets, each in both `.csv` and `.xlsx` formats. To accompany each dataset, we've posted a data dictionary for each one. Please read it if you are using one of our datasets. It contains FAQs, a description of each variable, and notes.
 
 ### Description of Datasets
