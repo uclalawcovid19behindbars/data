@@ -1,0 +1,250 @@
+---
+title: "&nbsp;"
+output: github_document
+---
+
+[![logo](logo.svg)](https://uclacovidbehindbars.org/)
+
+# UCLA Law COVID-19 Behind Bars Data 
+
+## Background 
+The [UCLA Law COVID-19 Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID-19 in American carceral facilities and advocates for greater transparency and accountability around the pandemic response of the carceral system. Since March, we have been collecting and reporting facility-level data on COVID-19 in prisons, jails, and other correctional centers. 
+
+We also collect information about pandemic-related prison and jail releases, legal filings and court orders bearing on the safety of incarcerated people, and grassroots organizing campaigns and fundraisers – available  [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
+
+## Our Process  
+Our core dataset includes information on COVID-19 cases, deaths, and tests across more than 1,500 state, federal, and county facilities. We maintain this dataset by scraping and standardizing data from more than 80 sources. We scrape this data 3-4 times each week, although correctional agencies vary in how often they update their data. Our [scraper production code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) and [more detailed documentation](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) are available on GitHub. 
+
+The majority of the facilities that we collect data on fall under state jurisdiction, where COVID-19 data is reported on state Department of Correction websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons](https://www.bop.gov/coronavirus/) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://doccs.ny.gov/doccs-covid-19-report), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).  
+
+``` {r setup, echo=FALSE, message=FALSE}
+library(behindbarstools)
+library(tidyverse)
+```
+
+``` {r load, echo=FALSE, message=FALSE, warning=FALSE}
+# Load latest data 
+scrape_df <- behindbarstools::read_scrape_data()
+```
+
+### Number of Facilities by Jurisdiction
+
+``` {r fac-by-jurisdiction, echo=FALSE, message=FALSE, fig.width=8, fig.height=1.5, fig.align="center", dpi=500}
+# Plot facilities by jurisdiction 
+scrape_df %>% 
+    mutate(jurisdiction = stringr::str_to_title(jurisdiction)) %>% 
+    group_by(jurisdiction) %>% 
+    count() %>% 
+    ggplot(aes(x = jurisdiction, y = n)) + 
+    geom_segment(
+        aes(x = jurisdiction, xend = jurisdiction, y = 0, yend = n), 
+        size = 1.5, 
+        color = "#4C6788") + 
+    geom_point(
+        color = "#4C6788", size = 4.0) + 
+    geom_text(
+        aes(label = scales::comma(n)), 
+        color = "#555526", 
+        size = 3.5, 
+        hjust = -0.5, vjust = -0.8) + 
+    coord_flip() + 
+    scale_y_continuous(
+        label = scales::comma, 
+        limits = c(0, 1500)) + 
+    theme_behindbars(base_size = 14) + 
+    theme(axis.title.y = element_blank()) 
+```
+
+We are continuously adding to and refining our scrapers. Where possible, we have also retrospectively added COVID-19 data for facilities using digital archives. We are currently in the process of cleaning our historical scraped data and integrating  population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. This data is available for several states [on GitHub here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data). We are also developing an R package [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools), which includes a variety of functions to help pull, clean, wrangle, and visualize our data.  
+
+## Our Data 
+Our core dataset includes the following metrics – reported separately for incarcerated people and staff at the facility level: 
+
+* Cumulative COVID-19 cases 
+* Cumulative COVID-19 deaths 
+* Active COVID-19 cases 
+* COVID-19 tests administered 
+
+Not all jurisdictions report COVID-19 metrics at the facility level. Some Department of Corrections only report statewide totals, and others do not report any data for certain metrics. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution.
+
+**Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. 
+
+``` {r map-setup, echo=FALSE, message=FALSE}
+# Load and process hex grid geojson 
+# Source: https://www.r-graph-gallery.com/328-hexbin-map-of-the-usa.html
+spdf <- geojsonio::geojson_read("README_files/us_states_hexgrid.geojson", what = "sp")
+
+spdf@data = spdf@data %>% 
+    mutate(google_name = gsub(" \\(United States\\)", "", google_name))
+
+spdf_fortified <- broom::tidy(spdf, region = "google_name")
+
+centers <- cbind.data.frame(data.frame(
+    rgeos::gCentroid(spdf, byid = TRUE), 
+    id = spdf@data$iso3166_2))
+
+# Set plotting aesthetics 
+# TODO: Delete this if theme_map_behindbars is merged into behindbarstools 
+theme_map_behindbars <- function(
+    base_size = 24, base_family = "Helvetica") {
+
+    behindbarstools::theme_behindbars(
+        base_size = base_size,
+        base_family = base_family
+    ) +
+        ggplot2::theme(
+            axis.line =           element_blank(),
+            axis.ticks =          element_blank(),
+            axis.text =           element_blank(),
+            axis.title =          element_blank(),
+            axis.title.y =        element_blank(),
+            panel.grid.major =    element_blank(),
+            panel.grid.minor =    element_blank(),
+            panel.grid.major.y =  element_blank(),
+            legend.position =     "top",
+            legend.title =        element_blank())
+}
+
+fill_bb <- c("facility" = "#D7790F", 
+             "statewide" = "#82CAA4", 
+             "unavailable" = "#C7C6C5")
+
+# Get plotting data (with hex grid) 
+get_plotting_data <- function(metric) {
+    
+    # States with facility-level data 
+    facility_df <- scrape_df %>% 
+        filter(jurisdiction == "state") %>% 
+        filter(Name != "STATEWIDE") %>% 
+        filter(!is.na(!!sym(metric))) %>% 
+        select(State) %>% 
+        distinct() %>% 
+        mutate(level = "facility")
+
+    # States with statewide data 
+    statewide_df <- scrape_df %>% 
+        filter(jurisdiction == "state") %>% 
+        filter(Name == "STATEWIDE") %>% 
+        filter(!is.na(!!sym(metric))) %>% 
+        select(State) %>% 
+        distinct() %>% 
+        mutate(level = "statewide")
+    
+    # Combine and merge with hex grid 
+    combined_df <- facility_df %>% 
+        full_join(statewide_df, by = c("State")) %>% 
+        mutate(level = coalesce(level.x, level.y)) %>% 
+        select(State, level) %>% 
+        mutate(State = replace(State, State == "DC", "District of Columbia"))
+    
+    spdf_fortified %>% 
+        left_join(combined_df, by = c("id" = "State")) %>% 
+        mutate(level = replace_na(level, "unavailable"))
+}
+
+# Plot map  
+plot_hex_map <- function(df) {
+    ggplot() +
+    geom_polygon(
+        data = df, 
+        aes(x = long, y = lat, group = group, fill = level), 
+        color = "white") + 
+    geom_text(
+        data = centers, 
+        aes(x = x, y = y, label = id), size = 3) + 
+    scale_fill_manual(
+        values = fill_bb,
+        breaks = c("facility", "statewide", "unavailable"), 
+        labels = c("Facility-Level Data", "Statewide Data", "Unavailable")) + 
+    coord_map() + 
+    theme_map_behindbars(base_size = 14) 
+}
+```
+
+### Data Availability for Incarcerated Residents in State Facilities 
+The maps below summarize the data availability for our four core metrics among incarcerated people in state facilities. For example, [California's Department of Corrections](https://www.cdcr.ca.gov/covid19/population-status-tracking/) reports facility-level data on cumulative COVID-19 cases for residents, while [Florida's Department of Corrections](http://www.dc.state.fl.us/comm/covid-19.html) only reports statewide totals. The [Federal Bureau of Prisons](https://www.bop.gov/coronavirus/) reports facility-level data on cumulative cases and deaths, but not active cases or tests administered. 
+
+``` {r resident-maps, echo=FALSE, message=FALSE, fig.width=10, fig.height=6.5, fig.align="center", dpi=500}
+# Residents coverage maps 
+map_Residents.Confirmed <- 
+    plot_hex_map(get_plotting_data("Residents.Confirmed")) + 
+    labs(title = "Cumulative COVID-19 Cases")
+
+map_Residents.Deaths <- 
+    plot_hex_map(get_plotting_data("Residents.Deaths")) + 
+    labs(title = "Cumulative COVID-19 Deaths")
+
+map_Residents.Active <- 
+    plot_hex_map(get_plotting_data("Residents.Active")) + 
+    labs(title = "Active COVID-19 Cases")
+
+map_Residents.Tadmin <- 
+    plot_hex_map(get_plotting_data("Residents.Tadmin")) + 
+    labs(title = "COVID-19 Tests Administered")
+
+ggpubr::ggarrange(map_Residents.Confirmed, map_Residents.Deaths, 
+                  map_Residents.Active, map_Residents.Tadmin, 
+                  common.legend = TRUE)
+```
+
+### Data Availability for Staff in State Facilities 
+The maps below summarize the data availability for cumulative COVID-19 cases and deaths among staff in state facilities. We try to include data only for correctional staff who work within facility walls and exclude administrative staff. When agencies don't distinguish between different types of staff in their reporting, we include data for all reported staff.
+
+``` {r staff-maps, echo=FALSE, message=FALSE, fig.width=10, fig.height=3.5, fig.align="center", dpi=500}
+# Staff coverage maps 
+map_Staff.Confirmed <- 
+    plot_hex_map(get_plotting_data("Staff.Confirmed")) + 
+    labs(title = "Cumulative COVID-19 Cases")
+
+map_Staff.Deaths <- 
+    plot_hex_map(get_plotting_data("Staff.Deaths")) + 
+    labs(title = "Cumulative COVID-19 Deaths")
+
+ggpubr::ggarrange(map_Staff.Confirmed, map_Staff.Deaths, 
+                  common.legend = TRUE)
+```
+
+## Directory Structure 
+
+## Data Dictionary 
+| Variable               | Description                                                                                                            |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|
+| `ID`                   | Integer ID that uniquely identifies every facility                                                                     |
+| `jurisdiction`         | Whether the facility falls under `state`, `county` or `federal` jurisdiction                                           |
+| `State`                | State where the facility is located                                                                                    |
+| `Name`                 | Facility name                                                                                                          |
+| `Date`                 | Date data was scraped (not necessarily date last updated by the reporting source)                                      |
+| `source`               | Source from which the data was scraped                                                                                 |
+| `Residents.Confirmed`  | Cumulative number of incarcerated individuals infected with COVID-19                                                   |
+| `Staff.Confirmed`      | Cumulative number of staff infected with COVID-19                                                                      |
+| `Residents.Deaths`     | Cumulative number of incarcerated individuals who died from COVID-19                                                   |
+| `Staff.Deaths`         | Cumulative number of staff who died from COVID-19                                                                      |
+| `Residents.Recovered`  | Cumulative number of incarcerated individuals who recovered from COVID-19                                              |
+| `Staff.Recovered`      | Cumulative number of staff who recovered from COVID-19                                                                 |
+| `Residents.Tadmin`     | Non-cumulative number of incarcerated individuals tested for COVID-19                                                  |
+| `Staff.Tested`         | Cumulative number of staff tested for COVID-19                                                                         |
+| `Residents.Negative`   | Cumulative number of incarcerated individuals who tested negative for COVID-19                                         |
+| `Staff.Negative`       | Cumulative number of staff who tested negative for COVID-19                                                            |
+| `Residents.Pending`    | Cumulative number of incarcerated individuals with pending test results for COVID-19                                   |
+| `Staff.Pending`        | Cumulative number of staff with pending test results for COVID-19                                                      |
+| `Residents.Quarantine` | Cumulative number of incarcerated individuals in quarantine from COVID-19                                              |
+| `Staff.Quarantine`     | Cumulative number of staff in quarantine from COVID-19                                                                 |
+| `Residents.Active`     | Non-cumulative number of incarcerated individuals infected with COVID-19                                               |
+| `Residents.Population` | Facility population if reported by the source                                                                          |
+| `hifld_id`             | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
+| `Notes`                | Notes from UCLA Law COVID-19 Behind Bars staff                                                                         |
+
+Additional geographic fields: `Address`, `Zipcode`, `City`, `County`, `Latitude`, `Longitude`, `County.FIPS`.  
+
+## Citations
+
+Citations for academic publications and research reports:
+
+> Sharon Dolovich, Aaron Littman, Kalind Parish, Grace DiLaura, Chase Hommeyer,  Michael Everett, Hope Johnson, Neal Marquez, and Erika Tyagi. UCLA Law Covid-19 Behind Bars Data Project: Jail/Prison Confirmed Cases Dataset [date you downloaded the data]. UCLA Law, 2020, https://uclacovidbehindbars.org/.
+
+Citations for media outlets, policy briefs, and online resources:
+
+> UCLA Law Covid-19 Behind Bars Data Project, https://uclacovidbehindbars.org/.
+
+## License 
+Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). That means that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use our work for commercial purposes, which means anything primarily intended for or directed toward commercial advantage or monetary compensation. 
