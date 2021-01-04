@@ -1,5 +1,5 @@
 
-[![logo](logo.svg)](https://uclacovidbehindbars.org/)
+[![logo](README_files/logo.svg)](https://uclacovidbehindbars.org/)
 
 # UCLA Law COVID-19 Behind Bars Data
 
