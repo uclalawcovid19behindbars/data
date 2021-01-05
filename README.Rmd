@@ -10,7 +10,7 @@ output: github_document
 ## Background 
 The [UCLA Law COVID-19 Behind Bars Data Project](https://uclacovidbehindbars.org/), launched in March 2020, tracks the spread and impact of COVID-19 in American carceral facilities and advocates for greater transparency and accountability around the pandemic response of the carceral system. Since March, we have been collecting and reporting facility-level data on COVID-19 in prisons, jails, and other correctional centers. 
 
-We also collect information about pandemic-related prison and jail releases, legal filings and court orders bearing on the safety of incarcerated people, and grassroots organizing campaigns and fundraisers – available  [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
+We also collect information about pandemic-related prison and jail releases, legal filings and court orders bearing on the safety of incarcerated people, and grassroots organizing campaigns and fundraisers [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process  
 Our core dataset includes information on COVID-19 cases, deaths, and tests across more than 1,500 state, federal, and county facilities. We maintain this dataset by scraping and standardizing data from more than 80 sources. We scrape this data 3-4 times each week, although correctional agencies vary in how often they update their data. Our [scraper production code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) and [more detailed documentation](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) are available on GitHub. 
@@ -84,27 +84,6 @@ centers <- cbind.data.frame(data.frame(
     id = spdf@data$iso3166_2))
 
 # Set plotting aesthetics 
-# TODO: Delete this if theme_map_behindbars is merged into behindbarstools 
-theme_map_behindbars <- function(
-    base_size = 24, base_family = "Helvetica") {
-
-    behindbarstools::theme_behindbars(
-        base_size = base_size,
-        base_family = base_family
-    ) +
-        ggplot2::theme(
-            axis.line =           element_blank(),
-            axis.ticks =          element_blank(),
-            axis.text =           element_blank(),
-            axis.title =          element_blank(),
-            axis.title.y =        element_blank(),
-            panel.grid.major =    element_blank(),
-            panel.grid.minor =    element_blank(),
-            panel.grid.major.y =  element_blank(),
-            legend.position =     "top",
-            legend.title =        element_blank())
-}
-
 fill_bb <- c("facility" = "#D7790F", 
              "statewide" = "#82CAA4", 
              "unavailable" = "#C7C6C5")
@@ -203,8 +182,6 @@ map_Staff.Deaths <-
 ggpubr::ggarrange(map_Staff.Confirmed, map_Staff.Deaths, 
                   common.legend = TRUE)
 ```
-
-## Directory Structure 
 
 ## Data Dictionary 
 | Variable               | Description                                                                                                            |

@@ -16,7 +16,6 @@ jails, and other correctional centers.
 We also collect information about pandemic-related prison and jail
 releases, legal filings and court orders bearing on the safety of
 incarcerated people, and grassroots organizing campaigns and fundraisers
-– available
 [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process
@@ -82,7 +81,7 @@ define the metrics that they report. We do our best to standardize these
 variables, but comparing data across jurisdictions and over time should
 be done with caution.
 
-**NOTE**: Jurisdictions are continuously updating how, where, and
+**Note**: Jurisdictions are continuously updating how, where, and
 whether they update their data. We do our best to accurately collect as
 much data as possible, but our data availability is subject to change.
 The maps below show the data that we currently include in our core
@@ -114,8 +113,6 @@ types of staff in their reporting, we include data for all reported
 staff.
 
 <img src="README_files/figure-gfm/staff-maps-1.png" style="display: block; margin: auto;" />
-
-## Directory Structure
 
 ## Data Dictionary
 
