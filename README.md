@@ -28,7 +28,7 @@ correctional agencies vary in how often they update their data. Our
 [scraper production
 code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers)
 and [more detailed
-documentation](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers)
+documentation](https://uclalawcovid19behindbars.github.io/covid19-behind-bars-public-docs/scraper_documentation/)
 are available on GitHub.
 
 The majority of the facilities that we collect data on fall under state
