@@ -14,6 +14,25 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
         run: Rscript -e 'install.packages("rmarkdown")'
+      - name: Query dependencies
+        run: |
+          install.packages('remotes')
+        shell: Rscript {0}
+      - name: Cache R packages
+        uses: actions/cache@v2
+        with:
+          path: ~/.local/share/renv
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: ${{ runner.os }}-renv-
+      - name: Install macOS system dependencies
+        run: |
+          brew install libgit2
+          brew install imagemagick@6
+      - name: Install dependencies
+        run: |
+          install.packages('usethis')
+          install.packages('devtools')
+        shell: Rscript {0}
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
       - name: Commit results
