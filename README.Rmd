@@ -58,7 +58,7 @@ scrape_df %>%
     scale_y_continuous(
         label = scales::comma, 
         limits = c(0, 1500)) + 
-    theme_behindbars(base_size = 14) + 
+    behindbarstools::theme_behindbars(base_size = 14) + 
     theme(axis.title.y = element_blank()) 
 ```
 
@@ -143,7 +143,7 @@ plot_hex_map <- function(df) {
         breaks = c("facility", "statewide", "unavailable"), 
         labels = c("Facility-Level Data", "Statewide Data", "Unavailable")) + 
     coord_map() + 
-    theme_map_behindbars(base_size = 14) 
+    behindbarstools::theme_map_behindbars(base_size = 14) 
 }
 ```
 
