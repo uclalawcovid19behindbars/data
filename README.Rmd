@@ -19,7 +19,7 @@ The majority of the facilities that we collect data on fall under state jurisdic
 
 ``` {r setup, echo=FALSE, message=FALSE}
 ## Define package list
-Packages<-c("tidyverse", "devtools", "geojsonio", "ggpubr")
+Packages<-c("tidyverse", "devtools", "geojsonio", "ggpubr", "mapproj")
 .packages = Packages
 ## Install CRAN packages (if not already installed)
 .inst <- .packages %in% installed.packages()
