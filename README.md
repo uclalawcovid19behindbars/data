@@ -55,7 +55,7 @@ County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19)
     ## 
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//RtmpKMxuOc/downloaded_packages
+    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//Rtmp78iJ3R/downloaded_packages
 
     ## [[1]]
     ## [1] TRUE
@@ -80,13 +80,13 @@ County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19)
     ## magick     (NA -> 2.5.2) [CRAN]
     ## 
     ## The downloaded binary packages are in
-    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//RtmpKMxuOc/downloaded_packages
-    ##      checking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/RtmpKMxuOc/remotese9c117746bd/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’ ...  [32m✔[39m  [90mchecking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/RtmpKMxuOc/remotese9c117746bd/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’[39m[36m[39m
+    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//Rtmp78iJ3R/downloaded_packages
+    ##          checking      checking for file      checking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/Rtmp78iJ3R/remotesefb3c8c848e/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’ ...  [32m✔[39m  [90mchecking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/Rtmp78iJ3R/remotesefb3c8c848e/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’[39m[36m[36m (336ms)[36m[39m
     ##   [90m─[39m[90m  [39m[90mpreparing ‘behindbarstools’:[39m[36m[39m
     ##      checking DESCRIPTION meta-information ...  [32m✔[39m  [90mchecking DESCRIPTION meta-information[39m[36m[39m
-    ##   [90m─[39m[90m  [39m[90mchecking for LF line-endings in source and make files and shell scripts[39m[36m[39m
-    ##   [90m─[39m[90m  [39m[90mchecking for empty or unneeded directories[39m[36m[39m
-    ##   [90m─[39m[90m  [39m[90mbuilding ‘behindbarstools_0.1.0.tar.gz’[39m[36m[39m
+    ##               checking for LF line-endings in source and make files and shell scripts  [90m─[39m[90m  [39m[90mchecking for LF line-endings in source and make files and shell scripts[39m[36m[39m
+    ##               checking for empty or unneeded directories  [90m─[39m[90m  [39m[90mchecking for empty or unneeded directories[39m[36m[39m
+    ##               building      building ‘behindbarstools_0.1.0.tar.gz’  [90m─[39m[90m  [39m[90mbuilding ‘behindbarstools_0.1.0.tar.gz’[39m[36m[39m
     ##      
     ## 
 
