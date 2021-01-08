@@ -48,6 +48,48 @@ County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and
 [Hennepin
 County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).
 
+    ## 
+    ##   There is a binary version available but the source version is later:
+    ##    binary source needs_compilation
+    ## sf  0.9-6  0.9-7              TRUE
+    ## 
+    ## 
+    ## The downloaded binary packages are in
+    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//RtmpKMxuOc/downloaded_packages
+
+    ## [[1]]
+    ## [1] TRUE
+    ## 
+    ## [[2]]
+    ## [1] TRUE
+    ## 
+    ## [[3]]
+    ## [1] TRUE
+    ## 
+    ## [[4]]
+    ## [1] TRUE
+    ## 
+    ## [[5]]
+    ## [1] TRUE
+
+    ## geometries (NA -> 0.2.0) [CRAN]
+    ## rapidjsonr (NA -> 1.2.0) [CRAN]
+    ## sfheaders  (NA -> 0.4.0) [CRAN]
+    ## jsonify    (NA -> 1.2.1) [CRAN]
+    ## geojsonsf  (NA -> 2.0.1) [CRAN]
+    ## magick     (NA -> 2.5.2) [CRAN]
+    ## 
+    ## The downloaded binary packages are in
+    ##  /var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T//RtmpKMxuOc/downloaded_packages
+    ##      checking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/RtmpKMxuOc/remotese9c117746bd/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’ ...  [32m✔[39m  [90mchecking for file ‘/private/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/RtmpKMxuOc/remotese9c117746bd/uclalawcovid19behindbars-behindbarstools-ecd0efb/DESCRIPTION’[39m[36m[39m
+    ##   [90m─[39m[90m  [39m[90mpreparing ‘behindbarstools’:[39m[36m[39m
+    ##      checking DESCRIPTION meta-information ...  [32m✔[39m  [90mchecking DESCRIPTION meta-information[39m[36m[39m
+    ##   [90m─[39m[90m  [39m[90mchecking for LF line-endings in source and make files and shell scripts[39m[36m[39m
+    ##   [90m─[39m[90m  [39m[90mchecking for empty or unneeded directories[39m[36m[39m
+    ##   [90m─[39m[90m  [39m[90mbuilding ‘behindbarstools_0.1.0.tar.gz’[39m[36m[39m
+    ##      
+    ## 
+
 ### Number of Facilities by Jurisdiction
 
 <img src="README_files/figure-gfm/fac-by-jurisdiction-1.png" style="display: block; margin: auto;" />
