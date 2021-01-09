@@ -17,9 +17,9 @@ Our core dataset includes information on COVID-19 cases, deaths, and tests acros
 
 The majority of the facilities that we collect data on fall under state jurisdiction, where COVID-19 data is reported on state Department of Correction (DOC) websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons](https://www.bop.gov/coronavirus/) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://doccs.ny.gov/doccs-covid-19-report), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).  
 
-``` {r setup, echo=FALSE, message=FALSE}
+``` {r setup, echo=FALSE, message=FALSE, warning=FALSE, results='hide'}
 ## Define package list
-Packages<-c("tidyverse", "devtools", "geojsonio", "ggpubr")
+Packages<-c("tidyverse", "devtools", "geojsonio", "ggpubr", "mapproj")
 .packages = Packages
 ## Install CRAN packages (if not already installed)
 .inst <- .packages %in% installed.packages()
@@ -58,7 +58,7 @@ scrape_df %>%
     scale_y_continuous(
         label = scales::comma, 
         limits = c(0, 1500)) + 
-    theme_behindbars(base_size = 14) + 
+    behindbarstools::theme_behindbars(base_size = 14) + 
     theme(axis.title.y = element_blank()) 
 ```
 
@@ -143,7 +143,7 @@ plot_hex_map <- function(df) {
         breaks = c("facility", "statewide", "unavailable"), 
         labels = c("Facility-Level Data", "Statewide Data", "Unavailable")) + 
     coord_map() + 
-    theme_map_behindbars(base_size = 14) 
+    behindbarstools::theme_map_behindbars(base_size = 14) 
 }
 ```
 
