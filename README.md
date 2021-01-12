@@ -13,15 +13,17 @@ pandemic response of the carceral system. Since March, we have been
 collecting and reporting facility-level data on COVID-19 in prisons,
 jails, and other correctional centers.
 
-  - Our latest data on COVID-19 in jails and prisons is maintained in
-    this repository.
-  - We are in the process of cleaning our historical data, available for
-    several states in [our `historical-data`
+  - **Latest data**: Our latest data on COVID-19 in jails and prisons is
+    maintained in this repository
+    [here](https://github.com/uclalawcovid19behindbars/data/tree/master/Adult%20Facility%20Counts).  
+  - **Historical data**: We are in the process of cleaning our
+    historical data, available for several states in [our
+    `historical-data`
     repository](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
-  - We also collect information about pandemic-related prison and jail
-    releases, legal filings and court orders bearing on the safety of
-    incarcerated people, and grassroots organizing campaigns and
-    fundraisers in [this Google
+  - **Additional data**: We also collect information about
+    pandemic-related prison and jail releases, legal filings and court
+    orders bearing on the safety of incarcerated people, and grassroots
+    organizing campaigns and fundraisers in [this Google
     Sheet](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process
@@ -54,12 +56,12 @@ County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and
 [Hennepin
 County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).
 
-Much of our data from jails in California is collected by [Davis
-Vanguard](https://www.davisvanguard.org/), who have been generously
-sharing their COVID-19 data with us. If you would like to contribute
-data on COVID-19 in a facility that we don’t currently include, please
-see our template
-[here](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589).
+**Contributors**: Much of our data from jails in California is collected
+by [Davis Vanguard](https://www.davisvanguard.org/), who have been
+generously sharing their COVID-19 data with us. If you would like to
+contribute data on COVID-19 in a facility that we don’t currently
+include, please see [our
+template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589).
 We always welcome additional contributors\!
 
 ### Number of Facilities by Jurisdiction
@@ -71,8 +73,8 @@ we have also retrospectively added COVID-19 data for facilities using
 digital archives. We are currently in the process of cleaning our
 historical scraped data and integrating population data to more readily
 compute COVID-19 rates across facilities over the course of the
-pandemic. This data is available for several states [on GitHub
-here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
+pandemic. This data is available for several states
+[here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
 We are also developing an R package
 [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools),
 which includes a variety of functions to help pull, clean, wrangle, and
