@@ -13,10 +13,16 @@ pandemic response of the carceral system. Since March, we have been
 collecting and reporting facility-level data on COVID-19 in prisons,
 jails, and other correctional centers.
 
-We also collect information about pandemic-related prison and jail
-releases, legal filings and court orders bearing on the safety of
-incarcerated people, and grassroots organizing campaigns and fundraisers
-[here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
+  - Our latest data on COVID-19 in jails and prisons is maintained in
+    this repository.
+  - We are in the process of cleaning our historical data, available for
+    several states in [our `historical-data`
+    repository](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
+  - We also collect information about pandemic-related prison and jail
+    releases, legal filings and court orders bearing on the safety of
+    incarcerated people, and grassroots organizing campaigns and
+    fundraisers in [this Google
+    Sheet](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process
 
@@ -47,6 +53,14 @@ County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails),
 County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and
 [Hennepin
 County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).
+
+Much of our data from jails in California is collected by [Davis
+Vanguard](https://www.davisvanguard.org/), who have been generously
+sharing their COVID-19 data with us. If you would like to contribute
+data on COVID-19 in a facility that we don’t currently include, please
+see our template
+[here](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589).
+We always welcome additional contributors\!
 
 ### Number of Facilities by Jurisdiction
 
@@ -118,8 +132,8 @@ staff.
 
 | Variable               | Description                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ID`                   | Integer ID that uniquely identifies every facility                                                                                                             |
-| `jurisdiction`         | Whether the facility falls under `state`, `county` or `federal` jurisdiction                                                                                   |
+| `Facility.ID`          | Integer ID that uniquely identifies every facility                                                                                                             |
+| `Jurisdiction`         | Whether the facility falls under `state`, `county` or `federal` jurisdiction                                                                                   |
 | `State`                | State where the facility is located                                                                                                                            |
 | `Name`                 | Facility name                                                                                                                                                  |
 | `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                                                                   |
