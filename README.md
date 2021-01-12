@@ -16,15 +16,16 @@ jails, and other correctional centers.
   - **Latest data**: Our latest data on COVID-19 in jails and prisons is
     maintained in this repository
     [here](https://github.com/uclalawcovid19behindbars/data/tree/master/Adult%20Facility%20Counts).  
-  - **Historical data**: We are in the process of cleaning our
-    historical data, available for several states in [our
+  - **Historical data**: Our historical data is maintained in [our
     `historical-data`
     repository](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
+    We are in the process of cleaning this data and will be adding
+    additional states as this data becomes available.
   - **Additional data**: We also collect information about
     pandemic-related prison and jail releases, legal filings and court
     orders bearing on the safety of incarcerated people, and grassroots
-    organizing campaigns and fundraisers in [this Google
-    Sheet](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
+    organizing campaigns and fundraisers
+    [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process
 
