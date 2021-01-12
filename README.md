@@ -155,9 +155,8 @@ staff.
 | `Residents.Quarantine` | Cumulative number of incarcerated individuals in quarantine from COVID-19                                                                                      |
 | `Staff.Quarantine`     | Cumulative number of staff in quarantine from COVID-19                                                                                                         |
 | `Residents.Active`     | Non-cumulative number of incarcerated individuals infected with COVID-19                                                                                       |
-| `Residents.Population` | Facility population if reported by the source                                                                                                                  |
-| `hifld_id`             | The facility’s corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
-| `Notes`                | Notes from UCLA Law COVID-19 Behind Bars staff                                                                                                                 |
+| `Population.Feb20`     | Population of the facility as close to February 1, 2020 as possible.                                                                                           |
+| `HIFLD.ID`             | The facility’s corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
 
 Additional geographic fields: `Address`, `Zipcode`, `City`, `County`,
 `Latitude`, `Longitude`, `County.FIPS`.
