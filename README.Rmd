@@ -35,7 +35,8 @@ devtools::install_github("uclalawcovid19behindbars/behindbarstools")
 
 ``` {r load, echo=FALSE, message=FALSE, warning=FALSE}
 # Load latest data 
-scrape_df <- behindbarstools::read_scrape_data()
+scrape_df <- behindbarstools::read_scrape_data() %>% 
+    filter(!Jurisdiction == "immigration")
 ```
 
 ### Number of Facilities by Jurisdiction
@@ -78,7 +79,7 @@ Our core dataset includes the following metrics – reported separately for inca
 
 Not all jurisdictions report COVID-19 metrics at the facility level. Some DOCs only report statewide totals, and others do not report any data for certain metrics. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution.
 
-**Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. The maps below show the data that we currently include in our core dataset. This typically corresponds to the data that DOCs report on their websites, but there may be instances when DOC report data that we are unable to scrape. 
+**Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. The maps below show the data that we currently include in our core dataset for state prisons. This typically corresponds to the data that DOCs report on their websites, but there may be instances when DOC report data that we are unable to scrape. 
 
 ``` {r map-setup, echo=FALSE, message=FALSE}
 # Load and process hex grid geojson 
@@ -104,6 +105,7 @@ get_plotting_data <- function(metric) {
     
     # States with facility-level data 
     facility_df <- scrape_df %>% 
+        filter(Date > Sys.Date() - 14) %>% 
         filter(Jurisdiction == "state") %>% 
         filter(Name != "STATEWIDE") %>% 
         filter(!is.na(!!sym(metric))) %>% 
@@ -113,6 +115,7 @@ get_plotting_data <- function(metric) {
 
     # States with statewide data 
     statewide_df <- scrape_df %>% 
+        filter(Date > Sys.Date() - 14) %>% 
         filter(Jurisdiction == "state") %>% 
         filter(Name == "STATEWIDE") %>% 
         filter(!is.na(!!sym(metric))) %>% 
