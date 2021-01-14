@@ -98,7 +98,7 @@ Facility.ID,jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 132,federal,California,LOMPOC FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,649,,3,0,664,19,,,,,0,,,,,1257,3600 GUARD RD,93436,LOMPOC,SANTA BARBARA,34.67675537,-120.4994621,6083,10000863
 133,federal,California,LOMPOC UNITED STATES PENITENTIARY,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,251,,2,0,167,28,,,,,6,,,,,947,3901 KLEIN BLVD,93436,LOMPOC,SANTA BARBARA,34.67918746,-120.5054801,6083,10000864
 ,state,California,LOS ANGELES COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,79,,,,45,,,,,,,,,,,,,,,,,,
-135,county,California,LOS ANGELES JAILS,2021-01-13,https://lasd.org/covid19updates/,4001,2587,2,,3661,,42058,,41628,,,,2615,1885,61,,,,,,34.0591,-118.2321,6037,
+135,county,California,LOS ANGELES JAILS,2021-01-14,https://lasd.org/covid19updates/,4091,2587,12,,3661,,42058,,41628,,,,2615,1885,61,,,,,,34.0591,-118.2321,6037,
 136,federal,California,LOS ANGELES MTROPOLITAN DETENTION CENTER,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,350,,1,0,324,56,,,,,10,,,,,713,535 NORTH ALAMEDA STREET,90012,LOS ANGELES,LOS ANGELES,34.0536306,-118.238468,6037,10000892
 ,state,California,MENDOCINO COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,2,,,,2,,,,,,,,,,,,,,,,,,
 137,federal,California,MENDOTA FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,74,,0,0,15,23,,,,,15,,,,,,,,,,,,,
