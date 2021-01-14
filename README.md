@@ -13,10 +13,19 @@ pandemic response of the carceral system. Since March, we have been
 collecting and reporting facility-level data on COVID-19 in prisons,
 jails, and other correctional centers.
 
-We also collect information about pandemic-related prison and jail
-releases, legal filings and court orders bearing on the safety of
-incarcerated people, and grassroots organizing campaigns and fundraisers
-[here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
+  - **Latest data**: Our latest data on COVID-19 in jails and prisons is
+    maintained in this repository
+    [here](https://github.com/uclalawcovid19behindbars/data/tree/master/Adult%20Facility%20Counts).  
+  - **Historical data**: Our historical data is maintained in [our
+    `historical-data`
+    repository](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
+    We are in the process of cleaning this data and will be adding
+    additional states as this data becomes available.
+  - **Additional data**: We also collect information about
+    pandemic-related prison and jail releases, legal filings and court
+    orders bearing on the safety of incarcerated people, and grassroots
+    organizing campaigns and fundraisers
+    [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906).
 
 ## Our Process
 
@@ -48,6 +57,14 @@ County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and
 [Hennepin
 County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19).
 
+**Contributors**: Much of our data from jails in California is collected
+by [Davis Vanguard](https://www.davisvanguard.org/), who have been
+generously sharing their COVID-19 data with us. If you would like to
+contribute data on COVID-19 in a facility that we don’t currently
+include, please see [our
+template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589).
+We always welcome additional contributors\!
+
 ### Number of Facilities by Jurisdiction
 
 <img src="README_files/figure-gfm/fac-by-jurisdiction-1.png" style="display: block; margin: auto;" />
@@ -57,8 +74,8 @@ we have also retrospectively added COVID-19 data for facilities using
 digital archives. We are currently in the process of cleaning our
 historical scraped data and integrating population data to more readily
 compute COVID-19 rates across facilities over the course of the
-pandemic. This data is available for several states [on GitHub
-here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
+pandemic. This data is available for several states
+[here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data).
 We are also developing an R package
 [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools),
 which includes a variety of functions to help pull, clean, wrangle, and
@@ -118,8 +135,8 @@ staff.
 
 | Variable               | Description                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `ID`                   | Integer ID that uniquely identifies every facility                                                                                                             |
-| `jurisdiction`         | Whether the facility falls under `state`, `county` or `federal` jurisdiction                                                                                   |
+| `Facility.ID`          | Integer ID that uniquely identifies every facility                                                                                                             |
+| `Jurisdiction`         | Whether the facility falls under `state`, `county` or `federal` jurisdiction                                                                                   |
 | `State`                | State where the facility is located                                                                                                                            |
 | `Name`                 | Facility name                                                                                                                                                  |
 | `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                                                                   |
@@ -139,9 +156,8 @@ staff.
 | `Residents.Quarantine` | Cumulative number of incarcerated individuals in quarantine from COVID-19                                                                                      |
 | `Staff.Quarantine`     | Cumulative number of staff in quarantine from COVID-19                                                                                                         |
 | `Residents.Active`     | Non-cumulative number of incarcerated individuals infected with COVID-19                                                                                       |
-| `Residents.Population` | Facility population if reported by the source                                                                                                                  |
-| `hifld_id`             | The facility’s corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
-| `Notes`                | Notes from UCLA Law COVID-19 Behind Bars staff                                                                                                                 |
+| `Population.Feb20`     | Population of the facility as close to February 1, 2020 as possible.                                                                                           |
+| `HIFLD.ID`             | The facility’s corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
 
 Additional geographic fields: `Address`, `Zipcode`, `City`, `County`,
 `Latitude`, `Longitude`, `County.FIPS`.
