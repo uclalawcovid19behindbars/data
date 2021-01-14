@@ -102,9 +102,9 @@ be done with caution.
 whether they update their data. We do our best to accurately collect as
 much data as possible, but our data availability is subject to change.
 The maps below show the data that we currently include in our core
-dataset. This typically corresponds to the data that DOCs report on
-their websites, but there may be instances when DOC report data that we
-are unable to scrape.
+dataset for state prisons. This typically corresponds to the data that
+DOCs report on their websites, but there may be instances when DOC
+report data that we are unable to scrape.
 
 ### Data Availability for Incarcerated Residents in State Prisons
 
