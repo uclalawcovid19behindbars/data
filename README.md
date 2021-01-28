@@ -102,9 +102,9 @@ be done with caution.
 whether they update their data. We do our best to accurately collect as
 much data as possible, but our data availability is subject to change.
 The maps below show the data that we currently include in our core
-dataset. This typically corresponds to the data that DOCs report on
-their websites, but there may be instances when DOC report data that we
-are unable to scrape.
+dataset for state prisons. This typically corresponds to the data that
+DOCs report on their websites, but there may be instances when DOC
+report data that we are unable to scrape.
 
 ### Data Availability for Incarcerated Residents in State Prisons
 
@@ -151,11 +151,11 @@ staff.
 | `Staff.Tested`         | Cumulative number of staff tested for COVID-19                                                                                                                 |
 | `Residents.Negative`   | Cumulative number of incarcerated individuals who tested negative for COVID-19                                                                                 |
 | `Staff.Negative`       | Cumulative number of staff who tested negative for COVID-19                                                                                                    |
-| `Residents.Pending`    | Cumulative number of incarcerated individuals with pending test results for COVID-19                                                                           |
-| `Staff.Pending`        | Cumulative number of staff with pending test results for COVID-19                                                                                              |
-| `Residents.Quarantine` | Cumulative number of incarcerated individuals in quarantine from COVID-19                                                                                      |
-| `Staff.Quarantine`     | Cumulative number of staff in quarantine from COVID-19                                                                                                         |
-| `Residents.Active`     | Non-cumulative number of incarcerated individuals infected with COVID-19                                                                                       |
+| `Residents.Pending`    | Number of incarcerated individuals currently with pending test results for COVID-19                                                                            |
+| `Staff.Pending`        | Number of staff currently with pending test results for COVID-19                                                                                               |
+| `Residents.Quarantine` | Number of incarcerated individuals currently in quarantine from COVID-19                                                                                       |
+| `Staff.Quarantine`     | Number of staff currently in quarantine from COVID-19                                                                                                          |
+| `Residents.Active`     | Number of incarcerated individuals currently infected with COVID-19                                                                                            |
 | `Population.Feb20`     | Population of the facility as close to February 1, 2020 as possible.                                                                                           |
 | `HIFLD.ID`             | The facility’s corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
 
