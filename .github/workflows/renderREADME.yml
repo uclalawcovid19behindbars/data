@@ -37,7 +37,7 @@ jobs:
         shell: Rscript {0}
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
-      - name: Commit results
-        run: |
-          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Re-build README
+          commit_author: Author <actions@github.com> 
