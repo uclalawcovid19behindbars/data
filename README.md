@@ -147,7 +147,7 @@ staff.
 | `Staff.Deaths`         | Cumulative number of staff who died from COVID-19                                                                                                              |
 | `Residents.Recovered`  | Cumulative number of incarcerated individuals who recovered from COVID-19                                                                                      |
 | `Staff.Recovered`      | Cumulative number of staff who recovered from COVID-19                                                                                                         |
-| `Residents.Tadmin`     | Cumulative number of incarcerated individuals tested for COVID-19                                                                                              |
+| `Residents.Tadmin`     | Cumulative number of COVID-19 tests administered to incarcerated individuals                                                                                   |
 | `Staff.Tested`         | Cumulative number of staff tested for COVID-19                                                                                                                 |
 | `Residents.Negative`   | Cumulative number of incarcerated individuals who tested negative for COVID-19                                                                                 |
 | `Staff.Negative`       | Cumulative number of staff who tested negative for COVID-19                                                                                                    |
