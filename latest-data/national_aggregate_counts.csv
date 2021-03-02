@@ -1,17 +1,17 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,397582,52,""
-Staff.Confirmed,104344,49,"Arkansas, Mississippi, ICE"
-Residents.Deaths,2473,52,""
+Residents.Confirmed,397506,52,""
+Staff.Confirmed,104548,50,"Arkansas, ICE"
+Residents.Deaths,2471,52,""
 Staff.Deaths,179,43,"Arizona, Delaware, Massachusetts, Mississippi, Nebraska
  New Jersey, Oklahoma, Wisconsin, ICE"
-Residents.Recovered,339738,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
+Residents.Recovered,339311,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
  New Jersey, Oklahoma, ICE"
-Staff.Recovered,88321,40,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
- Mississippi, Montana, Nevada, New Jersey, Oklahoma
- Washington, ICE"
-Residents.Tadmin,3008934,38,"Arizona, Arkansas, Delaware, Florida, Georgia
- Idaho, Kansas, Kentucky, Montana, Nevada
- New Jersey, Rhode Island, South Carolina, Federal"
+Staff.Recovered,88472,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
+ Montana, Nevada, New Jersey, Oklahoma, Washington
+ ICE"
+Residents.Tadmin,3042610,40,"Arizona, Arkansas, Florida, Georgia, Idaho
+ Kansas, Kentucky, Montana, Nevada, New Jersey
+ Rhode Island, Federal"
 Residents.Vadmin,73942,9,"Alabama, Alaska, Arizona, Arkansas, Delaware
  Florida, Georgia, Hawaii, Idaho, Illinois
  Indiana, Iowa, Kansas, Kentucky, Louisiana
