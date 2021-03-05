@@ -1,27 +1,27 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,397506,52,""
-Staff.Confirmed,104548,50,"Arkansas, ICE"
-Residents.Deaths,2471,52,""
+Residents.Confirmed,398554,52,""
+Staff.Confirmed,104846,50,"Arkansas, ICE"
+Residents.Deaths,2489,52,""
 Staff.Deaths,179,43,"Arizona, Delaware, Massachusetts, Mississippi, Nebraska
  New Jersey, Oklahoma, Wisconsin, ICE"
-Residents.Recovered,339311,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
+Residents.Recovered,341638,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
  New Jersey, Oklahoma, ICE"
-Staff.Recovered,88472,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
+Staff.Recovered,88748,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
  Montana, Nevada, New Jersey, Oklahoma, Washington
  ICE"
-Residents.Tadmin,3042610,40,"Arizona, Arkansas, Florida, Georgia, Idaho
+Residents.Tadmin,2948891,40,"Arizona, Arkansas, Florida, Georgia, Idaho
  Kansas, Kentucky, Montana, Nevada, New Jersey
  Rhode Island, Federal"
-Residents.Vadmin,73942,9,"Alabama, Alaska, Arizona, Arkansas, Delaware
- Florida, Georgia, Hawaii, Idaho, Illinois
- Indiana, Iowa, Kansas, Kentucky, Louisiana
- Maine, Maryland, Michigan, Mississippi, Missouri
- Montana, Nebraska, Nevada, New Hampshire, New Jersey
- New Mexico, New York, North Dakota, Oklahoma, Oregon
- Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee
- Texas, Utah, Vermont, Washington, West Virginia
- Wisconsin, Wyoming, ICE"
-Staff.Vadmin,57734,9,"Alabama, Alaska, Arizona, Arkansas, Delaware
+Residents.Vadmin,78886,10,"Alabama, Alaska, Arizona, Arkansas, Delaware
+ Florida, Georgia, Hawaii, Illinois, Indiana
+ Iowa, Kansas, Kentucky, Louisiana, Maine
+ Maryland, Michigan, Mississippi, Missouri, Montana
+ Nebraska, Nevada, New Hampshire, New Jersey, New Mexico
+ New York, North Dakota, Oklahoma, Oregon, Pennsylvania
+ Rhode Island, South Carolina, South Dakota, Tennessee, Texas
+ Utah, Vermont, Washington, West Virginia, Wisconsin
+ Wyoming, ICE"
+Staff.Vadmin,61040,9,"Alabama, Alaska, Arizona, Arkansas, Delaware
  Florida, Georgia, Hawaii, Idaho, Illinois
  Indiana, Iowa, Kansas, Kentucky, Louisiana
  Maine, Maryland, Michigan, Mississippi, Missouri
