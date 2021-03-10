@@ -20,7 +20,7 @@ Our project aims to collect facility-level COVID-19 data. However some agencies 
 | File | Description |
 |-|-|
 | `adult_facility_covid_counts.csv` | Facility-level data from state facilities (collected from state DOCs), federal facilities (collected from the BOP), immigration detention facilities (collected from ICE), and several county jail systems. This dataset only includes information directly reported on agency websites. |
-| `state_aggregate_counts.csv` | State-aggregated data from state facilities, along with federal and immigration totals reported as separate rows. Data from county jails is NOT included in these aggregates because our data from county jails is not comprehensive. This includes data reported directly on agency websites, along with statewide aggregate totals reported from other sources. |
+| `state_aggregate_counts.csv` | State-aggregated data from state facilities, along with federal and immigration totals reported as separate rows. Data from county jails is NOT included in these aggregates because our data from county jails is not comprehensive. This dataset includes information reported directly on agency websites, along with statewide aggregate totals reported from other sources. |
 | `national_aggregate_counts.csv` | Nationally-aggregated data from state, federal, and immigration facilities. This dataset also reports the number of agencies reporting each metric and lists the agencies that are missing from each aggregated metric.  |
 
 **Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution. 
@@ -106,6 +106,6 @@ Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 
 ## Contributors 
 
-For questions or feedback about the data, please to reach out to [Michael Everett](everett@law.ucla.edu), [Hope Johnson](johnsonh@law.ucla.edu), [Neal Marquez](marquezn@law.ucla.edu), and [Erika Tyagi](tyagi@law.ucla.edu). 
+For questions or feedback about the data, please reach out to [Michael Everett](everett@law.ucla.edu), [Hope Johnson](johnsonh@law.ucla.edu), [Neal Marquez](marquezn@law.ucla.edu), and [Erika Tyagi](tyagi@law.ucla.edu). 
 
 Our data for several jails in California is collected by [Davis Vanguard](https://www.davisvanguard.org/), who have been generously sharing their COVID-19 data with us. Our data for state prisons in Massachusetts is reported by [the ACLU of Massachusetts](https://data.aclum.org/sjc-12926-tracker/). If you would like to contribute data on COVID-19 in a facility that we don't currently include, please see [our template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589). We always welcome additional contributors! 
