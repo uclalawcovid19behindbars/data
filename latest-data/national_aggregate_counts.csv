@@ -1,26 +1,25 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,404021,53,""
-Staff.Confirmed,106629,50,"Arkansas, Mississippi, ICE"
-Residents.Deaths,2653,53,""
-Staff.Deaths,189,45,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
+Residents.Confirmed,395697,52,Pennsylvania
+Staff.Confirmed,103119,50,"Arkansas, Pennsylvania, ICE"
+Residents.Deaths,2662,53,""
+Staff.Deaths,188,45,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
  Oklahoma, Wisconsin, ICE"
-Residents.Recovered,349253,45,"Alaska, Kansas, Massachusetts, Montana, Nevada
- New Jersey, Oklahoma, ICE"
-Staff.Recovered,91192,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
- Mississippi, Montana, Nevada, New Jersey, Oklahoma
+Residents.Recovered,342842,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
+ New Jersey, Oklahoma, Pennsylvania, ICE"
+Staff.Recovered,88626,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
+ Montana, Nevada, New Jersey, Oklahoma, Pennsylvania
  Washington, ICE"
-Residents.Tadmin,3257356,38,"Arizona, Arkansas, Florida, Georgia, Idaho
+Residents.Tadmin,3328303,38,"Arizona, Arkansas, Florida, Georgia, Idaho
  Kansas, Kentucky, Montana, Nevada, New Jersey
- Rhode Island, South Carolina, Washington, Federal, District of Columbia"
-Residents.Vadmin,127479,17,"Alabama, Arizona, Arkansas, Florida, Georgia
+ Pennsylvania, Rhode Island, Washington, Federal, District of Columbia"
+Residents.Vadmin,146416,18,"Alabama, Arizona, Arkansas, Florida, Georgia
  Hawaii, Illinois, Indiana, Iowa, Kentucky
  Louisiana, Maine, Michigan, Mississippi, Missouri
  Montana, Nebraska, Nevada, New Jersey, New Mexico
  New York, Oklahoma, Oregon, Pennsylvania, Rhode Island
  South Carolina, South Dakota, Tennessee, Texas, Utah
- Vermont, West Virginia, Wisconsin, Wyoming, ICE
- District of Columbia"
-Staff.Vadmin,72639,12,"Alaska, Arizona, Arkansas, Florida, Georgia
+ Vermont, West Virginia, Wyoming, ICE, District of Columbia"
+Staff.Vadmin,75578,12,"Alaska, Arizona, Arkansas, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
  Kansas, Kentucky, Louisiana, Maine, Michigan
  Mississippi, Missouri, Montana, Nebraska, Nevada
