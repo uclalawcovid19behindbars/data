@@ -12,21 +12,18 @@ Staff.Recovered,86606,40,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
 Residents.Tadmin,3485777,38,"Arizona, Arkansas, Florida, Georgia, Idaho
  Kansas, Kentucky, Montana, Nevada, New Jersey
  Pennsylvania, Rhode Island, Washington, Federal, District of Columbia"
-Residents.Vadmin,67344,9,"Alabama, Arizona, Arkansas, California, Connecticut
- Florida, Georgia, Hawaii, Idaho, Illinois
- Indiana, Iowa, Kansas, Kentucky, Louisiana
- Maine, Maryland, Massachusetts, Michigan, Mississippi
- Missouri, Montana, Nebraska, Nevada, New Jersey
- New Mexico, New York, North Carolina, North Dakota, Oklahoma
- Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota
- Texas, Utah, Vermont, Washington, Wisconsin
- Wyoming, Federal, ICE, District of Columbia"
-Staff.Vadmin,28717,8,"Alaska, Arizona, Arkansas, California, Connecticut
- Florida, Georgia, Hawaii, Idaho, Illinois
- Indiana, Iowa, Kansas, Kentucky, Louisiana
- Maine, Maryland, Massachusetts, Michigan, Mississippi
- Missouri, Montana, Nebraska, Nevada, New Hampshire
- New Jersey, New Mexico, New York, North Carolina, North Dakota
+Residents.Initiated,186851,20,"Alabama, Arizona, Arkansas, Florida, Georgia
+ Hawaii, Illinois, Indiana, Iowa, Kentucky
+ Louisiana, Maine, Michigan, Mississippi, Missouri
+ Montana, Nebraska, Nevada, New Jersey, New Mexico
+ New York, Oklahoma, Oregon, Pennsylvania, Rhode Island
+ South Carolina, South Dakota, Texas, Utah, Vermont
+ Wyoming, ICE, District of Columbia"
+Staff.Initiated,80657,14,"Alaska, Arizona, Arkansas, Florida, Georgia
+ Hawaii, Idaho, Illinois, Indiana, Iowa
+ Kansas, Kentucky, Louisiana, Maine, Michigan
+ Mississippi, Missouri, Montana, Nebraska, Nevada
+ New Hampshire, New Jersey, New Mexico, New York, North Dakota
  Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina
  South Dakota, Texas, Utah, Vermont, Washington
- Wisconsin, Wyoming, Federal, ICE, District of Columbia"
+ Wisconsin, Wyoming, ICE, District of Columbia"
