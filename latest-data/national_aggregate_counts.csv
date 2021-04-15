@@ -1,29 +1,29 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,397649,52,Pennsylvania
-Staff.Confirmed,104197,50,"Arkansas, Pennsylvania, ICE"
-Residents.Deaths,2673,53,""
+Residents.Confirmed,398070,52,Pennsylvania
+Staff.Confirmed,104333,50,"Arkansas, Pennsylvania, ICE"
+Residents.Deaths,2684,53,""
 Staff.Deaths,190,45,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
  Oklahoma, Wisconsin, ICE"
-Residents.Recovered,349648,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
+Residents.Recovered,349804,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
  New Jersey, Oklahoma, Pennsylvania, ICE"
-Staff.Recovered,86606,40,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
+Staff.Recovered,86910,40,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
  Michigan, Montana, Nevada, New Jersey, Oklahoma
  Pennsylvania, Washington, ICE"
-Residents.Tadmin,3485777,38,"Arizona, Arkansas, Florida, Georgia, Idaho
+Residents.Tadmin,3496939,38,"Arizona, Arkansas, Florida, Georgia, Idaho
  Kansas, Kentucky, Montana, Nevada, New Jersey
  Pennsylvania, Rhode Island, Washington, Federal, District of Columbia"
-Residents.Initiated,186851,20,"Alabama, Arizona, Arkansas, Florida, Georgia
- Hawaii, Illinois, Indiana, Iowa, Kentucky
- Louisiana, Maine, Michigan, Mississippi, Missouri
- Montana, Nebraska, Nevada, New Jersey, New Mexico
- New York, Oklahoma, Oregon, Pennsylvania, Rhode Island
- South Carolina, South Dakota, Texas, Utah, Vermont
- Wyoming, ICE, District of Columbia"
-Staff.Initiated,80657,14,"Alaska, Arizona, Arkansas, Florida, Georgia
+Residents.Initiated,211582,21,"Arizona, Arkansas, Florida, Georgia, Hawaii
+ Illinois, Indiana, Iowa, Kentucky, Louisiana
+ Maine, Michigan, Mississippi, Missouri, Montana
+ Nebraska, Nevada, New Jersey, New Mexico, New York
+ Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina
+ South Dakota, Texas, Utah, Vermont, Wyoming
+ ICE, District of Columbia"
+Staff.Initiated,85743,15,"Alaska, Arizona, Arkansas, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
  Kansas, Kentucky, Louisiana, Maine, Michigan
  Mississippi, Missouri, Montana, Nebraska, Nevada
  New Hampshire, New Jersey, New Mexico, New York, North Dakota
  Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina
- South Dakota, Texas, Utah, Vermont, Washington
- Wisconsin, Wyoming, ICE, District of Columbia"
+ South Dakota, Texas, Utah, Vermont, Wisconsin
+ Wyoming, ICE, District of Columbia"
