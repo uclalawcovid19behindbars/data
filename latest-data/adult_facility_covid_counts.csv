@@ -647,7 +647,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 763,state,Missouri,SOUTHEAST CORRECTIONAL CENTER,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,271,125,,,,,,,,,1,1600,,,,,,,,,300 E PEDRO SIMMONS DR,63834,CHARLESTON,MISSISSIPPI,36.8953659,-89.35005475,29133,10001636,
 764,federal,Missouri,SOUTHEAST MO BEHAVIORAL HEALTH INC RESIDENTIAL REENTRY CENTER,2021-04-21,https://www.bop.gov/coronavirus/,2,,0,0,2,0,,,,,0,,,,0,,,2,,,,,,,5536 HWY 32,63640,FARMINGTON,,37.3148783,-89.5280438,29187,,
 765,federal,Missouri,SPRINGFIELD MEDICAL CENTER FOR FEDERAL PRISONERS,2021-04-21,https://www.bop.gov/mobile/about/population_statistics.jsp,375,,20,0,375,248,,,,,0,,,,1,,803,704,,,,,,,,,SPRINGFIELD,,37.1774716,-93.3255643,,,
-767,state,Missouri,STATEWIDE,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,48,6,,,94310,,,,,,,,,,,,620227000,,,,,,,,,,,,,,
+767,state,Missouri,STATEWIDE,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,48,6,,,94698,,,,,,,,,,,,6202,,,,,,,,,,,,,,
 768,state,Missouri,TIPTON CORRECTIONAL CENTER,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,171,67,,,,,,,,,0,1225,,,,,,,,,619 N OSAGE AVE,65081,TIPTON,MONITEAU,38.66756285,-92.78007292,29135,10000942,
 769,state,Missouri,TRANSITIONAL CENTER OF ST LOUIS,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,5,43,,,,,,,,,3,,,,,,,,,,,,,,,,,,
 771,state,Missouri,WESTERN MISSOURI CORRECTIONAL CENTER,2021-04-21,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,216,160,,,,,,,,,0,1795,,,,,,,,,609 E PENCE RD,64429,CAMERON,DEKALB,39.76081,-94.23362,29063,10001609,
