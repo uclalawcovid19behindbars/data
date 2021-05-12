@@ -13,7 +13,7 @@ The [UCLA Law COVID-19 Behind Bars Data Project](https://uclacovidbehindbars.org
 
 Our core dataset includes information on COVID-19 cases, deaths, and tests across more than 1,700 state, federal, county, and immigration correctional facilities. We collect additional information based on what agencies report (e.g. population data and vaccination data). We maintain this dataset by scraping and standardizing data from more than 120 sources. We scrape this data 3-4 times each week, although correctional agencies vary in how often they update their data. Our [scraper production code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) and [more detailed documentation](https://uclalawcovid19behindbars.github.io/covid19-behind-bars-public-docs/scraper_documentation/) are available on GitHub. We are continuously adding to and refining our scrapers. Where possible, we have also retrospectively added COVID-19 data for facilities using digital archives.  
 
-The majority of the facilities that we collect data on fall under state jurisdiction, where COVID-19 data is reported on state Department of Correction (DOC) websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons (BOP)](https://www.bop.gov/coronavirus/), immigration detention centers reported by [Immigrations and Customs Enforcement (ICE)](https://www.ice.gov/coronavirus) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://www.nychealthandhospitals.org/correctionalhealthservices/), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19). 
+The majority of the facilities that we collect data on fall under state jurisdiction, where COVID-19 data is reported on state Department of Correction (DOC) websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons (BOP)](https://www.bop.gov/coronavirus/), immigration detention centers reported by [Immigrations and Customs Enforcement (ICE)](https://www.ice.gov/coronavirus) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://www.nychealthandhospitals.org/correctionalhealthservices/), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19). We also collect data on state psychiatric facilities.  
 
 Our project aims to collect facility-level COVID-19 data. However some agencies do not report data for all facilities, leaving some gaps in statewide aggregate totals. When we are unable to collect comprehensive data for all facilities within a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other publicly available sources. As a result, we maintain three files: 
 
@@ -32,7 +32,7 @@ The full set of variables that we report includes the following:
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | `Facility.ID`          | Integer ID that uniquely identifies every facility                                                                             |
-| `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, or `immigration` jurisdiction                                   |
+| `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, `immigration`, or `psychiatric` jurisdiction                    |
 | `State`                | State where the facility is located                                                                                            |
 | `Name`                 | Facility name                                                                                                                  |
 | `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                                   |  
@@ -52,6 +52,7 @@ The full set of variables that we report includes the following:
 | `Residents.Quarantine` | Number of incarcerated individuals currently in quarantine from COVID-19                                                       |
 | `Staff.Quarantine`     | Number of staff currently in quarantine from COVID-19                                                                          |
 | `Residents.Active`     | Number of incarcerated individuals currently infected with COVID-19                                                            |
+| `Staff.Active`         | Number of staff currently infected with COVID-19                                                                               |
 | `Population.Feb20`     | Population of the facility as close to February 1, 2020 as possible                                                            |
 | `Residents.Population` | Current population of incarcerated individuals reported by agency website                                                      |
 | `Residents.Tested`     | Cumulative number of incarcerated individuals tested for COVID-19                                                              |
@@ -61,26 +62,21 @@ The full set of variables that we report includes the following:
 | `Staff.Initiated`      | Cumulative number of staff who have initiated COVID-19 vaccination (i.e. received any dosage of a vaccine)                     |
 | `Staff.Completed`      | Cumulative number of staff who have fully completed their COVID-19 vaccination schedule                                        |
 | `Staff.Vadmin`         | Cumulative number of COVID-19 vaccines administered to staff                                                                   |
-| `Address`              | The facility's address                                                                                                         |
-| `Zipcode`              | The facility's zipcode                                                                                                         |
-| `City`                 | The facility's city                                                                                                            |
-| `County`               | The facility's county                                                                                                          |
-| `Latitude`             | The facility's latitude                                                                                                        |
-| `Longitude`            | The facility's longitude                                                                                                       |
-| `County.FIPS`          | The facility's 5-digit county FIPS code                                                                                        |
 | `HIFLD.ID`             | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
 
-## Accessing Our Data 
+We also include the following geographic fields: `Address`, `Zipcode`, `City`, `County`, `Latitude`, `Longitude`, `County.FIPS`.
 
-This repository contains the latest values that we scraped for a given facility. We are currently in the process of cleaning our full historical time series data and integrating population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. This data is available for several states [here](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data). All of our time series data since November is available [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
+## Accessing Time-Series Data 
 
-We are developing an R package [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools), which includes a variety of functions to help pull, clean, wrangle, and visualize our data. We recommend using this package to access our latest data. 
+This repository contains the latest values that we scraped for a given facility. We are currently in the process of cleaning our full historical time series data and integrating population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. The data that we currently have readily available can be accessed [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
+
+We are developing an R package [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools), which includes a variety of functions to help pull, clean, wrangle, and visualize our data. We strongly recommend using this package to access our latest data. 
 
 To access post-November time series data in R: 
 ```
 devtools::install_github("uclalawcovid19behindbars/behindbarstools")
 
-data <- behindbarstools::read_scrape_data(all_dates = TRUE, coalesce = TRUE)
+data <- behindbarstools::read_scrape_data(all_dates = TRUE)
 ```
 
 To access post-November time series data in Python:  
