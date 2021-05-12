@@ -68,18 +68,20 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 
 ## Accessing Time-Series Data 
 
-This repository contains the latest values that we scraped for a given facility. We are currently in the process of cleaning our full historical time series data and integrating population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. The data that we currently have readily available can be accessed [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
+This repository contains the latest values that we scraped for a given facility. We are currently in the process of cleaning our full historical time-series data and integrating population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. 
+
+This data can be accessed in `csv` format [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
 
 We are developing an R package [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools), which includes a variety of functions to help pull, clean, wrangle, and visualize our data. We strongly recommend using this package to access our latest data. 
 
-To access post-November time series data in R: 
+To access time-series data in R: 
 ```
 devtools::install_github("uclalawcovid19behindbars/behindbarstools")
 
 data <- behindbarstools::read_scrape_data(all_dates = TRUE)
 ```
 
-To access post-November time series data in Python:  
+To access time-series data in Python:  
 ```
 import pandas as pd 
 
