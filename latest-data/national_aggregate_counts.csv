@@ -1,28 +1,31 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,408863,53,""
-Staff.Confirmed,111409,51,"Arkansas, ICE"
-Residents.Deaths,2594,53,""
-Staff.Deaths,193,44,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
- Oklahoma, Wisconsin, Wyoming, ICE"
-Residents.Recovered,355162,44,"Alaska, Kansas, Massachusetts, Montana, Nevada
- New Jersey, Oklahoma, Vermont, ICE"
-Staff.Recovered,93959,41,"Alaska, Arkansas, Colorado, Kansas, Massachusetts
- Michigan, Montana, Nevada, New Jersey, Oklahoma
- Washington, ICE"
-Residents.Tadmin,3775222,39,"Arizona, Arkansas, Florida, Georgia, Idaho
+Residents.Confirmed,408052,52,Wyoming
+Staff.Confirmed,111938,47,"Arkansas, Maine, Mississippi, Nebraska, Wyoming
+ ICE"
+Residents.Deaths,2609,53,""
+Staff.Deaths,191,42,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
+ Oklahoma, Pennsylvania, Utah, Wisconsin, Wyoming
+ ICE"
+Residents.Recovered,347515,41,"Alaska, Kansas, Kentucky, Maine, Massachusetts
+ Montana, Nevada, New Jersey, Oklahoma, Vermont
+ Wyoming, ICE"
+Staff.Recovered,93589,36,"Alaska, Arkansas, Colorado, Kansas, Kentucky
+ Maine, Massachusetts, Michigan, Mississippi, Montana
+ Nebraska, Nevada, New Jersey, Oklahoma, Washington
+ Wyoming, ICE"
+Residents.Tadmin,3886535,38,"Arizona, Arkansas, California, Florida, Georgia
  Kansas, Kentucky, Montana, Nevada, New Jersey
- Rhode Island, Washington, Federal, District of Columbia"
-Residents.Initiated,258171,23,"Arizona, Arkansas, Florida, Georgia, Hawaii
- Illinois, Indiana, Iowa, Kentucky, Louisiana
- Maine, Michigan, Mississippi, Montana, Nebraska
- Nevada, New Jersey, New Mexico, New York, Oklahoma
- Oregon, Rhode Island, South Carolina, South Dakota, Texas
- Utah, Vermont, Wyoming, ICE, District of Columbia"
-Staff.Initiated,97093,16,"Alaska, Arizona, Arkansas, Florida, Georgia
- Hawaii, Idaho, Illinois, Indiana, Iowa
- Kansas, Kentucky, Louisiana, Maine, Michigan
- Mississippi, Missouri, Montana, Nebraska, Nevada
- New Hampshire, New Jersey, New Mexico, New York, North Dakota
+ Rhode Island, Washington, Wyoming, Federal, District of Columbia"
+Residents.Initiated,361978,27,"Arizona, Arkansas, Florida, Hawaii, Illinois
+ Indiana, Iowa, Kentucky, Louisiana, Mississippi
+ Montana, Nebraska, Nevada, New Mexico, New York
  Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota
- Texas, Utah, Vermont, Wisconsin, Wyoming
- ICE, District of Columbia"
+ Texas, Utah, Vermont, Wyoming, ICE
+ District of Columbia"
+Staff.Initiated,108907.5,19,"Alaska, Arizona, Arkansas, Florida, Hawaii
+ Idaho, Illinois, Indiana, Iowa, Kentucky
+ Louisiana, Maine, Michigan, Mississippi, Missouri
+ Montana, Nebraska, Nevada, New Hampshire, New Mexico
+ New York, North Dakota, Oklahoma, Oregon, Rhode Island
+ South Carolina, South Dakota, Texas, Utah, Vermont
+ Wisconsin, Wyoming, ICE, District of Columbia"
