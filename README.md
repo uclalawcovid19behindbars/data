@@ -7,27 +7,25 @@ The [UCLA Law COVID-19 Behind Bars Data Project](https://uclacovidbehindbars.org
 
 * **Latest data**: Our latest COVID-19 data is maintained in this repository. 
 * **Historical data**: Our historical data is maintained in [our `historical-data` repository](https://github.com/uclalawcovid19behindbars/historical-data/tree/main/data). We are in the process of cleaning this data and will be adding additional states as this data becomes available. 
-* **Additional data**: We also collect information about pandemic-related prison and jail releases, legal filings and court orders bearing on the safety of incarcerated people, and grassroots organizing campaigns and fundraisers [here](https://docs.google.com/spreadsheets/u/2/d/1X6uJkXXS-O6eePLxw2e4JeRtM41uPZ2eRcOA_HkPVTk/edit#gid=1641553906). 
 
 ## About Our Data 
 
-Our core dataset includes information on COVID-19 cases, deaths, and tests across more than 1,700 state, federal, county, and immigration correctional facilities. We collect additional information based on what agencies report (e.g. population data and vaccination data). We maintain this dataset by scraping and standardizing data from more than 120 sources. We scrape this data 3-4 times each week, although correctional agencies vary in how often they update their data. Our [scraper production code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) and [more detailed documentation](https://uclalawcovid19behindbars.github.io/covid19-behind-bars-public-docs/scraper_documentation/) are available on GitHub. We are continuously adding to and refining our scrapers. Where possible, we have also retrospectively added COVID-19 data for facilities using digital archives.  
+Our core dataset includes information on COVID-19 cases, deaths, and tests across more than 1,700 state, federal, county, and immigration correctional facilities. We maintain this dataset by scraping and standardizing data from more than 120 sources. We scrape this data 3-4 times each week, although correctional agencies vary in how often they update their data. Our [scraper production code](https://github.com/uclalawcovid19behindbars/covid19_behind_bars_scrapers) and [more detailed documentation](https://uclalawcovid19behindbars.github.io/covid19-behind-bars-public-docs/scraper_documentation/) are available on GitHub. We are continuously adding to and refining our scrapers. Where possible, we have also retrospectively added COVID-19 data for facilities using digital archives.  
 
-The majority of the facilities that we collect data on fall under state jurisdiction, where COVID-19 data is reported on state Department of Correction (DOC) websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons (BOP)](https://www.bop.gov/coronavirus/), immigration detention centers reported by [Immigrations and Customs Enforcement (ICE)](https://www.ice.gov/coronavirus) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://www.nychealthandhospitals.org/correctionalhealthservices/), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19). We also collect data on state psychiatric facilities.  
+The majority of the facilities that we collect data on are state prisons, where COVID-19 data is reported on Department of Correction (DOC) websites. We also collect data from federal prisons reported by the [Federal Bureau of Prisons (BOP)](https://www.bop.gov/coronavirus/), immigration detention centers reported by [Immigrations and Customs Enforcement (ICE)](https://www.ice.gov/coronavirus) and from several large county jail systems – including [Los Angeles](https://lasd.org/covid19updates/), [New York City](https://www.nychealthandhospitals.org/correctionalhealthservices/), [Philadelphia](https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/testing-and-data/#/philadelphia-prisons-covid-19-data), [Maricopa County](https://www.maricopa.gov/5574/COVID-19-in-County-Jails), [Orange County](https://ocsheriff.gov/about-ocsd/covid-19/covid-19-oc-jails), [Cook County](https://www.cookcountysheriff.org/covid-19-cases-at-ccdoc/), and [Hennepin County](https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19). We also collect data on state psychiatric facilities. 
 
+## Data Files 
 Our project aims to collect facility-level COVID-19 data. However some agencies do not report data for all facilities, leaving some gaps in statewide aggregate totals. When we are unable to collect comprehensive data for all facilities within a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other publicly available sources. As a result, we maintain three files: 
 
 | File | Description |
 |-|-|
 | `adult_facility_covid_counts.csv` | Facility-level data from state facilities (collected from state DOCs), federal facilities (collected from the BOP), immigration detention facilities (collected from ICE), and several county jail systems. This dataset only includes information that we collect directly from agency websites. |
 | `state_aggregate_counts.csv` | State-aggregated data from state facilities, along with federal and immigration totals reported as separate rows. Data from county jails is NOT included in these aggregates because our data from county jails is not comprehensive. This dataset supplements information reported on agency websites with statewide aggregate totals reported by other sources including The Marshall Project and the AP. |
-| `national_aggregate_counts.csv` | Nationally-aggregated data from state, federal, and immigration facilities based on the same set of sources as the state-aggregated file. This dataset also reports the number of agencies reporting each metric and lists the agencies that are missing from each aggregated metric. |
-
-**Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution. 
+| `national_aggregate_counts.csv` | Nationally-aggregated data from state, federal, and immigration facilities based on the same set of sources as the state-aggregated file. This dataset also reports the number of agencies reporting each metric and lists the agencies that are missing from each total. |
 
 ## Data Dictionary 
 
-The full set of variables that we report includes the following: 
+The set of variables that we report includes the following: 
 
 | Variable               | Description                                                                                                                    |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------|
@@ -35,42 +33,35 @@ The full set of variables that we report includes the following:
 | `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, `immigration`, or `psychiatric` jurisdiction                    |
 | `State`                | State where the facility is located                                                                                            |
 | `Name`                 | Facility name                                                                                                                  |
-| `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                                   |  
+| `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                                   |
 | `Source`               | Source from which the data was scraped                                                                                         |
 | `Residents.Confirmed`  | Cumulative number of incarcerated individuals infected with COVID-19                                                           |
 | `Staff.Confirmed`      | Cumulative number of staff infected with COVID-19                                                                              |
 | `Residents.Deaths`     | Cumulative number of incarcerated individuals who died from COVID-19                                                           |
 | `Staff.Deaths`         | Cumulative number of staff who died from COVID-19                                                                              |
-| `Residents.Recovered`  | Cumulative number of incarcerated individuals who recovered from COVID-19                                                      |
-| `Staff.Recovered`      | Cumulative number of staff who recovered from COVID-19                                                                         |
 | `Residents.Tadmin`     | Cumulative number of COVID-19 tests administered to incarcerated individuals                                                   |
-| `Staff.Tested`         | Cumulative number of staff tested for COVID-19                                                                                 |
-| `Residents.Negative`   | Cumulative number of incarcerated individuals who tested negative for COVID-19                                                 |
-| `Staff.Negative`       | Cumulative number of staff who tested negative for COVID-19                                                                    |
-| `Residents.Pending`    | Number of incarcerated individuals currently with pending test results for COVID-19                                            |
-| `Staff.Pending`        | Number of staff currently with pending test results for COVID-19                                                               |
-| `Residents.Quarantine` | Number of incarcerated individuals currently in quarantine from COVID-19                                                       |
-| `Staff.Quarantine`     | Number of staff currently in quarantine from COVID-19                                                                          |
+| `Residents.Tested`     | Cumulative number of incarcerated individuals tested for COVID-19                                                              |
 | `Residents.Active`     | Number of incarcerated individuals currently infected with COVID-19                                                            |
 | `Staff.Active`         | Number of staff currently infected with COVID-19                                                                               |
-| `Population.Feb20`     | Population of the facility as close to February 1, 2020 as possible                                                            |
+| `Population.Feb20`     | Population of the facility as close to February 2020 as possible                                                               |
 | `Residents.Population` | Current population of incarcerated individuals reported by agency website                                                      |
-| `Residents.Tested`     | Cumulative number of incarcerated individuals tested for COVID-19                                                              |
-| `Residents.Initiated`  | Cumulative number of incarcerated individuals who have initiated COVID-19 vaccination (i.e. received any dosage of a vaccine)  |
-| `Residents.Completed`  | Cumulative number of incarcerated individuals who have fully completed their COVID-19 vaccination schedule                     |
-| `Residents.Vadmin`     | Cumulative number of COVID-19 vaccines administered to incarcerated individuals                                                |
-| `Staff.Initiated`      | Cumulative number of staff who have initiated COVID-19 vaccination (i.e. received any dosage of a vaccine)                     |
-| `Staff.Completed`      | Cumulative number of staff who have fully completed their COVID-19 vaccination schedule                                        |
-| `Staff.Vadmin`         | Cumulative number of COVID-19 vaccines administered to staff                                                                   |
+| `Residents.Initiated`  | Cumulative number of incarcerated individuals who have received at least one dose of a COVID-19 vaccine                        |
+| `Staff.Initiated`      | Cumulative number of staff who have received at least one dose of a COVID-19 vaccine                                           |
+| `Residents.Completed`  | Cumulative number of incarcerated individuals who are fully vaccinated                                                         |
+| `Staff.Completed`      | Cumulative number of staff who are fully vaccinated                                                                            |
+| `Residents.Vadmin`     | Cumulative number of COVID-19 vaccine doses administered to incarcerated individuals                                           |
+| `Staff.Vadmin`         | Cumulative number of COVID-19 vaccine doses administered to staff                                                              |
 | `HIFLD.ID`             | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
 
 We also include the following geographic fields: `Address`, `Zipcode`, `City`, `County`, `Latitude`, `Longitude`, `County.FIPS`.
+
+**Note**: Jurisdictions are continuously updating how, where, and whether they update their data. We do our best to accurately collect as much data as possible, but our data availability is subject to change. Authorities also vary dramatically in how they define the metrics that they report. We do our best to standardize these variables, but comparing data across jurisdictions and over time should be done with caution. 
 
 ## Accessing Time-Series Data 
 
 This repository contains the latest values that we scraped for a given facility. We are currently in the process of cleaning our full historical time-series data and integrating population data to more readily compute COVID-19 rates across facilities over the course of the pandemic. 
 
-This data can be accessed in `csv` format [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
+This data can be downloaded in `csv` format [here](http://104.131.72.50:3838/scraper_data/summary_data/scraped_time_series.csv). 
 
 We are developing an R package [`behindbarstools`](https://github.com/uclalawcovid19behindbars/behindbarstools), which includes a variety of functions to help pull, clean, wrangle, and visualize our data. We strongly recommend using this package to access our latest data. 
 
