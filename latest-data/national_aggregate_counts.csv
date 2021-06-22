@@ -1,19 +1,18 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,414085,53,""
-Staff.Confirmed,116989,49,"Arkansas, Mississippi, Nebraska, ICE"
-Residents.Deaths,2730,53,""
-Staff.Deaths,196,43,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
+Residents.Confirmed,412852,53,""
+Staff.Confirmed,114643,49,"Arkansas, Mississippi, Nebraska, ICE"
+Residents.Deaths,2722,53,""
+Staff.Deaths,197,43,"Arizona, Massachusetts, Mississippi, Nebraska, New Jersey
  Oklahoma, Pennsylvania, Utah, Wisconsin, ICE"
-Residents.Tadmin,4676409,40,"Arizona, Arkansas, California, Florida, Georgia
- Kansas, Kentucky, Montana, Nevada, Rhode Island
- Washington, Federal, District of Columbia"
-Residents.Initiated,411493,27,"Arizona, Arkansas, Florida, Hawaii, Illinois
- Indiana, Iowa, Kentucky, Louisiana, Mississippi
- Montana, Nebraska, Nevada, New Mexico, New York
- Oklahoma, Oregon, Rhode Island, South Dakota, Tennessee
- Texas, Utah, Vermont, Wyoming, ICE
- District of Columbia"
-Staff.Initiated,110341,18,"Alaska, Arizona, Arkansas, Florida, Hawaii
+Residents.Tadmin,6340597,41,"Arizona, Arkansas, Florida, Georgia, Kansas
+ Kentucky, Montana, Nevada, Rhode Island, Washington
+ Federal, District of Columbia"
+Residents.Initiated,440236,28,"Arkansas, Florida, Hawaii, Illinois, Indiana
+ Iowa, Kentucky, Louisiana, Mississippi, Montana
+ Nebraska, Nevada, New Mexico, New York, Oklahoma
+ Oregon, Rhode Island, South Dakota, Tennessee, Texas
+ Utah, Vermont, Wyoming, ICE, District of Columbia"
+Staff.Initiated,110494,18,"Alaska, Arizona, Arkansas, Florida, Hawaii
  Idaho, Illinois, Indiana, Iowa, Kentucky
  Louisiana, Maine, Michigan, Mississippi, Missouri
  Montana, Nebraska, Nevada, New Hampshire, New Mexico
