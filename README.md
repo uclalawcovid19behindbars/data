@@ -43,7 +43,7 @@ Files in the `latest-data` directory include only the most recent counts based o
 
 | Variable               | Description                                                                                                       
 |------------------------|-------------------------------------------------------------------------------------------------------------------|
-| `Facility.ID`          | Integer ID that uniquely identifies each facility. Additional facility-level information can be linked to the data files in [this repo](https://github.com/uclalawcovid19behindbars/facility_data) based on this ID | 
+| `Facility.ID`          | Integer ID that uniquely identifies each facility. Additional facility information can be linked to the data files [here](https://github.com/uclalawcovid19behindbars/facility_data) based on this ID | 
 | `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, `immigration`, or `psychiatric` jurisdiction       |
 | `State`                | State where the facility is located                                                                               |
 | `Name`                 | Facility name                                                                                                     |
@@ -103,19 +103,6 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 | `Count`                | Total reported by state and federal agencies (including 51 DOCs, BOP, and ICE)                                     |
 | `Reporting`            | Number of agencies included in the total (of 53 agencies)                                                          |
 | `Missing`              | List of agencies that do not report data for the given measure (not included in the total)                         |
-
-#### `_state_jurisdiction_counts.csv`
-* **Row definition**: Each row represents a unique combination of `State`, `Web.Group`, and `Measure`.  
-* **Facilities included**: Includes adult and juvenile state facilities, federal facilities, immigration detention facilities, county jail systems, and state psychiatric facilities. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
-
-| Variable               | Description                                                                                                        |
-|------------------------|--------------------------------------------------------------------------------------------------------------------|
-| `State`                | State where the facility is located                                                                                |
-| `Web.Group`            | One of `Prison` (state adult facilities), `Federal` (BOP facilities), `ICE` (ICE facilities), `Juvenile` (state and local youth facilities), `Psychiatric` (state psychiatric facilities), or `County` (county jails) |
-| `Measure`              | COVID variable (as defined in the dictionaries above)                                                              |
-| `Val`                  | Total reported by facilities in a state of the given `Web.Group` type                                              |
-| `Rate`                 | Estimated rate based on a population denominator of February 2020                                                  |
-| `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                       |
 
 #### `_state_jurisdiction_counts.csv`
 * **Row definition**: Each row represents a unique combination of `State`, `Web.Group`, and `Measure`.  
