@@ -33,7 +33,7 @@ data/
     |   |— state_population_counts.csv 
 ```
 
-Files in the `latest-data` directory include only the most recent counts based on our latest scraped data, while files in the `historical-data` directory include all historical time-series data that we've collected since the start of the pandemic. The files in `anchored-data` include population data that we update on a less regular basis to use as denominators when calculating rates. 
+Files in the `latest-data` directory include only the most recent counts based on our latest scraped data, while files in the `historical-data` directory include all historical time-series data that we've collected since the start of the pandemic. The files in `anchored-data` include population data that we update on a monthly basis to use as denominators when calculating rates. 
 
 ## Data Files & Dictionaries     
 
@@ -43,7 +43,7 @@ Files in the `latest-data` directory include only the most recent counts based o
 
 | Variable               | Description                                                                                                       
 |------------------------|-------------------------------------------------------------------------------------------------------------------|
-| `Facility.ID`          | Integer ID that uniquely identifies every facility                                                                |
+| `Facility.ID`          | Integer ID that uniquely identifies each facility. Additional facility-level information can be linked to the data files in [this repo](https://github.com/uclalawcovid19behindbars/facility_data) based on this ID | 
 | `Jurisdiction`         | Whether the facility falls under `state`, `county`, `federal`, `immigration`, or `psychiatric` jurisdiction       |
 | `State`                | State where the facility is located                                                                               |
 | `Name`                 | Facility name                                                                                                     |
@@ -65,7 +65,7 @@ Files in the `latest-data` directory include only the most recent counts based o
 | `Staff.Completed`      | Cumulative number of staff who are fully vaccinated                                                               |
 | `Residents.Vadmin`     | Cumulative number of vaccine doses administered to incarcerated individuals                                       |
 | `Staff.Vadmin`         | Cumulative number of vaccine doses administered to staff                                                          |
-| `HIFLD.ID`             | The facility's corresponding [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/prison-boundaries/data) ID |
+| `Web.Group`            | One of `Prison` (state adult facilities), `Federal` (BOP facilities), `ICE` (ICE facilities), `Juvenile` (state and local youth facilities), `Psychiatric` (state psychiatric facilities), or `County` (county jails) | 
 
 We also include the following geographic fields: `Address`, `Zipcode`, `City`, `County`, `Latitude`, `Longitude`, `County.FIPS`.
 
@@ -116,6 +116,32 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 | `Val`                  | Total reported by facilities in a state of the given `Web.Group` type                                              |
 | `Rate`                 | Estimated rate based on a population denominator of February 2020                                                  |
 | `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                       |
+
+#### `_state_jurisdiction_counts.csv`
+* **Row definition**: Each row represents a unique combination of `State`, `Web.Group`, and `Measure`.  
+* **Facilities included**: Includes adult and juvenile state facilities, federal facilities, immigration detention facilities, county jail systems, and state psychiatric facilities. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
+
+| Variable               | Description                                                                                                        |
+|------------------------|--------------------------------------------------------------------------------------------------------------------|
+| `State`                | State where the facility is located                                                                                |
+| `Web.Group`            | One of `Prison` (state adult facilities), `Federal` (BOP facilities), `ICE` (ICE facilities), `Juvenile` (state and local youth facilities), `Psychiatric` (state psychiatric facilities), or `County` (county jails) |
+| `Measure`              | COVID variable (as defined in the dictionaries above)                                                              |
+| `Val`                  | Total reported by facilities in a state of the given `Web.Group` type                                              |
+| `Rate`                 | Estimated rate based on a population denominator of February 2020                                                  |
+| `Date`                 | Date data was scraped (not necessarily date updated by the reporting source)                                       |
+
+#### `state_population_counts.csv`
+* **Row definition**: Each row represents a state prison agency (DOC), with federal (BOP) and immigration (ICE) totals reported as separate rows.
+* **Facilities included**: Includes adult and juvenile state facilities, federal facilities, and immigration detention facilities.
+
+| Variable               | Description                                                                                                        |
+|------------------------|--------------------------------------------------------------------------------------------------------------------|
+| `State`                | State agency, Federal, or ICE                                                                                      |
+| `Residents.Population` | Current population of incarcerated individuals (most recent data available at the beginning of each month)         |
+| `Staff.Population`     | Current population of staff (most recent data available at the beginning of each month)                            |
+| `Date`                 | Date (month and year) updated                                                                                      |
+
+We aim to collect population data as of the first day of each month (i.e. `july2021` would correspond to July 1, 2021), but data may be older depending on when an agency last reported data. When agencies do not publicly report data, we supplement this file with information collected directly through public records requests, along with data reported by The [Vera Institute for Justice](https://www.vera.org/publications/people-in-jail-and-prison-in-spring-2021) and [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons). 
 
 ## Citations
 
