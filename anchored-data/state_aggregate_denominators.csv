@@ -1,54 +1,54 @@
-"State","Residents.Population","Staff.Population","Date"
-"Alabama",17328,3792,"july2021"
-"Alaska",4250,1481,"july2021"
-"Arizona",35956,8735,"july2021"
-"Arkansas",14029,5024,"july2021"
-"California",98792,62606,"july2021"
-"Colorado",13730,6281,"july2021"
-"Connecticut",8957,6155,"july2021"
-"Delaware",4306,,"july2021"
-"District of Columbia",,,"july2021"
-"Federal",145651,37127,"july2021"
-"Florida",81168,27219,"july2021"
-"Georgia",46586,7142,"july2021"
-"Hawaii",4104,2100,"july2021"
-"ICE",27008,,"july2021"
-"Idaho",8226,1982,"july2021"
-"Illinois",27499,12503,"july2021"
-"Indiana",23510,5357,"july2021"
-"Iowa",7750,2396,"july2021"
-"Kansas",8559,3153,"july2021"
-"Kentucky",9967,2614,"july2021"
-"Louisiana",15565,,"july2021"
-"Maine",1607,1124,"july2021"
-"Maryland",16718,6211,"july2021"
-"Massachusetts",6588,4764,"july2021"
-"Michigan",32590,11862,"july2021"
-"Minnesota",7118,4340,"july2021"
-"Mississippi",17380,1699,"july2021"
-"Missouri",22939,9488,"july2021"
-"Montana",3948,1308,"july2021"
-"Nebraska",5304,2132,"july2021"
-"Nevada",10912,2648,"july2021"
-"New Hampshire",2189,830,"july2021"
-"New Jersey",12538,,"july2021"
-"New Mexico",5877,,"july2021"
-"New York",31412,28019,"july2021"
-"North Carolina",28649,14053,"july2021"
-"North Dakota",1449,910,"july2021"
-"Ohio",43035,12204,"july2021"
-"Oklahoma",21589,4187,"july2021"
-"Oregon",12068,4611,"july2021"
-"Pennsylvania",37024,15017,"july2021"
-"Rhode Island",2275,1383,"july2021"
-"South Carolina",15284,4755,"july2021"
-"South Dakota",3249,695,"july2021"
-"Tennessee",23032,5543,"july2021"
-"Texas",133024,35528,"july2021"
-"Utah",5602,2342,"july2021"
-"Vermont",1287,988,"july2021"
-"Virginia",23966,11697,"july2021"
-"Washington",14065,8934,"july2021"
-"West Virginia",4484,1850,"july2021"
-"Wisconsin",19455,9434,"july2021"
-"Wyoming",1996,1000,"july2021"
+State,Residents.Population,Staff.Population,Date
+Alabama,17328,3792,Jul-21
+Alaska,4250,1481,Jul-21
+Arizona,35956,8735,Jul-21
+Arkansas,14029,5024,Jul-21
+California,98792,62606,Jul-21
+Colorado,13730,6281,Jul-21
+Connecticut,8957,6155,Jul-21
+Delaware,4306,,Jul-21
+District of Columbia,,,Jul-21
+Federal,145651,37127,Jul-21
+Florida,81168,27219,Jul-21
+Georgia,46586,6915,Jul-21
+Hawaii,4104,2100,Jul-21
+ICE,27008,,Jul-21
+Idaho,8226,1982,Jul-21
+Illinois,27499,12503,Jul-21
+Indiana,23510,5357,Jul-21
+Iowa,7750,2396,Jul-21
+Kansas,8559,3153,Jul-21
+Kentucky,9967,2614,Jul-21
+Louisiana,15565,,Jul-21
+Maine,1607,1124,Jul-21
+Maryland,16718,6211,Jul-21
+Massachusetts,6588,4764,Jul-21
+Michigan,32590,11862,Jul-21
+Minnesota,7118,4340,Jul-21
+Mississippi,17380,1699,Jul-21
+Missouri,22939,9488,Jul-21
+Montana,3948,1308,Jul-21
+Nebraska,5304,2132,Jul-21
+Nevada,10912,2648,Jul-21
+New Hampshire,2189,830,Jul-21
+New Jersey,12538,,Jul-21
+New Mexico,5877,,Jul-21
+New York,31412,28019,Jul-21
+North Carolina,28649,14053,Jul-21
+North Dakota,1449,910,Jul-21
+Ohio,43035,12204,Jul-21
+Oklahoma,21589,4187,Jul-21
+Oregon,12068,4611,Jul-21
+Pennsylvania,37024,15017,Jul-21
+Rhode Island,2275,1383,Jul-21
+South Carolina,15284,4755,Jul-21
+South Dakota,3249,695,Jul-21
+Tennessee,23032,5543,Jul-21
+Texas,133024,35528,Jul-21
+Utah,5602,2342,Jul-21
+Vermont,1287,988,Jul-21
+Virginia,23966,11697,Jul-21
+Washington,14065,8934,Jul-21
+West Virginia,4484,1850,Jul-21
+Wisconsin,19455,9434,Jul-21
+Wyoming,1996,1000,Jul-21
