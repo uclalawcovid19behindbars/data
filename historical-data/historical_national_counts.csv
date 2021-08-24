@@ -73,6 +73,7 @@ Date,Measure,Count,Reporting,Missing
 2021-08-01,Residents.Confirmed,410889,50,"Georgia, Louisiana, Wyoming"
 2021-08-08,Residents.Confirmed,408628,49,"Georgia, Louisiana, Nevada, Wyoming"
 2021-08-15,Residents.Confirmed,410928,49,"Georgia, Louisiana, Nevada, Wyoming"
+2021-08-22,Residents.Confirmed,414286,50,"Georgia, Louisiana, Wyoming"
 2020-03-22,Staff.Confirmed,97,36,"Arizona, Connecticut, Georgia, Indiana, Kentucky
  Maine, Maryland, Michigan, Mississippi, Montana
  Nebraska, Ohio, Pennsylvania, South Dakota, Utah
@@ -104,12 +105,12 @@ Date,Measure,Count,Reporting,Missing
 2020-09-06,Staff.Confirmed,26292,49,"Alaska, Arkansas, Virginia, District of Columbia"
 2020-09-13,Staff.Confirmed,28361,51,"Arkansas, District of Columbia"
 2020-09-20,Staff.Confirmed,29412,51,"Arkansas, District of Columbia"
-2020-09-27,Staff.Confirmed,30615,51,"Arkansas, District of Columbia"
+2020-09-27,Staff.Confirmed,30618,51,"Arkansas, District of Columbia"
 2020-10-04,Staff.Confirmed,31796,51,"Arkansas, Montana"
 2020-10-11,Staff.Confirmed,33054,51,"Alaska, Arkansas"
-2020-10-18,Staff.Confirmed,35461,52,Arkansas
+2020-10-18,Staff.Confirmed,35523,52,Arkansas
 2020-10-25,Staff.Confirmed,38518,52,Arkansas
-2020-11-01,Staff.Confirmed,40095,52,Arkansas
+2020-11-01,Staff.Confirmed,40106,52,Arkansas
 2020-11-08,Staff.Confirmed,42039,49,"Arkansas, Colorado, Nebraska, Virginia"
 2020-11-15,Staff.Confirmed,45561,50,"Arkansas, Nebraska, Virginia"
 2020-11-22,Staff.Confirmed,52523,51,"Maine, ICE"
@@ -120,7 +121,7 @@ Date,Measure,Count,Reporting,Missing
 2020-12-27,Staff.Confirmed,80246,51,"Arkansas, ICE"
 2021-01-03,Staff.Confirmed,85983,50,"Arkansas, Nebraska, ICE"
 2021-01-10,Staff.Confirmed,91342,50,"Arkansas, Nebraska, ICE"
-2021-01-17,Staff.Confirmed,93709,48,"Arkansas, Mississippi, Nebraska, Utah, ICE"
+2021-01-17,Staff.Confirmed,94034,49,"Arkansas, Mississippi, Nebraska, ICE"
 2021-01-24,Staff.Confirmed,95482,48,"Arkansas, Mississippi, Nebraska, Virginia, ICE"
 2021-01-31,Staff.Confirmed,95547,48,"Arkansas, Mississippi, Nebraska, Pennsylvania, ICE"
 2021-02-07,Staff.Confirmed,95378,46,"Alaska, Arkansas, Connecticut, Mississippi, Nebraska
@@ -139,50 +140,48 @@ Date,Measure,Count,Reporting,Missing
 2021-04-11,Staff.Confirmed,108551,47,"Alaska, Arkansas, Maine, Mississippi, Nebraska
  ICE"
 2021-04-18,Staff.Confirmed,109450,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
-2021-04-25,Staff.Confirmed,106821,46,"Arkansas, Maine, Mississippi, Nebraska, Utah
- Virginia, ICE"
+2021-04-25,Staff.Confirmed,107223,47,"Arkansas, Maine, Mississippi, Nebraska, Virginia
+ ICE"
 2021-05-02,Staff.Confirmed,110738,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
-2021-05-09,Staff.Confirmed,110792,47,"Arkansas, Maine, Mississippi, Nebraska, Utah
- ICE"
+2021-05-09,Staff.Confirmed,111194,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
 2021-05-16,Staff.Confirmed,110920,48,"Arkansas, Delaware, Mississippi, Nebraska, ICE"
-2021-05-23,Staff.Confirmed,110990,47,"Arkansas, Maine, Mississippi, Nebraska, Utah
- ICE"
+2021-05-23,Staff.Confirmed,111392,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
 2021-05-30,Staff.Confirmed,111568,47,"Arkansas, Delaware, Maine, Mississippi, Nebraska
  ICE"
 2021-06-06,Staff.Confirmed,111588,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
-2021-06-13,Staff.Confirmed,112044,46,"Arkansas, Maine, Mississippi, Nebraska, Utah
- Wyoming, ICE"
-2021-06-20,Staff.Confirmed,111138,46,"Arkansas, Maine, Mississippi, Nebraska, Utah
- Wyoming, ICE"
-2021-06-27,Staff.Confirmed,93531,39,"Alaska, Arkansas, Connecticut, Hawaii, Maine
- Mississippi, Nebraska, New Mexico, North Carolina, Utah
- Virginia, Wyoming, Federal, ICE"
-2021-07-04,Staff.Confirmed,93632,39,"Alaska, Arkansas, Connecticut, Hawaii, Maine
- Mississippi, Nebraska, New Mexico, North Carolina, Utah
- Virginia, Wyoming, Federal, ICE"
-2021-07-11,Staff.Confirmed,91794,37,"Alaska, Arkansas, Connecticut, Hawaii, Louisiana
- Maine, Mississippi, Nebraska, Nevada, New Mexico
- North Carolina, Utah, Virginia, Wyoming, Federal
+2021-06-13,Staff.Confirmed,112453,47,"Arkansas, Maine, Mississippi, Nebraska, Wyoming
  ICE"
-2021-07-18,Staff.Confirmed,90926,36,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
- Louisiana, Maine, Mississippi, Nebraska, New Mexico
- North Carolina, Rhode Island, Utah, Virginia, Wyoming
- Federal, ICE"
-2021-07-25,Staff.Confirmed,92392,37,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
- Louisiana, Maine, Mississippi, Nebraska, New Mexico
- North Carolina, Utah, Virginia, Wyoming, Federal
+2021-06-20,Staff.Confirmed,111547,47,"Arkansas, Maine, Mississippi, Nebraska, Wyoming
  ICE"
-2021-08-01,Staff.Confirmed,94044,37,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
- Louisiana, Maine, Mississippi, Nebraska, New Mexico
- North Carolina, Utah, Virginia, Wyoming, Federal
- ICE"
-2021-08-08,Staff.Confirmed,91994,35,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
- Louisiana, Maine, Mississippi, Nebraska, Nevada
- New Mexico, North Carolina, Oklahoma, Utah, Virginia
+2021-06-27,Staff.Confirmed,93947,40,"Alaska, Arkansas, Connecticut, Hawaii, Maine
+ Mississippi, Nebraska, New Mexico, North Carolina, Virginia
  Wyoming, Federal, ICE"
-2021-08-15,Staff.Confirmed,96227,38,"Arkansas, Georgia, Hawaii, Louisiana, Maine
+2021-07-04,Staff.Confirmed,94048,40,"Alaska, Arkansas, Connecticut, Hawaii, Maine
+ Mississippi, Nebraska, New Mexico, North Carolina, Virginia
+ Wyoming, Federal, ICE"
+2021-07-11,Staff.Confirmed,92215,38,"Alaska, Arkansas, Connecticut, Hawaii, Louisiana
+ Maine, Mississippi, Nebraska, Nevada, New Mexico
+ North Carolina, Virginia, Wyoming, Federal, ICE"
+2021-07-18,Staff.Confirmed,91347,37,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
+ Louisiana, Maine, Mississippi, Nebraska, New Mexico
+ North Carolina, Rhode Island, Virginia, Wyoming, Federal
+ ICE"
+2021-07-25,Staff.Confirmed,92813,38,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
+ Louisiana, Maine, Mississippi, Nebraska, New Mexico
+ North Carolina, Virginia, Wyoming, Federal, ICE"
+2021-08-01,Staff.Confirmed,94465,38,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
+ Louisiana, Maine, Mississippi, Nebraska, New Mexico
+ North Carolina, Virginia, Wyoming, Federal, ICE"
+2021-08-08,Staff.Confirmed,92415,36,"Alaska, Arkansas, Connecticut, Georgia, Hawaii
+ Louisiana, Maine, Mississippi, Nebraska, Nevada
+ New Mexico, North Carolina, Oklahoma, Virginia, Wyoming
+ Federal, ICE"
+2021-08-15,Staff.Confirmed,95775,38,"Arkansas, Georgia, Hawaii, Louisiana, Maine
  Mississippi, Nebraska, Nevada, New Mexico, North Carolina
  Oklahoma, Virginia, Wyoming, Federal, ICE"
+2021-08-22,Staff.Confirmed,97314,39,"Arkansas, Georgia, Hawaii, Louisiana, Maine
+ Mississippi, Nebraska, New Mexico, North Carolina, Oklahoma
+ Virginia, Wyoming, Federal, ICE"
 2020-03-22,Residents.Deaths,2,51,"Kentucky, District of Columbia"
 2020-03-29,Residents.Deaths,10,49,"Kentucky, Mississippi, Nebraska, District of Columbia"
 2020-04-05,Residents.Deaths,31,52,District of Columbia
@@ -263,6 +262,7 @@ Date,Measure,Count,Reporting,Missing
  Mississippi, Nevada, Vermont"
 2021-08-15,Residents.Deaths,2407,47,"Arkansas, Georgia, Louisiana, Maine, Mississippi
  Nevada"
+2021-08-22,Residents.Deaths,2456,48,"Arkansas, Georgia, Louisiana, Maine, Mississippi"
 2020-03-22,Staff.Deaths,0,49,"Kentucky, South Dakota, ICE, District of Columbia"
 2020-03-29,Staff.Deaths,2,47,"Kentucky, Mississippi, Nebraska, South Dakota, ICE
  District of Columbia"
@@ -453,6 +453,12 @@ Date,Measure,Count,Reporting,Missing
  Nebraska, Nevada, New Hampshire, New Jersey, New Mexico
  North Carolina, Oklahoma, Oregon, Pennsylvania, Utah
  Vermont, West Virginia, Wisconsin, Wyoming, ICE"
+2021-08-22,Staff.Deaths,151,24,"Arizona, Arkansas, California, Colorado, Connecticut
+ Delaware, Georgia, Hawaii, Idaho, Illinois
+ Louisiana, Maine, Massachusetts, Minnesota, Mississippi
+ Nebraska, New Hampshire, New Jersey, New Mexico, North Carolina
+ Oklahoma, Oregon, Pennsylvania, Utah, Vermont
+ West Virginia, Wisconsin, Wyoming, ICE"
 2020-03-29,Residents.Tadmin,10,2,"Alabama, Alaska, Arizona, Arkansas, California
  Colorado, Connecticut, Delaware, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
@@ -854,6 +860,11 @@ Date,Measure,Count,Reporting,Missing
  Maryland, Michigan, Mississippi, Montana, Nevada
  New Jersey, Rhode Island, South Carolina, Virginia, Washington
  Wyoming, Federal, District of Columbia"
+2021-08-22,Residents.Tadmin,5224096,30,"Alabama, Arizona, Arkansas, Connecticut, Delaware
+ Florida, Georgia, Kansas, Kentucky, Louisiana
+ Maryland, Michigan, Mississippi, Montana, Nevada
+ New Jersey, Rhode Island, South Carolina, Virginia, Washington
+ Wyoming, Federal, District of Columbia"
 2021-01-24,Residents.Initiated,15919,2,"Alabama, Alaska, Arizona, Arkansas, Colorado
  Connecticut, Delaware, Florida, Georgia, Hawaii
  Idaho, Illinois, Indiana, Iowa, Kansas
@@ -1057,6 +1068,12 @@ Date,Measure,Count,Reporting,Missing
  Texas, Utah, Vermont, Wyoming, ICE
  District of Columbia"
 2021-08-15,Residents.Initiated,446263,27,"Arkansas, Florida, Georgia, Hawaii, Illinois
+ Indiana, Iowa, Kentucky, Louisiana, Mississippi
+ Montana, Nebraska, Nevada, New Mexico, New York
+ Oklahoma, Oregon, Rhode Island, South Dakota, Tennessee
+ Texas, Utah, Vermont, Wyoming, ICE
+ District of Columbia"
+2021-08-22,Residents.Initiated,447678,27,"Arkansas, Florida, Georgia, Hawaii, Illinois
  Indiana, Iowa, Kentucky, Louisiana, Mississippi
  Montana, Nebraska, Nevada, New Mexico, New York
  Oklahoma, Oregon, Rhode Island, South Dakota, Tennessee
@@ -1299,6 +1316,14 @@ Date,Measure,Count,Reporting,Missing
  Utah, Vermont, Wisconsin, Wyoming, ICE
  District of Columbia"
 2021-08-15,Staff.Initiated,110851,17,"Alaska, Arizona, Arkansas, Florida, Georgia
+ Hawaii, Idaho, Illinois, Indiana, Iowa
+ Kentucky, Louisiana, Maine, Michigan, Mississippi
+ Missouri, Montana, Nebraska, Nevada, New Hampshire
+ New Mexico, New York, North Dakota, Oklahoma, Oregon
+ Rhode Island, South Carolina, South Dakota, Tennessee, Texas
+ Utah, Vermont, Wisconsin, Wyoming, ICE
+ District of Columbia"
+2021-08-22,Staff.Initiated,111055,17,"Alaska, Arizona, Arkansas, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
  Kentucky, Louisiana, Maine, Michigan, Mississippi
  Missouri, Montana, Nebraska, Nevada, New Hampshire
