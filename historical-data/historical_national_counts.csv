@@ -5,16 +5,16 @@ Date,Measure,Count,Reporting,Missing
 2020-04-12,Residents.Confirmed,3547,52,District of Columbia
 2020-04-19,Residents.Confirmed,11787,52,District of Columbia
 2020-04-26,Residents.Confirmed,17225,52,District of Columbia
-2020-05-03,Residents.Confirmed,21981,51,"Rhode Island, District of Columbia"
+2020-05-03,Residents.Confirmed,21952,51,"Rhode Island, District of Columbia"
 2020-05-10,Residents.Confirmed,26819,52,District of Columbia
 2020-05-17,Residents.Confirmed,31046,52,District of Columbia
 2020-05-24,Residents.Confirmed,38368,52,District of Columbia
 2020-05-31,Residents.Confirmed,43156,52,District of Columbia
 2020-06-07,Residents.Confirmed,46293,52,District of Columbia
 2020-06-14,Residents.Confirmed,49002,52,District of Columbia
-2020-06-21,Residents.Confirmed,52543,52,District of Columbia
+2020-06-21,Residents.Confirmed,52516,52,District of Columbia
 2020-06-28,Residents.Confirmed,55942,52,District of Columbia
-2020-07-05,Residents.Confirmed,61096,52,District of Columbia
+2020-07-05,Residents.Confirmed,60996,52,District of Columbia
 2020-07-12,Residents.Confirmed,70291,51,"New York, District of Columbia"
 2020-07-19,Residents.Confirmed,77018,52,District of Columbia
 2020-07-26,Residents.Confirmed,85032,52,District of Columbia
@@ -29,7 +29,7 @@ Date,Measure,Count,Reporting,Missing
 2020-09-27,Residents.Confirmed,146362,52,District of Columbia
 2020-10-04,Residents.Confirmed,150133,52,Montana
 2020-10-11,Residents.Confirmed,154241,53,""
-2020-10-18,Residents.Confirmed,162933,53,""
+2020-10-18,Residents.Confirmed,162881,53,""
 2020-10-25,Residents.Confirmed,171833,53,""
 2020-11-01,Residents.Confirmed,179671,53,""
 2020-11-08,Residents.Confirmed,195748,53,""
@@ -78,7 +78,8 @@ Date,Measure,Count,Reporting,Missing
 2021-09-05,Residents.Confirmed,420461,50,"Georgia, Louisiana, Wyoming"
 2021-09-12,Residents.Confirmed,405146,49,"Florida, Georgia, Louisiana, Wyoming"
 2021-09-19,Residents.Confirmed,406941,49,"Florida, Georgia, Louisiana, Wyoming"
-2021-09-26,Residents.Confirmed,408328,49,"Florida, Georgia, Louisiana, Wyoming"
+2021-09-26,Residents.Confirmed,408933,49,"Florida, Georgia, Louisiana, Wyoming"
+2021-10-03,Residents.Confirmed,409960,49,"Florida, Georgia, Louisiana, Wyoming"
 2020-03-22,Staff.Confirmed,97,36,"Arizona, Connecticut, Georgia, Indiana, Kentucky
  Maine, Maryland, Michigan, Mississippi, Montana
  Nebraska, Ohio, Pennsylvania, South Dakota, Utah
@@ -104,15 +105,15 @@ Date,Measure,Count,Reporting,Missing
 2020-07-26,Staff.Confirmed,18161,52,District of Columbia
 2020-08-02,Staff.Confirmed,19833,52,District of Columbia
 2020-08-09,Staff.Confirmed,21843,51,"Montana, District of Columbia"
-2020-08-16,Staff.Confirmed,23342,52,District of Columbia
-2020-08-23,Staff.Confirmed,24103,50,"Alaska, Virginia, District of Columbia"
-2020-08-30,Staff.Confirmed,25866,51,"Alaska, District of Columbia"
-2020-09-06,Staff.Confirmed,26030,49,"Alaska, Arkansas, Virginia, District of Columbia"
+2020-08-16,Staff.Confirmed,23341,52,District of Columbia
+2020-08-23,Staff.Confirmed,24102,50,"Alaska, Virginia, District of Columbia"
+2020-08-30,Staff.Confirmed,25865,51,"Alaska, District of Columbia"
+2020-09-06,Staff.Confirmed,26029,49,"Alaska, Arkansas, Virginia, District of Columbia"
 2020-09-13,Staff.Confirmed,28046,51,"Arkansas, District of Columbia"
-2020-09-20,Staff.Confirmed,29118,51,"Arkansas, District of Columbia"
+2020-09-20,Staff.Confirmed,29116,51,"Arkansas, District of Columbia"
 2020-09-27,Staff.Confirmed,30333,51,"Arkansas, District of Columbia"
 2020-10-04,Staff.Confirmed,31564,51,"Arkansas, Montana"
-2020-10-11,Staff.Confirmed,32810,51,"Alaska, Arkansas"
+2020-10-11,Staff.Confirmed,32808,51,"Alaska, Arkansas"
 2020-10-18,Staff.Confirmed,35192,52,Arkansas
 2020-10-25,Staff.Confirmed,37805,52,Arkansas
 2020-11-01,Staff.Confirmed,40108,52,Arkansas
@@ -199,7 +200,10 @@ Date,Measure,Count,Reporting,Missing
 2021-09-19,Staff.Confirmed,103442,39,"Arkansas, Florida, Georgia, Hawaii, Louisiana
  Maine, Mississippi, Nebraska, New Mexico, Oklahoma
  Virginia, Wyoming, Federal, ICE"
-2021-09-26,Staff.Confirmed,104280,39,"Arkansas, Florida, Georgia, Hawaii, Louisiana
+2021-09-26,Staff.Confirmed,104564,39,"Arkansas, Florida, Georgia, Hawaii, Louisiana
+ Maine, Mississippi, Nebraska, New Mexico, Oklahoma
+ Virginia, Wyoming, Federal, ICE"
+2021-10-03,Staff.Confirmed,105583,39,"Arkansas, Florida, Georgia, Hawaii, Louisiana
  Maine, Mississippi, Nebraska, New Mexico, Oklahoma
  Virginia, Wyoming, Federal, ICE"
 2020-03-22,Residents.Deaths,2,51,"Kentucky, District of Columbia"
@@ -208,7 +212,7 @@ Date,Measure,Count,Reporting,Missing
 2020-04-12,Residents.Deaths,87,52,District of Columbia
 2020-04-19,Residents.Deaths,155,51,"Mississippi, District of Columbia"
 2020-04-26,Residents.Deaths,245,52,District of Columbia
-2020-05-03,Residents.Deaths,337,52,District of Columbia
+2020-05-03,Residents.Deaths,336,52,District of Columbia
 2020-05-10,Residents.Deaths,418,52,District of Columbia
 2020-05-17,Residents.Deaths,450,52,District of Columbia
 2020-05-24,Residents.Deaths,493,50,"Nebraska, Washington, District of Columbia"
@@ -230,7 +234,7 @@ Date,Measure,Count,Reporting,Missing
 2020-09-13,Residents.Deaths,1131,51,"Mississippi, District of Columbia"
 2020-09-20,Residents.Deaths,1211,51,"Mississippi, District of Columbia"
 2020-09-27,Residents.Deaths,1236,51,"Mississippi, District of Columbia"
-2020-10-04,Residents.Deaths,1261,51,"Illinois, Mississippi"
+2020-10-04,Residents.Deaths,1256,51,"Illinois, Mississippi"
 2020-10-11,Residents.Deaths,1307,49,"Kansas, Mississippi, Nebraska, New Hampshire"
 2020-10-18,Residents.Deaths,1374,52,Mississippi
 2020-10-25,Residents.Deaths,1393,52,Mississippi
@@ -291,7 +295,8 @@ Date,Measure,Count,Reporting,Missing
 2021-09-05,Residents.Deaths,2560,48,"Arkansas, Georgia, Louisiana, Maine, Mississippi"
 2021-09-12,Residents.Deaths,2572,48,"Arkansas, Georgia, Louisiana, Maine, Mississippi"
 2021-09-19,Residents.Deaths,2615,49,"Arkansas, Georgia, Louisiana, Maine"
-2021-09-26,Residents.Deaths,2619,49,"Arkansas, Georgia, Louisiana, Maine"
+2021-09-26,Residents.Deaths,2625,49,"Arkansas, Georgia, Louisiana, Maine"
+2021-10-03,Residents.Deaths,2613,48,"Arkansas, Georgia, Louisiana, Maine, Mississippi"
 2020-03-22,Staff.Deaths,0,49,"Kentucky, South Dakota, ICE, District of Columbia"
 2020-03-29,Staff.Deaths,2,47,"Kentucky, Mississippi, Nebraska, South Dakota, ICE
  District of Columbia"
@@ -512,12 +517,18 @@ Date,Measure,Count,Reporting,Missing
  Mississippi, Nebraska, New Hampshire, New Jersey, New Mexico
  North Carolina, Oklahoma, Oregon, Pennsylvania, Utah
  West Virginia, Wisconsin, Wyoming, ICE"
-2021-09-26,Staff.Deaths,175,24,"Arizona, Arkansas, California, Colorado, Connecticut
+2021-09-26,Staff.Deaths,176,24,"Arizona, Arkansas, California, Colorado, Connecticut
  Delaware, Georgia, Hawaii, Idaho, Illinois
  Iowa, Louisiana, Maine, Massachusetts, Minnesota
  Mississippi, Nebraska, New Hampshire, New Jersey, New Mexico
  North Carolina, Oklahoma, Oregon, Pennsylvania, Utah
  West Virginia, Wisconsin, Wyoming, ICE"
+2021-10-03,Staff.Deaths,218,25,"Arizona, Arkansas, Colorado, Connecticut, Delaware
+ Georgia, Hawaii, Idaho, Illinois, Iowa
+ Louisiana, Maine, Massachusetts, Minnesota, Mississippi
+ Nebraska, New Hampshire, New Jersey, New Mexico, North Carolina
+ Oklahoma, Oregon, Pennsylvania, Utah, West Virginia
+ Wisconsin, Wyoming, ICE"
 2020-03-29,Residents.Tadmin,10,2,"Alabama, Alaska, Arizona, Arkansas, California
  Colorado, Connecticut, Delaware, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
@@ -944,7 +955,12 @@ Date,Measure,Count,Reporting,Missing
  Michigan, Mississippi, Montana, Nevada, New Jersey
  Rhode Island, South Carolina, Virginia, Washington, Wyoming
  Federal, District of Columbia"
-2021-09-26,Residents.Tadmin,5667587,31,"Alabama, Arizona, Arkansas, Connecticut, Florida
+2021-09-26,Residents.Tadmin,5705612,31,"Alabama, Arizona, Arkansas, Connecticut, Florida
+ Georgia, Kansas, Kentucky, Louisiana, Maryland
+ Michigan, Mississippi, Montana, Nevada, New Jersey
+ Rhode Island, South Carolina, Virginia, Washington, Wyoming
+ Federal, District of Columbia"
+2021-10-03,Residents.Tadmin,5768483,31,"Alabama, Arizona, Arkansas, Connecticut, Florida
  Georgia, Kansas, Kentucky, Louisiana, Maryland
  Michigan, Mississippi, Montana, Nevada, New Jersey
  Rhode Island, South Carolina, Virginia, Washington, Wyoming
@@ -1191,12 +1207,18 @@ Date,Measure,Count,Reporting,Missing
  New York, Oklahoma, Oregon, Rhode Island, South Dakota
  Tennessee, Texas, Utah, Vermont, Wyoming
  ICE, District of Columbia"
-2021-09-26,Residents.Initiated,454379,26,"Arkansas, Florida, Georgia, Hawaii, Illinois
+2021-09-26,Residents.Initiated,459737,26,"Arkansas, Florida, Georgia, Hawaii, Illinois
  Indiana, Iowa, Kentucky, Louisiana, Mississippi
  Montana, Nebraska, Nevada, New Jersey, New Mexico
  New York, Oklahoma, Oregon, Rhode Island, South Dakota
  Tennessee, Texas, Utah, Vermont, Wyoming
  ICE, District of Columbia"
+2021-10-03,Residents.Initiated,461120,25,"Arkansas, Florida, Georgia, Hawaii, Illinois
+ Indiana, Iowa, Kentucky, Louisiana, Mississippi
+ Montana, Nebraska, Nevada, New Jersey, New Mexico
+ New York, North Dakota, Oklahoma, Oregon, Rhode Island
+ South Dakota, Tennessee, Texas, Utah, Vermont
+ Wyoming, ICE, District of Columbia"
 2021-01-24,Staff.Initiated,25823,2,"Alabama, Alaska, Arizona, Arkansas, Colorado
  Connecticut, Delaware, Florida, Georgia, Hawaii
  Idaho, Illinois, Indiana, Iowa, Kansas
@@ -1489,7 +1511,15 @@ Date,Measure,Count,Reporting,Missing
  Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota
  Tennessee, Texas, Utah, Vermont, Wisconsin
  Wyoming, ICE, District of Columbia"
-2021-09-26,Staff.Initiated,112414,15,"Alaska, Arizona, Arkansas, Delaware, Florida
+2021-09-26,Staff.Initiated,113942,15,"Alaska, Arizona, Arkansas, Delaware, Florida
+ Georgia, Hawaii, Idaho, Illinois, Indiana
+ Iowa, Kentucky, Louisiana, Maine, Michigan
+ Mississippi, Missouri, Montana, Nebraska, Nevada
+ New Hampshire, New Jersey, New Mexico, New York, North Dakota
+ Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota
+ Tennessee, Texas, Utah, Vermont, Wisconsin
+ Wyoming, ICE, District of Columbia"
+2021-10-03,Staff.Initiated,115644,15,"Alaska, Arizona, Arkansas, Delaware, Florida
  Georgia, Hawaii, Idaho, Illinois, Indiana
  Iowa, Kentucky, Louisiana, Maine, Michigan
  Mississippi, Missouri, Montana, Nebraska, Nevada

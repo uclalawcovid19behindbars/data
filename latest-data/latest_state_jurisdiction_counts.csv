@@ -1,346 +1,347 @@
 State,Web.Group,Measure,Val,Rate,Date
-Alabama,Prison,Residents.Active,76,0.003575629263702658,2021-09-28
-Alabama,Prison,Residents.Confirmed,2040,0.09597741707833451,2021-09-28
-Alabama,Prison,Residents.Deaths,68,0.0031992472359444837,2021-09-28
-Alabama,Prison,Residents.Initiated,11759,0.5532345330510469,2021-09-28
-Alabama,Prison,Residents.Tested,18635,0.8767348859091978,2021-09-28
-Alabama,Prison,Staff.Active,51,0.013836136733586543,2021-09-28
-Alabama,Prison,Staff.Confirmed,1192,0.32338578404774826,2021-09-28
-Alabama,Prison,Staff.Deaths,3,8.138903960933261e-4,2021-09-28
-Alabama,Prison,Staff.Initiated,879,0.23846988605534455,2021-09-28
-Alaska,Prison,Residents.Completed,3097,0.6484505862646566,2021-09-28
-Alaska,Prison,Residents.Confirmed,2878,0.6025963149078727,2021-09-28
-Alaska,Prison,Residents.Deaths,5,0.0010469011725293131,2021-09-28
-Alaska,Prison,Residents.Initiated,2860,0.7125062282012955,2021-09-28
-Alaska,Prison,Residents.Tadmin,52236,10.93718592964824,2021-09-28
+Alabama,Prison,Residents.Active,29,0.0013643848506233827,2021-10-08
+Alabama,Prison,Residents.Confirmed,2070,0.09738884968242767,2021-10-08
+Alabama,Prison,Residents.Deaths,68,0.0031992472359444837,2021-10-08
+Alabama,Prison,Residents.Initiated,11836,0.5568572100682192,2021-10-08
+Alabama,Prison,Residents.Tested,18817,0.8852975770406963,2021-10-08
+Alabama,Prison,Staff.Active,47,0.012750949538795442,2021-10-08
+Alabama,Prison,Staff.Confirmed,1201,0.32582745523602824,2021-10-08
+Alabama,Prison,Staff.Deaths,3,8.138903960933261e-4,2021-10-08
+Alabama,Prison,Staff.Initiated,879,0.23846988605534455,2021-10-08
+Alaska,Prison,Residents.Completed,3097,0.6484505862646566,2021-10-08
+Alaska,Prison,Residents.Confirmed,2966,0.6210217755443886,2021-10-08
+Alaska,Prison,Residents.Deaths,5,0.0010469011725293131,2021-10-08
+Alaska,Prison,Residents.Initiated,3105,0.773542600896861,2021-10-08
+Alaska,Prison,Residents.Tadmin,53143,11.127093802345058,2021-10-08
 Alaska,Prison,Residents.Vadmin,6023,1.5004982561036373,2021-06-18
-Alaska,Prison,Staff.Confirmed,428,0.29395604395604397,2021-09-28
-Alaska,Prison,Staff.Deaths,1,6.868131868131869e-4,2021-09-28
-Arizona,Prison,Residents.Completed,25782,0.6086402266288952,2021-09-28
-Arizona,Prison,Residents.Confirmed,12383,0.2917147635986713,2021-09-28
-Arizona,Prison,Residents.Deaths,65,0.001534466477809254,2021-09-28
-Arizona,Prison,Residents.Tested,49947,1.1766354920021673,2021-09-28
-Arizona,Prison,Staff.Confirmed,3033,0.3334799340296866,2021-09-28
-Arkansas,Prison,Residents.Active,196,0.011199360036569338,2021-09-28
-Arkansas,Prison,Residents.Confirmed,12181,0.6960173704359751,2021-09-28
-Arkansas,Prison,Staff.Active,29,0.005311355311355312,2021-09-28
-California,Prison,Residents.Active,202,0.0016957547367802486,2021-09-28
-California,Prison,Residents.Completed,75779,0.6361514762300517,2021-09-28
-California,Prison,Residents.Confirmed,50746,0.42600381125074505,2021-09-28
-California,Prison,Residents.Deaths,240,0.002014758103105246,2021-09-28
-California,Prison,Residents.Initiated,77762,0.6527984150569589,2021-09-28
-California,Prison,Residents.Tadmin,1981389,16.84296024277663,2021-09-28
+Alaska,Prison,Staff.Confirmed,428,0.29395604395604397,2021-10-08
+Alaska,Prison,Staff.Deaths,1,6.868131868131869e-4,2021-10-08
+Arizona,Prison,Residents.Completed,25782,0.6086402266288952,2021-10-08
+Arizona,Prison,Residents.Confirmed,12390,0.29187966736554455,2021-10-08
+Arizona,Prison,Residents.Deaths,65,0.001534466477809254,2021-10-08
+Arizona,Prison,Residents.Tested,50266,1.1841503922353884,2021-10-08
+Arizona,Prison,Staff.Confirmed,3052,0.3355689939527213,2021-10-08
+Arkansas,Prison,Residents.Active,103,0.005885377978401234,2021-10-08
+Arkansas,Prison,Residents.Confirmed,12216,0.698017256156791,2021-10-08
+Arkansas,Prison,Staff.Active,26,0.004761904761904762,2021-10-08
+California,Prison,Residents.Active,159,0.0013347772433072254,2021-10-08
+California,Prison,Residents.Completed,76091,0.6387706617640886,2021-10-08
+California,Prison,Residents.Confirmed,50869,0.42703637477858647,2021-10-08
+California,Prison,Residents.Deaths,240,0.002014758103105246,2021-10-08
+California,Prison,Residents.Initiated,77961,0.6544689853174503,2021-10-08
+California,Prison,Residents.Tadmin,2022150,17.189452477494708,2021-10-08
 California,Prison,Residents.Tested,136735,1.1623271194076794,2021-09-10
-California,Prison,Staff.Active,356,0.005608860739550346,2021-09-28
-California,Prison,Staff.Completed,37150,0.5853066754895937,2021-09-28
-California,Prison,Staff.Confirmed,20447,0.3221471223078256,2021-09-28
-California,Prison,Staff.Initiated,39590,0.6237494288730286,2021-09-28
-Colorado,Prison,Residents.Active,17,9.697661152310326e-4,2021-09-28
-Colorado,Prison,Residents.Confirmed,8975,0.5119794637763834,2021-09-28
-Colorado,Prison,Residents.Deaths,29,0.0016543069024529378,2021-09-28
-Colorado,Prison,Residents.Initiated,11958,0.6800113733295422,2021-09-28
-Colorado,Prison,Residents.Tadmin,249014,14.20501996577296,2021-09-28
-Colorado,Prison,Staff.Active,74,0.011681136543014996,2021-09-28
-Colorado,Prison,Staff.Confirmed,2211,0.34901341752170484,2021-09-28
-Colorado,Prison,Staff.Initiated,4075,0.6432517758484609,2021-09-28
-Connecticut,Prison,Residents.Confirmed,4782,0.4268118529096751,2021-09-28
-Connecticut,Prison,Residents.Deaths,20,0.0016273393002441008,2021-09-28
-Connecticut,Prison,Residents.Initiated,4899,0.39861676159479253,2021-09-28
-Connecticut,Prison,Staff.Confirmed,1818,0.29232995658465993,2021-09-28
-Connecticut,Prison,Staff.Initiated,2697,0.43367100820067533,2021-09-28
-Delaware,Prison,Residents.Active,24,0.004108885464817668,2021-09-28
-Delaware,Prison,Residents.Completed,2767,0.5487901626338755,2021-09-28
-Delaware,Prison,Residents.Confirmed,2064,0.4093613645378818,2021-09-28
-Delaware,Prison,Residents.Deaths,13,0.0022256462934429036,2021-09-28
-Delaware,Prison,Residents.Initiated,2887,0.5725902419674732,2021-09-28
-Delaware,Prison,Residents.Tadmin,21541,4.272312574375248,2021-09-28
-Delaware,Prison,Staff.Active,17,,2021-09-28
+California,Prison,Staff.Active,336,0.005293756203620551,2021-10-08
+California,Prison,Staff.Completed,38746,0.6104520174567913,2021-10-08
+California,Prison,Staff.Confirmed,20687,0.32592837673898317,2021-10-08
+California,Prison,Staff.Deaths,39,6.144538450630997e-4,2021-10-08
+California,Prison,Staff.Initiated,40846,0.6435379937294198,2021-10-08
+Colorado,Prison,Residents.Active,13,7.415858528237307e-4,2021-10-08
+Colorado,Prison,Residents.Confirmed,8960,0.5095251634916121,2021-10-08
+Colorado,Prison,Residents.Deaths,29,0.0016543069024529378,2021-10-08
+Colorado,Prison,Residents.Initiated,12075,0.686664771111743,2021-10-08
+Colorado,Prison,Residents.Tadmin,254362,14.510096976611523,2021-10-08
+Colorado,Prison,Staff.Active,43,0.006787687450670876,2021-10-08
+Colorado,Prison,Staff.Confirmed,2268,0.3580110497237569,2021-10-08
+Colorado,Prison,Staff.Initiated,4925,0.7774269928966061,2021-10-08
+Connecticut,Prison,Residents.Confirmed,4826,0.43073902177793644,2021-10-08
+Connecticut,Prison,Residents.Deaths,20,0.0016273393002441008,2021-10-08
+Connecticut,Prison,Residents.Initiated,4900,0.39869812855980474,2021-10-08
+Connecticut,Prison,Staff.Confirmed,1818,0.29232995658465993,2021-10-08
+Connecticut,Prison,Staff.Initiated,2697,0.43367100820067533,2021-10-08
+Delaware,Prison,Residents.Active,10,0.001712035610340695,2021-10-08
+Delaware,Prison,Residents.Completed,2783,0.5519635065450218,2021-10-08
+Delaware,Prison,Residents.Confirmed,2066,0.40975803252677506,2021-10-08
+Delaware,Prison,Residents.Deaths,13,0.0022256462934429036,2021-10-08
+Delaware,Prison,Residents.Initiated,2881,0.5714002380007933,2021-10-08
+Delaware,Prison,Residents.Tadmin,21862,4.335977786592622,2021-10-08
+Delaware,Prison,Staff.Active,16,,2021-10-08
 Delaware,Prison,Staff.Completed,1130,,2021-08-24
-Delaware,Prison,Staff.Confirmed,812,,2021-09-28
+Delaware,Prison,Staff.Confirmed,821,,2021-10-08
 Delaware,Prison,Staff.Initiated,1303,,2021-08-24
 Florida,Prison,Residents.Confirmed,18072,0.1927392176101702,2021-09-07
-Florida,Prison,Residents.Deaths,221,0.0025689907702322553,2021-09-28
+Florida,Prison,Residents.Deaths,221,0.0025689907702322553,2021-10-08
 Florida,Prison,Staff.Confirmed,6066,0.22356540006633988,2021-09-07
-Florida,Prison,Staff.Deaths,9,3.3169940662661706e-4,2021-09-28
+Florida,Prison,Staff.Deaths,9,3.3169940662661706e-4,2021-10-08
 Georgia,Prison,Residents.Confirmed,3875,0.06608793532762561,2021-07-16
 Georgia,Prison,Residents.Deaths,93,0.0015861104478630146,2021-07-16
 Georgia,Prison,Residents.Initiated,29115,0.49655489988743734,2021-07-16
 Georgia,Prison,Staff.Confirmed,1752,,2021-07-16
 Georgia,Prison,Staff.Deaths,4,,2021-07-16
 Georgia,Prison,Staff.Initiated,1726,,2021-07-16
-Hawaii,Prison,Residents.Active,33,0.006425233644859813,2021-09-28
-Hawaii,Prison,Residents.Confirmed,2889,0.5625,2021-09-28
-Hawaii,Prison,Residents.Deaths,9,0.0017523364485981308,2021-09-28
-Hawaii,Prison,Residents.Tadmin,29373,5.719042056074766,2021-09-28
-Hawaii,Prison,Staff.Active,13,0.006190476190476191,2021-09-28
-Idaho,Prison,Residents.Active,251,0.0321136131013306,2021-09-28
-Idaho,Prison,Residents.Completed,6271,0.6752449660816194,2021-09-28
-Idaho,Prison,Residents.Confirmed,4656,0.5957011258955988,2021-09-28
-Idaho,Prison,Residents.Deaths,6,7.676560900716479e-4,2021-09-28
-Idaho,Prison,Residents.Initiated,6490,0.6988263163561969,2021-09-28
-Idaho,Prison,Residents.Tadmin,44691,5.71788638689867,2021-09-28
-Idaho,Prison,Staff.Active,15,0.007587253414264037,2021-09-28
-Idaho,Prison,Staff.Confirmed,588,0.29742033383915023,2021-09-28
-Illinois,Prison,Residents.Active,45,0.0012083780880773362,2021-09-28
-Illinois,Prison,Residents.Confirmed,11225,0.3014232008592911,2021-09-28
-Illinois,Prison,Residents.Deaths,88,0.0023828220194416615,2021-09-28
-Illinois,Prison,Residents.Tadmin,762506,20.47545649838883,2021-09-28
-Illinois,Prison,Staff.Active,97,0.00758701603441533,2021-09-28
-Illinois,Prison,Staff.Confirmed,5367,0.41978881501759874,2021-09-28
-Indiana,Prison,Residents.Active,39,0.0014562019266671645,2021-09-28
-Indiana,Prison,Residents.Confirmed,3841,0.14341722052124561,2021-09-28
-Indiana,Prison,Residents.Deaths,51,0.001904264057949369,2021-09-28
-Indiana,Prison,Residents.Tadmin,26666,0.9956687327309387,2021-09-28
-Indiana,Prison,Staff.Active,67,0.012002866356144752,2021-09-28
-Indiana,Prison,Staff.Confirmed,1775,0.31798638480831243,2021-09-28
-Indiana,Prison,Staff.Deaths,5,8.957362952346829e-4,2021-09-28
-Indiana,Prison,Staff.Tested,6388,1.144392690791831,2021-09-28
-Iowa,Prison,Residents.Active,7,8.775228782750407e-4,2021-09-28
-Iowa,Prison,Residents.Confirmed,4917,0.6163971417826251,2021-09-28
-Iowa,Prison,Residents.Deaths,22,0.002757929046007271,2021-09-28
-Iowa,Prison,Residents.Tadmin,52385,6.5670051397768585,2021-09-28
-Iowa,Prison,Staff.Active,19,0.007655116841257051,2021-09-28
-Iowa,Prison,Staff.Confirmed,793,0.3195004029008864,2021-09-28
+Hawaii,Prison,Residents.Active,36,0.007009345794392523,2021-10-08
+Hawaii,Prison,Residents.Confirmed,2906,0.565809968847352,2021-10-08
+Hawaii,Prison,Residents.Deaths,9,0.0017523364485981308,2021-10-08
+Hawaii,Prison,Residents.Tadmin,29854,5.812694704049845,2021-10-08
+Hawaii,Prison,Staff.Active,16,0.007619047619047619,2021-10-08
+Idaho,Prison,Residents.Active,300,0.0383828045035824,2021-10-08
+Idaho,Prison,Residents.Completed,6318,0.6803058038117799,2021-10-08
+Idaho,Prison,Residents.Confirmed,4711,0.6027379733879222,2021-10-08
+Idaho,Prison,Residents.Deaths,6,7.676560900716479e-4,2021-10-08
+Idaho,Prison,Residents.Initiated,6533,0.703456444492301,2021-10-08
+Idaho,Prison,Residents.Tadmin,46090,5.896878198567042,2021-10-08
+Idaho,Prison,Staff.Active,35,0.017703591299949417,2021-10-08
+Idaho,Prison,Staff.Confirmed,642,0.32473444613050073,2021-10-08
+Illinois,Prison,Residents.Active,81,0.002175080558539205,2021-10-08
+Illinois,Prison,Residents.Confirmed,11290,0.30316863587540277,2021-10-08
+Illinois,Prison,Residents.Deaths,88,0.0023828220194416615,2021-10-08
+Illinois,Prison,Residents.Tadmin,785359,21.089124597207302,2021-10-08
+Illinois,Prison,Staff.Active,67,0.005240516229956981,2021-10-08
+Illinois,Prison,Staff.Confirmed,5426,0.42440359796636684,2021-10-08
+Indiana,Prison,Residents.Active,22,8.214472406840415e-4,2021-10-08
+Indiana,Prison,Residents.Confirmed,3848,0.1436785900978269,2021-10-08
+Indiana,Prison,Residents.Deaths,51,0.001904264057949369,2021-10-08
+Indiana,Prison,Residents.Tadmin,26986,1.0076170562317974,2021-10-08
+Indiana,Prison,Staff.Active,55,0.009853099247581511,2021-10-08
+Indiana,Prison,Staff.Confirmed,1799,0.3222859190254389,2021-10-08
+Indiana,Prison,Staff.Deaths,5,8.957362952346829e-4,2021-10-08
+Indiana,Prison,Staff.Tested,6472,1.1594410605517735,2021-10-08
+Iowa,Prison,Residents.Active,7,8.775228782750407e-4,2021-10-08
+Iowa,Prison,Residents.Confirmed,4921,0.6168985834273536,2021-10-08
+Iowa,Prison,Residents.Deaths,22,0.002757929046007271,2021-10-08
+Iowa,Prison,Residents.Tadmin,52700,6.606493669299235,2021-10-08
+Iowa,Prison,Staff.Active,21,0.008460918614020952,2021-10-08
+Iowa,Prison,Staff.Confirmed,805,0.3243352135374698,2021-10-08
 Iowa,Prison,Staff.Deaths,2,8.058017727639e-4,2021-09-10
-Kansas,Prison,Residents.Active,9,9.164969450101833e-4,2021-09-28
-Kansas,Prison,Residents.Confirmed,6152,0.6264765784114052,2021-09-28
-Kansas,Prison,Residents.Deaths,16,0.001629327902240326,2021-09-28
-Kansas,Prison,Residents.Initiated,7394,0.7727035217891106,2021-09-28
-Kansas,Prison,Staff.Active,10,0.0030525030525030525,2021-09-28
-Kansas,Prison,Staff.Confirmed,1333,0.4068986568986569,2021-09-28
-Kansas,Prison,Staff.Deaths,6,0.0018315018315018315,2021-09-28
-Kansas,Prison,Staff.Initiated,1511,0.46123321123321126,2021-09-28
-Kentucky,Prison,Residents.Active,69,0.005659913050611106,2021-09-28
-Kentucky,Prison,Residents.Confirmed,8122,0.666229185464687,2021-09-28
-Kentucky,Prison,Residents.Deaths,48,0.0039373308178164215,2021-09-28
-Kentucky,Prison,Staff.Active,27,0.01016566265060241,2021-09-28
-Kentucky,Prison,Staff.Confirmed,1260,0.4743975903614458,2021-09-28
-Kentucky,Prison,Staff.Deaths,7,0.0026355421686746986,2021-09-28
-Louisiana,Prison,Residents.Active,30,0.001840942562592047,2021-09-28
+Kansas,Prison,Residents.Active,6,6.109979633401223e-4,2021-10-08
+Kansas,Prison,Residents.Confirmed,6155,0.6267820773930753,2021-10-08
+Kansas,Prison,Residents.Deaths,16,0.001629327902240326,2021-10-08
+Kansas,Prison,Residents.Initiated,7465,0.7801233148709374,2021-10-08
+Kansas,Prison,Staff.Active,15,0.004578754578754579,2021-10-08
+Kansas,Prison,Staff.Confirmed,1345,0.41056166056166055,2021-10-08
+Kansas,Prison,Staff.Deaths,6,0.0018315018315018315,2021-10-08
+Kansas,Prison,Staff.Initiated,1519,0.4636752136752137,2021-10-08
+Kentucky,Prison,Residents.Active,18,0.0014764990566811583,2021-10-08
+Kentucky,Prison,Residents.Confirmed,8162,0.669510294479534,2021-10-08
+Kentucky,Prison,Residents.Deaths,48,0.0039373308178164215,2021-10-08
+Kentucky,Prison,Staff.Active,16,0.006024096385542169,2021-10-08
+Kentucky,Prison,Staff.Confirmed,1281,0.4823042168674699,2021-10-08
+Kentucky,Prison,Staff.Deaths,8,0.0030120481927710845,2021-10-08
+Louisiana,Prison,Residents.Active,17,0.0010432007854688267,2021-10-08
 Louisiana,Prison,Residents.Confirmed,3210,0.19698085419734904,2021-07-06
 Louisiana,Prison,Residents.Deaths,36,0.0022091310751104565,2021-07-06
 Louisiana,Prison,Residents.Tadmin,25208,1.5468826705940109,2021-07-06
 Louisiana,Prison,Residents.Tested,9410,0.5774423171330387,2021-07-06
-Louisiana,Prison,Staff.Active,27,,2021-09-28
+Louisiana,Prison,Staff.Active,20,,2021-10-08
 Louisiana,Prison,Staff.Confirmed,954,,2021-07-06
 Louisiana,Prison,Staff.Deaths,6,,2021-07-06
 Louisiana,Prison,Staff.Tested,2489,,2021-07-06
-Maine,Prison,Residents.Completed,1317,0.6159962581852199,2021-09-28
-Maine,Prison,Residents.Confirmed,207,0.11016498137307078,2021-09-28
-Maine,Prison,Residents.Tadmin,13011,6.924427887174029,2021-09-28
-Maryland,Prison,Residents.Completed,10891,0.5663252040975508,2021-09-28
-Maryland,Prison,Residents.Confirmed,4572,0.23774114710623473,2021-09-28
-Maryland,Prison,Residents.Deaths,33,0.0017159794082471011,2021-09-28
-Maryland,Prison,Residents.Initiated,12148,0.6316884197389632,2021-09-28
-Maryland,Prison,Staff.Completed,4059,0.6722424643921828,2021-09-28
-Maryland,Prison,Staff.Confirmed,2596,0.4299436899635641,2021-09-28
-Maryland,Prison,Staff.Deaths,4,6.62471016893011e-4,2021-09-28
-Maryland,Prison,Staff.Initiated,4112,0.6810202053660153,2021-09-28
-Massachusetts,Prison,Residents.Active,0,0,2021-09-28
-Massachusetts,Prison,Residents.Completed,4429,0.5557786422386749,2021-09-28
-Massachusetts,Prison,Residents.Confirmed,3105,0.4437616121194798,2021-09-28
-Massachusetts,Prison,Residents.Deaths,21,0.003001286265542375,2021-09-28
-Massachusetts,Prison,Residents.Initiated,4800,0.6023340444221358,2021-09-28
-Massachusetts,Prison,Residents.Tadmin,40333,5.061237294516251,2021-09-28
-Massachusetts,Prison,Staff.Completed,2842,0.6168873453440417,2021-09-28
-Massachusetts,Prison,Staff.Confirmed,954,0.2070761884089429,2021-09-28
-Massachusetts,Prison,Staff.Initiated,2975,0.6457564575645757,2021-09-28
-Massachusetts,Prison,Staff.Tested,15517,3.368135446060343,2021-09-28
-Michigan,Prison,Residents.Active,34,8.870799415570862e-4,2021-09-28
-Michigan,Prison,Residents.Completed,21494,0.5619199498052339,2021-09-28
-Michigan,Prison,Residents.Confirmed,26786,0.6988624504278856,2021-09-28
-Michigan,Prison,Residents.Deaths,143,0.003730953871843039,2021-09-28
-Michigan,Prison,Residents.Initiated,21973,0.5744424982353402,2021-09-28
-Michigan,Prison,Residents.Tested,43581,1.1370538509705699,2021-09-28
-Michigan,Prison,Residents.Vadmin,34580,0.9040286528456772,2021-09-28
-Michigan,Prison,Staff.Confirmed,4654,0.3890328512914821,2021-09-28
-Michigan,Prison,Staff.Deaths,6,5.01546434840759e-4,2021-09-28
-Minnesota,Prison,Residents.Active,8,8.955558043210567e-4,2021-09-28
-Minnesota,Prison,Residents.Completed,6859,0.7703279424977538,2021-09-28
-Minnesota,Prison,Residents.Confirmed,4310,0.4824806895779693,2021-09-28
-Minnesota,Prison,Residents.Deaths,12,0.0013433337064815852,2021-09-28
-Minnesota,Prison,Residents.Initiated,7137,0.8015498652291105,2021-09-28
-Minnesota,Prison,Residents.Tadmin,142966,16.004253890070526,2021-09-28
-Minnesota,Prison,Residents.Vadmin,8902,0.9997753818508536,2021-09-28
-Minnesota,Prison,Staff.Completed,2443,0.5525899117846641,2021-09-28
-Minnesota,Prison,Staff.Confirmed,1279,0.28930106310789416,2021-09-28
-Minnesota,Prison,Staff.Initiated,2595,0.5869712734675413,2021-09-28
-Mississippi,Prison,Residents.Active,0,0,2021-09-28
-Mississippi,Prison,Residents.Confirmed,1467,0.0852262824609307,2021-09-28
+Maine,Prison,Residents.Completed,1325,0.6197380729653882,2021-10-08
+Maine,Prison,Residents.Confirmed,207,0.11016498137307078,2021-10-08
+Maine,Prison,Residents.Tadmin,13113,6.978712080894093,2021-10-08
+Maryland,Prison,Residents.Completed,11190,0.5818730175237897,2021-10-08
+Maryland,Prison,Residents.Confirmed,4588,0.23857313712235453,2021-10-08
+Maryland,Prison,Residents.Deaths,33,0.0017159794082471011,2021-10-08
+Maryland,Prison,Residents.Initiated,12241,0.6365243617076595,2021-10-08
+Maryland,Prison,Staff.Completed,4059,0.6722424643921828,2021-10-08
+Maryland,Prison,Staff.Confirmed,2645,0.4380589599205035,2021-10-08
+Maryland,Prison,Staff.Deaths,4,6.62471016893011e-4,2021-10-08
+Maryland,Prison,Staff.Initiated,4112,0.6810202053660153,2021-10-08
+Massachusetts,Prison,Residents.Active,0,0,2021-10-08
+Massachusetts,Prison,Residents.Completed,4429,0.5557786422386749,2021-10-08
+Massachusetts,Prison,Residents.Confirmed,3105,0.4437616121194798,2021-10-08
+Massachusetts,Prison,Residents.Deaths,21,0.003001286265542375,2021-10-08
+Massachusetts,Prison,Residents.Initiated,4800,0.6023340444221358,2021-10-08
+Massachusetts,Prison,Residents.Tadmin,40333,5.061237294516251,2021-10-08
+Massachusetts,Prison,Staff.Completed,2842,0.6168873453440417,2021-10-08
+Massachusetts,Prison,Staff.Confirmed,954,0.2070761884089429,2021-10-08
+Massachusetts,Prison,Staff.Initiated,2975,0.6457564575645757,2021-10-08
+Massachusetts,Prison,Staff.Tested,15517,3.368135446060343,2021-10-08
+Michigan,Prison,Residents.Active,215,0.005609476101022751,2021-10-08
+Michigan,Prison,Residents.Completed,21530,0.5628611016705446,2021-10-08
+Michigan,Prison,Residents.Confirmed,26980,0.7039240242120642,2021-10-08
+Michigan,Prison,Residents.Deaths,143,0.003730953871843039,2021-10-08
+Michigan,Prison,Residents.Initiated,22018,0.5756189380669786,2021-10-08
+Michigan,Prison,Residents.Tested,43744,1.1413066165727406,2021-10-08
+Michigan,Prison,Residents.Vadmin,34661,0.9061462445426264,2021-10-08
+Michigan,Prison,Staff.Confirmed,4725,0.39496781743709775,2021-10-08
+Michigan,Prison,Staff.Deaths,7,5.851375073142189e-4,2021-10-08
+Minnesota,Prison,Residents.Active,8,8.955558043210567e-4,2021-10-05
+Minnesota,Prison,Residents.Completed,6914,0.7765049415992812,2021-10-08
+Minnesota,Prison,Residents.Confirmed,4309,0.4823687451024292,2021-10-05
+Minnesota,Prison,Residents.Deaths,12,0.0013433337064815852,2021-10-05
+Minnesota,Prison,Residents.Initiated,7183,0.8067160826594789,2021-10-08
+Minnesota,Prison,Residents.Tadmin,144653,16.19310422030673,2021-10-05
+Minnesota,Prison,Residents.Vadmin,9010,1.0119047619047619,2021-10-08
+Minnesota,Prison,Staff.Completed,2820,0.6378647364849581,2021-10-08
+Minnesota,Prison,Staff.Confirmed,1310,0.29631305134584934,2021-10-05
+Minnesota,Prison,Staff.Initiated,2972,0.6722460981678353,2021-10-08
+Mississippi,Prison,Residents.Active,0,0,2021-10-08
+Mississippi,Prison,Residents.Confirmed,1467,0.0852262824609307,2021-10-08
 Mississippi,Prison,Residents.Deaths,25,0.0014150676402332031,2021-09-28
-Missouri,Prison,Residents.Active,22,8.547008547008547e-4,2021-09-28
-Missouri,Prison,Residents.Confirmed,6951,0.27004662004662006,2021-09-28
-Missouri,Prison,Residents.Deaths,51,0.0019813519813519816,2021-09-28
-Missouri,Prison,Residents.Initiated,16775,0.6517094017094017,2021-09-28
-Missouri,Prison,Residents.Tadmin,116858,4.53993783993784,2021-09-28
-Missouri,Prison,Staff.Active,32,0.003315031596394903,2021-09-28
-Missouri,Prison,Staff.Confirmed,2654,0.2749404330260023,2021-09-28
-Missouri,Prison,Staff.Deaths,9,9.323526364860666e-4,2021-09-28
-Montana,Prison,Residents.Confirmed,1159,0.2907676869041646,2021-09-28
-Montana,Prison,Residents.Deaths,6,0.0013309671694764862,2021-09-28
-Montana,Prison,Staff.Confirmed,285,0.22161741835147744,2021-09-28
-Montana,Prison,Staff.Deaths,0,0,2021-09-28
-Nebraska,Prison,Residents.Active,36,0.0076677316293929714,2021-09-28
-Nebraska,Prison,Residents.Confirmed,1081,0.1923145347802882,2021-09-28
-Nebraska,Prison,Residents.Deaths,10,0.001779042874933286,2021-09-28
-Nebraska,Prison,Residents.Tadmin,7073,1.258317025440313,2021-09-28
-Nevada,Prison,Residents.Confirmed,4576,0.3695090439276486,2021-09-28
-Nevada,Prison,Residents.Deaths,49,0.004086057371581054,2021-09-28
-Nevada,Prison,Staff.Confirmed,1132,0.4291129643669447,2021-09-28
-Nevada,Prison,Staff.Deaths,3,0.0011372251705837756,2021-09-28
-New Hampshire,Prison,Residents.Active,1,4.0016006402561027e-4,2021-09-28
-New Hampshire,Prison,Residents.Completed,1773,0.709483793517407,2021-09-28
-New Hampshire,Prison,Residents.Confirmed,462,0.18487394957983194,2021-09-28
-New Hampshire,Prison,Residents.Deaths,3,0.0012004801920768306,2021-09-28
-New Hampshire,Prison,Residents.Initiated,1781,0.7126850740296119,2021-09-28
-New Hampshire,Prison,Residents.Tadmin,2291,0.916766706682673,2021-09-28
-New Hampshire,Prison,Residents.Vadmin,3222,1.2893157262905162,2021-09-28
-New Hampshire,Prison,Staff.Active,4,0.004860267314702308,2021-09-28
-New Hampshire,Prison,Staff.Confirmed,186,0.22600243013365734,2021-09-28
-New Jersey,Prison,Residents.Confirmed,4806,0.26064320190899726,2021-09-28
-New Jersey,Prison,Residents.Deaths,53,0.002874342426378871,2021-09-28
-New Jersey,Prison,Residents.Vadmin,13329,0.7228700037963013,2021-09-28
-New Jersey,Prison,Staff.Confirmed,3240,,2021-09-28
-New Jersey,Prison,Staff.Vadmin,5464,,2021-09-28
-New Mexico,Prison,Residents.Active,9,0.0011584502509975544,2021-09-28
-New Mexico,Prison,Residents.Confirmed,3017,0.3883382674732913,2021-09-28
-New Mexico,Prison,Residents.Deaths,28,0.003604067447547947,2021-09-28
-New Mexico,Prison,Residents.Tadmin,63215,9.617374106191997,2021-09-28
-New York,Prison,Residents.Confirmed,6698,0.13087654851694086,2021-09-28
-New York,Prison,Residents.Deaths,35,6.838876079565438e-4,2021-09-28
-New York,Prison,Residents.Tadmin,124317,2.4291101645238187,2021-09-28
-New York,Prison,Staff.Confirmed,5769,0.20400297040206514,2021-09-28
-New York,Prison,Staff.Deaths,12,4.2434315216238196e-4,2021-09-28
-North Carolina,Prison,Residents.Active,74,0.002322515849601406,2021-09-28
-North Carolina,Prison,Residents.Completed,19691,0.6784619095200358,2021-09-28
-North Carolina,Prison,Residents.Confirmed,10535,0.330644655075011,2021-09-28
-North Carolina,Prison,Residents.Deaths,55,0.0033783783783783786,2021-09-28
-North Carolina,Prison,Residents.Initiated,20862,0.7188092202735761,2021-09-28
-North Carolina,Prison,Residents.Tadmin,169643,5.324304814512585,2021-09-28
-North Carolina,Prison,Staff.Completed,6662,0.4746028353636817,2021-09-28
-North Carolina,Prison,Staff.Confirmed,4490,0.3198689178599416,2021-09-28
-North Carolina,Prison,Staff.Initiated,6968,0.49640236517774455,2021-09-28
-North Dakota,Prison,Residents.Active,14,0.011164274322169059,2021-09-28
+Missouri,Prison,Residents.Active,38,0.0014763014763014763,2021-10-08
+Missouri,Prison,Residents.Confirmed,6983,0.27128982128982126,2021-10-08
+Missouri,Prison,Residents.Deaths,51,0.0019813519813519816,2021-10-08
+Missouri,Prison,Residents.Initiated,16866,0.6552447552447552,2021-10-08
+Missouri,Prison,Residents.Tadmin,116858,4.53993783993784,2021-10-08
+Missouri,Prison,Staff.Active,28,0.0029006526468455403,2021-10-08
+Missouri,Prison,Staff.Confirmed,2679,0.2775303014606858,2021-10-08
+Missouri,Prison,Staff.Deaths,9,9.323526364860666e-4,2021-10-08
+Montana,Prison,Residents.Confirmed,1159,0.2907676869041646,2021-10-08
+Montana,Prison,Residents.Deaths,6,0.0013309671694764862,2021-10-08
+Montana,Prison,Staff.Confirmed,285,0.22161741835147744,2021-10-08
+Montana,Prison,Staff.Deaths,0,0,2021-10-08
+Nebraska,Prison,Residents.Active,16,0.0034078807241746537,2021-10-08
+Nebraska,Prison,Residents.Confirmed,1087,0.19338196050524817,2021-10-08
+Nebraska,Prison,Residents.Deaths,10,0.001779042874933286,2021-10-08
+Nebraska,Prison,Residents.Tadmin,7128,1.2681017612524461,2021-10-08
+Nevada,Prison,Residents.Confirmed,4577,0.3816711140760507,2021-10-08
+Nevada,Prison,Residents.Deaths,49,0.004086057371581054,2021-10-08
+Nevada,Prison,Staff.Confirmed,1146,0.43442001516300227,2021-10-08
+Nevada,Prison,Staff.Deaths,3,0.0011372251705837756,2021-10-08
+New Hampshire,Prison,Residents.Active,7,0.0028011204481792717,2021-10-08
+New Hampshire,Prison,Residents.Completed,1773,0.709483793517407,2021-10-08
+New Hampshire,Prison,Residents.Confirmed,469,0.1876750700280112,2021-10-08
+New Hampshire,Prison,Residents.Deaths,3,0.0012004801920768306,2021-10-08
+New Hampshire,Prison,Residents.Initiated,1781,0.7126850740296119,2021-10-08
+New Hampshire,Prison,Residents.Tadmin,2355,0.9423769507803121,2021-10-08
+New Hampshire,Prison,Residents.Vadmin,3222,1.2893157262905162,2021-10-08
+New Hampshire,Prison,Staff.Active,4,0.004860267314702308,2021-10-08
+New Hampshire,Prison,Staff.Confirmed,189,0.22964763061968407,2021-10-08
+New Jersey,Prison,Residents.Confirmed,4806,0.26064320190899726,2021-10-08
+New Jersey,Prison,Residents.Deaths,53,0.002874342426378871,2021-10-08
+New Jersey,Prison,Residents.Vadmin,13651,0.7403329898584522,2021-10-08
+New Jersey,Prison,Staff.Confirmed,3287,,2021-10-08
+New Jersey,Prison,Staff.Vadmin,5469,,2021-10-08
+New Mexico,Prison,Residents.Active,6,7.723001673317029e-4,2021-10-08
+New Mexico,Prison,Residents.Confirmed,3025,0.38936800102973357,2021-10-08
+New Mexico,Prison,Residents.Deaths,28,0.003604067447547947,2021-10-08
+New Mexico,Prison,Residents.Tadmin,63666,9.685988133272478,2021-10-08
+New York,Prison,Residents.Confirmed,6785,0.13257649771386143,2021-10-08
+New York,Prison,Residents.Deaths,35,6.838876079565438e-4,2021-10-08
+New York,Prison,Residents.Tadmin,128746,2.515651256399234,2021-10-08
+New York,Prison,Staff.Confirmed,5874,0.20771597298348599,2021-10-08
+New York,Prison,Staff.Deaths,13,4.5970508150924714e-4,2021-10-08
+North Carolina,Prison,Residents.Active,85,0.0026677546921097233,2021-10-08
+North Carolina,Prison,Residents.Completed,19691,0.6784619095200358,2021-10-08
+North Carolina,Prison,Residents.Confirmed,11238,0.35270855564622433,2021-10-08
+North Carolina,Prison,Residents.Deaths,55,0.0033783783783783786,2021-10-08
+North Carolina,Prison,Residents.Initiated,20862,0.7188092202735761,2021-10-08
+North Carolina,Prison,Residents.Tadmin,185891,5.834253970246689,2021-10-08
+North Carolina,Prison,Staff.Completed,6662,0.4746028353636817,2021-10-08
+North Carolina,Prison,Staff.Confirmed,4490,0.3198689178599416,2021-10-08
+North Carolina,Prison,Staff.Initiated,6968,0.49640236517774455,2021-10-08
+North Dakota,Prison,Residents.Active,21,0.01674641148325359,2021-10-08
 North Dakota,Prison,Residents.Completed,1174,0.9362041467304625,2021-09-28
-North Dakota,Prison,Residents.Confirmed,671,0.5350877192982456,2021-09-28
-North Dakota,Prison,Residents.Deaths,1,7.974481658692185e-4,2021-09-28
+North Dakota,Prison,Residents.Confirmed,720,0.5741626794258373,2021-10-08
+North Dakota,Prison,Residents.Deaths,2,0.001594896331738437,2021-10-08
 North Dakota,Prison,Residents.Initiated,1227,0.9784688995215312,2021-09-28
-North Dakota,Prison,Residents.Tadmin,46994,37.47527910685805,2021-09-28
-North Dakota,Prison,Staff.Active,39,0.04285714285714286,2021-09-28
-North Dakota,Prison,Staff.Confirmed,376,0.41318681318681316,2021-09-28
-North Dakota,Prison,Staff.Deaths,1,0.001098901098901099,2021-09-28
-North Dakota,Prison,Staff.Tested,1867,2.0516483516483515,2021-09-28
-Ohio,Prison,Residents.Active,88,0.0018646438106538967,2021-09-28
-Ohio,Prison,Residents.Confirmed,10119,0.20750538295908952,2021-09-28
-Ohio,Prison,Residents.Deaths,135,0.0028605331186167733,2021-09-28
-Ohio,Prison,Residents.Initiated,24373,0.49980518814723673,2021-09-28
-Ohio,Prison,Residents.Tadmin,105637,2.1662462831949143,2021-09-28
-Ohio,Prison,Staff.Active,156,0.012795275590551181,2021-09-28
-Ohio,Prison,Staff.Confirmed,5417,0.44430774278215224,2021-09-28
-Ohio,Prison,Staff.Deaths,12,9.84251968503937e-4,2021-09-28
-Ohio,Prison,Staff.Initiated,8083,0.6629757217847769,2021-09-28
-Oklahoma,Prison,Residents.Active,92,0.003686488219265908,2021-09-28
-Oklahoma,Prison,Residents.Confirmed,7702,0.3086231767911524,2021-09-28
-Oklahoma,Prison,Residents.Deaths,58,0.002488736322677537,2021-09-28
-Oklahoma,Prison,Residents.Tadmin,34802,1.394534380509697,2021-09-28
+North Dakota,Prison,Residents.Tadmin,48819,38.930622009569376,2021-10-08
+North Dakota,Prison,Staff.Active,33,0.03626373626373627,2021-10-08
+North Dakota,Prison,Staff.Confirmed,407,0.4472527472527473,2021-10-08
+North Dakota,Prison,Staff.Deaths,1,0.001098901098901099,2021-10-08
+North Dakota,Prison,Staff.Tested,1949,2.1417582417582417,2021-10-08
+Ohio,Prison,Residents.Active,64,0.0013561045895664704,2021-10-08
+Ohio,Prison,Residents.Confirmed,9950,0.20403978263098535,2021-10-08
+Ohio,Prison,Residents.Deaths,136,0.0028817222528287494,2021-10-08
+Ohio,Prison,Residents.Initiated,24669,0.5058751153491233,2021-10-08
+Ohio,Prison,Residents.Tadmin,100955,2.0702347995488566,2021-10-08
+Ohio,Prison,Staff.Active,107,0.008776246719160104,2021-10-08
+Ohio,Prison,Staff.Confirmed,5503,0.45136154855643046,2021-10-08
+Ohio,Prison,Staff.Deaths,13,0.001066272965879265,2021-10-08
+Ohio,Prison,Staff.Initiated,8291,0.6800360892388452,2021-10-08
+Oklahoma,Prison,Residents.Active,0,0,2021-10-08
+Oklahoma,Prison,Residents.Confirmed,7703,0.3086632473152749,2021-10-08
+Oklahoma,Prison,Residents.Deaths,58,0.002488736322677537,2021-10-08
+Oklahoma,Prison,Residents.Tadmin,34850,1.396457765667575,2021-10-08
 Oklahoma,Prison,Staff.Confirmed,1074,0.24878387769284224,2021-08-06
-Oregon,Prison,Residents.Active,28,0.0020210769452865597,2021-09-28
-Oregon,Prison,Residents.Confirmed,3763,0.27161830518261876,2021-09-28
-Oregon,Prison,Residents.Deaths,44,0.003494004605733344,2021-09-28
-Oregon,Prison,Residents.Tadmin,29301,2.1149848419229103,2021-09-28
-Oregon,Prison,Staff.Confirmed,1138,0.2450473729543497,2021-09-28
-Pennsylvania,Prison,Residents.Active,44,0.0010587102983638113,2021-09-28
-Pennsylvania,Prison,Residents.Completed,33261,0.8030372534344141,2021-09-28
-Pennsylvania,Prison,Residents.Confirmed,11553,0.27798363811357074,2021-09-28
-Pennsylvania,Prison,Residents.Deaths,141,0.0034376828554710357,2021-09-28
-Pennsylvania,Prison,Residents.Initiated,33536,0.8096767184142544,2021-09-28
-Pennsylvania,Prison,Residents.Tadmin,166303,4.001515880654475,2021-09-28
-Pennsylvania,Prison,Staff.Active,124,0.0075247284422598456,2021-09-28
-Pennsylvania,Prison,Staff.Completed,6293,0.3818799684446872,2021-09-28
-Pennsylvania,Prison,Staff.Confirmed,5107,0.3099095818921051,2021-09-28
-Pennsylvania,Prison,Staff.Initiated,6294,0.3819406517385764,2021-09-28
-Rhode Island,Prison,Residents.Confirmed,1297,0.38509501187648454,2021-09-28
-Rhode Island,Prison,Residents.Deaths,2,0.0014727540500736377,2021-09-28
-Rhode Island,Prison,Staff.Confirmed,457,0.341044776119403,2021-09-28
-Rhode Island,Prison,Staff.Deaths,1,7.462686567164179e-4,2021-09-28
-South Carolina,Prison,Residents.Active,30,0.0020273009866198133,2021-09-28
-South Carolina,Prison,Residents.Completed,8899,0.6013650493309907,2021-09-28
-South Carolina,Prison,Residents.Confirmed,3625,0.24496553588322748,2021-09-28
-South Carolina,Prison,Residents.Deaths,44,0.0029733747803757263,2021-09-28
-South Carolina,Prison,Staff.Active,74,0.015468227424749164,2021-09-28
-South Carolina,Prison,Staff.Confirmed,1433,0.2995401337792642,2021-09-28
-South Carolina,Prison,Staff.Deaths,6,0.001254180602006689,2021-09-28
-South Dakota,Prison,Residents.Active,7,0.0018893387314439945,2021-09-28
-South Dakota,Prison,Residents.Confirmed,2368,0.639136302294197,2021-09-28
-South Dakota,Prison,Residents.Deaths,7,0.0018893387314439945,2021-09-28
-South Dakota,Prison,Residents.Tadmin,11133,3.0048582995951416,2021-09-28
-South Dakota,Prison,Staff.Active,3,0.004273504273504274,2021-09-28
-South Dakota,Prison,Staff.Confirmed,199,0.28347578347578345,2021-09-28
-South Dakota,Prison,Staff.Deaths,0,0,2021-09-28
-Tennessee,Prison,Residents.Active,108,0.004479469099958523,2021-09-28
-Tennessee,Prison,Residents.Confirmed,7101,0.2945250933222729,2021-09-28
-Tennessee,Prison,Residents.Deaths,47,0.0019493985897967648,2021-09-28
-Tennessee,Prison,Residents.Tadmin,59870,2.4832019908751555,2021-09-28
-Tennessee,Prison,Residents.Vadmin,16869,0.7803941524796447,2021-09-28
-Tennessee,Prison,Staff.Confirmed,1946,0.3759659969088099,2021-09-28
-Tennessee,Prison,Staff.Deaths,6,0.00115919629057187,2021-09-28
-Tennessee,Prison,Staff.Vadmin,3330,0.643353941267388,2021-09-28
-Texas,Prison,Residents.Active,1235,0.010331183443337432,2021-09-28
-Texas,Prison,Residents.Confirmed,38262,0.3200742841368234,2021-09-28
-Texas,Prison,Residents.Deaths,301,0.003381224654856719,2021-09-28
-Texas,Prison,Residents.Tadmin,748312,6.2598773642515955,2021-09-28
-Texas,Prison,Staff.Active,705,0.019557256990679093,2021-09-28
-Texas,Prison,Staff.Confirmed,13924,0.3862627607634265,2021-09-28
-Texas,Prison,Staff.Deaths,66,0.0018308921438082556,2021-09-28
-Texas,Prison,Staff.Tested,315413,8.749805814469596,2021-09-28
-Utah,Prison,Residents.Confirmed,3577,0.5184057971014493,2021-09-28
-Utah,Prison,Residents.Deaths,19,0.0027536231884057972,2021-09-28
-Utah,Prison,Residents.Tadmin,33187,12.318856718634002,2021-09-28
-Utah,Prison,Residents.Tested,3285,0.47608695652173916,2021-09-28
-Utah,Prison,Staff.Confirmed,464,0.20112700476809708,2021-09-28
-Vermont,Prison,Residents.Active,2,6.495615459564793e-4,2021-09-28
-Vermont,Prison,Residents.Confirmed,515,0.16726209808379344,2021-09-28
-Vermont,Prison,Residents.Deaths,0,0,2021-09-28
-Vermont,Prison,Residents.Tadmin,30556,18.45169082125604,2021-09-28
-Vermont,Prison,Residents.Tested,3423,2.0670289855072466,2021-09-28
-Vermont,Prison,Staff.Active,3,0.0029910269192422734,2021-09-28
-Vermont,Prison,Staff.Confirmed,137,0.1365902293120638,2021-09-28
-Vermont,Prison,Staff.Deaths,0,0,2021-09-28
-Virginia,Prison,Residents.Active,104,0.0035013298320035013,2021-09-28
-Virginia,Prison,Residents.Confirmed,9337,0.31434535232131433,2021-09-28
-Virginia,Prison,Residents.Deaths,56,0.0018853314480018852,2021-09-28
-Virginia,Prison,Residents.Initiated,22287,0.7642742018449299,2021-09-28
-Virginia,Prison,Staff.Active,114,0.009530178899849523,2021-09-28
-Virginia,Prison,Staff.Deaths,5,4.179903026249791e-4,2021-09-28
-Virginia,Prison,Staff.Initiated,7458,0.6234743353954189,2021-09-28
-Washington,Prison,Residents.Confirmed,6597,0.38673935983116425,2021-09-28
-Washington,Prison,Residents.Deaths,14,8.207292765857662e-4,2021-09-28
-Washington,Prison,Residents.Initiated,9409,0.545038521693796,2021-09-28
-Washington,Prison,Staff.Confirmed,1942,0.22053145582557349,2021-09-28
-Washington,Prison,Staff.Deaths,4,4.542357483533954e-4,2021-09-28
-Washington,Prison,Staff.Initiated,4222,0.47944583238700883,2021-09-28
-West Virginia,Prison,Residents.Active,117,0.021897810218978103,2021-09-28
+Oregon,Prison,Residents.Active,26,0.0018767143063375198,2021-10-08
+Oregon,Prison,Residents.Confirmed,3772,0.27226793705788943,2021-10-08
+Oregon,Prison,Residents.Deaths,44,0.003494004605733344,2021-10-08
+Oregon,Prison,Residents.Tadmin,29310,2.115634473798181,2021-10-08
+Oregon,Prison,Staff.Confirmed,1151,0.24784668389319553,2021-10-08
+Pennsylvania,Prison,Residents.Active,36,8.662175168431184e-4,2021-10-08
+Pennsylvania,Prison,Residents.Completed,33139,0.8000917453342669,2021-10-08
+Pennsylvania,Prison,Residents.Confirmed,11585,0.27875360923965353,2021-10-08
+Pennsylvania,Prison,Residents.Deaths,141,0.0034376828554710357,2021-10-08
+Pennsylvania,Prison,Residents.Initiated,33548,0.8099664405224656,2021-10-08
+Pennsylvania,Prison,Residents.Tadmin,169155,4.070139557266603,2021-10-08
+Pennsylvania,Prison,Staff.Active,107,0.006493112446143577,2021-10-08
+Pennsylvania,Prison,Staff.Completed,6520,0.3956550761575338,2021-10-08
+Pennsylvania,Prison,Staff.Confirmed,5202,0.3156744948115784,2021-10-08
+Pennsylvania,Prison,Staff.Initiated,6521,0.395715759451423,2021-10-08
+Rhode Island,Prison,Residents.Confirmed,1309,0.38865795724465557,2021-10-08
+Rhode Island,Prison,Residents.Deaths,2,0.0014727540500736377,2021-10-08
+Rhode Island,Prison,Staff.Confirmed,457,0.341044776119403,2021-10-08
+Rhode Island,Prison,Staff.Deaths,1,7.462686567164179e-4,2021-10-08
+South Carolina,Prison,Residents.Active,81,0.0054737126638734965,2021-10-08
+South Carolina,Prison,Residents.Completed,9041,0.6109609406676578,2021-10-08
+South Carolina,Prison,Residents.Confirmed,3688,0.24922286795512907,2021-10-08
+South Carolina,Prison,Residents.Deaths,44,0.0029733747803757263,2021-10-08
+South Carolina,Prison,Staff.Active,38,0.00794314381270903,2021-10-08
+South Carolina,Prison,Staff.Confirmed,1449,0.30288461538461536,2021-10-08
+South Carolina,Prison,Staff.Deaths,6,0.001254180602006689,2021-10-08
+South Dakota,Prison,Residents.Active,7,0.0018893387314439945,2021-10-08
+South Dakota,Prison,Residents.Confirmed,2368,0.639136302294197,2021-10-08
+South Dakota,Prison,Residents.Deaths,7,0.0018893387314439945,2021-10-08
+South Dakota,Prison,Residents.Tadmin,11133,3.0048582995951416,2021-10-08
+South Dakota,Prison,Staff.Active,3,0.004273504273504274,2021-10-08
+South Dakota,Prison,Staff.Confirmed,199,0.28347578347578345,2021-10-08
+South Dakota,Prison,Staff.Deaths,0,0,2021-10-08
+Tennessee,Prison,Residents.Active,73,0.003027789299046039,2021-10-08
+Tennessee,Prison,Residents.Confirmed,7158,0.29688925756947326,2021-10-08
+Tennessee,Prison,Residents.Deaths,49,0.0020323517212774782,2021-10-08
+Tennessee,Prison,Residents.Tadmin,61222,2.539278307756118,2021-10-08
+Tennessee,Prison,Residents.Vadmin,16879,0.7808567727609178,2021-10-08
+Tennessee,Prison,Staff.Confirmed,1985,0.38350077279752703,2021-10-08
+Tennessee,Prison,Staff.Deaths,6,0.00115919629057187,2021-10-08
+Tennessee,Prison,Staff.Vadmin,3331,0.64354714064915,2021-10-08
+Texas,Prison,Residents.Active,1235,0.010331183443337432,2021-10-08
+Texas,Prison,Residents.Confirmed,38262,0.3200742841368234,2021-10-08
+Texas,Prison,Residents.Deaths,310,0.0034823243953673853,2021-10-08
+Texas,Prison,Residents.Tadmin,748312,6.2598773642515955,2021-10-08
+Texas,Prison,Staff.Active,705,0.019557256990679093,2021-10-08
+Texas,Prison,Staff.Confirmed,13924,0.3862627607634265,2021-10-08
+Texas,Prison,Staff.Deaths,66,0.0018308921438082556,2021-10-08
+Texas,Prison,Staff.Tested,315413,8.749805814469596,2021-10-08
+Utah,Prison,Residents.Confirmed,3614,0.523768115942029,2021-10-08
+Utah,Prison,Residents.Deaths,20,0.002898550724637681,2021-10-08
+Utah,Prison,Residents.Tadmin,37499,13.919450631031923,2021-10-08
+Utah,Prison,Residents.Tested,3596,0.5211594202898551,2021-10-08
+Utah,Prison,Staff.Confirmed,506,0.21933246640658866,2021-10-08
+Vermont,Prison,Residents.Active,2,6.495615459564793e-4,2021-10-08
+Vermont,Prison,Residents.Confirmed,520,0.16888600194868464,2021-10-08
+Vermont,Prison,Residents.Deaths,0,0,2021-10-08
+Vermont,Prison,Residents.Tadmin,31636,19.103864734299517,2021-10-08
+Vermont,Prison,Residents.Tested,3474,2.097826086956522,2021-10-08
+Vermont,Prison,Staff.Active,2,0.0019940179461615153,2021-10-08
+Vermont,Prison,Staff.Confirmed,139,0.13858424725822532,2021-10-08
+Vermont,Prison,Staff.Deaths,0,0,2021-10-08
+Virginia,Prison,Residents.Active,116,0.0039053294280039052,2021-10-08
+Virginia,Prison,Residents.Confirmed,9302,0.31316702016631315,2021-10-08
+Virginia,Prison,Residents.Deaths,56,0.0018853314480018852,2021-10-08
+Virginia,Prison,Residents.Initiated,22458,0.7701381982785227,2021-10-08
+Virginia,Prison,Staff.Active,87,0.007273031265674636,2021-10-08
+Virginia,Prison,Staff.Deaths,5,4.179903026249791e-4,2021-10-08
+Virginia,Prison,Staff.Initiated,7530,0.6294933957532185,2021-10-08
+Washington,Prison,Residents.Confirmed,6611,0.38756008910775003,2021-10-08
+Washington,Prison,Residents.Deaths,14,8.207292765857662e-4,2021-10-08
+Washington,Prison,Residents.Initiated,9409,0.545038521693796,2021-10-08
+Washington,Prison,Staff.Confirmed,1983,0.22518737224619578,2021-10-08
+Washington,Prison,Staff.Deaths,4,4.542357483533954e-4,2021-10-08
+Washington,Prison,Staff.Initiated,4154,0.4717238246650011,2021-10-08
+West Virginia,Prison,Residents.Active,108,0.02021336327905671,2021-10-08
 West Virginia,Prison,Residents.Completed,2497,0.41952284946236557,2021-06-14
-West Virginia,Prison,Residents.Confirmed,1982,0.3709526483249111,2021-09-28
-West Virginia,Prison,Residents.Deaths,19,0.003192204301075269,2021-09-28
-West Virginia,Prison,Residents.Initiated,2716,0.5083286543140558,2021-09-28
-West Virginia,Prison,Residents.Tadmin,13451,2.517499532098072,2021-09-28
-West Virginia,Prison,Staff.Active,35,0.018929150892374257,2021-09-28
+West Virginia,Prison,Residents.Confirmed,2016,0.3773161145423919,2021-10-08
+West Virginia,Prison,Residents.Deaths,19,0.003192204301075269,2021-10-08
+West Virginia,Prison,Residents.Initiated,2716,0.5083286543140558,2021-10-08
+West Virginia,Prison,Residents.Tadmin,13742,2.571963316488864,2021-10-08
+West Virginia,Prison,Staff.Active,42,0.022714981070849107,2021-10-08
 West Virginia,Prison,Staff.Completed,812,0.43915630070308276,2021-06-14
-West Virginia,Prison,Staff.Confirmed,696,0.37641968631692807,2021-09-28
-West Virginia,Prison,Staff.Initiated,812,0.43915630070308276,2021-09-28
-West Virginia,Prison,Staff.Tested,16835,9.104921579232018,2021-09-28
-Wisconsin,Prison,Residents.Active,7,2.6987431567584237e-4,2021-09-28
-Wisconsin,Prison,Residents.Completed,14371,0.551267789328321,2021-09-28
-Wisconsin,Prison,Residents.Confirmed,10997,0.4239725499267484,2021-09-28
-Wisconsin,Prison,Residents.Deaths,32,0.0017364879531148252,2021-09-28
-Wisconsin,Prison,Residents.Initiated,16588,0.636311327630519,2021-09-28
-Wisconsin,Prison,Residents.Tadmin,137678,5.307965147659804,2021-09-28
-Wisconsin,Prison,Residents.Vadmin,27868,1.069009167977291,2021-09-28
-Wisconsin,Prison,Staff.Confirmed,2729,0.2903191489361702,2021-09-28
-Wyoming,Prison,Residents.Active,9,0.004859611231101512,2021-09-28
-Wyoming,Prison,Residents.Deaths,4,0.0018552875695732839,2021-09-28
-Wyoming,Prison,Staff.Active,15,0.014734774066797643,2021-09-28
+West Virginia,Prison,Staff.Confirmed,711,0.38453217955651703,2021-10-08
+West Virginia,Prison,Staff.Initiated,812,0.43915630070308276,2021-10-08
+West Virginia,Prison,Staff.Tested,17165,9.283396430502975,2021-10-08
+Wisconsin,Prison,Residents.Active,16,6.168555786876397e-4,2021-10-08
+Wisconsin,Prison,Residents.Completed,16041,0.6153285511527101,2021-10-08
+Wisconsin,Prison,Residents.Confirmed,11012,0.42455085203176807,2021-10-08
+Wisconsin,Prison,Residents.Deaths,32,0.0017364879531148252,2021-10-08
+Wisconsin,Prison,Residents.Initiated,16658,0.6389965092638766,2021-10-08
+Wisconsin,Prison,Residents.Tadmin,138772,5.3501426478525715,2021-10-08
+Wisconsin,Prison,Residents.Vadmin,29575,1.1344892400935978,2021-10-08
+Wisconsin,Prison,Staff.Confirmed,2784,0.29617021276595745,2021-10-08
+Wyoming,Prison,Residents.Active,25,0.013498920086393088,2021-10-08
+Wyoming,Prison,Residents.Deaths,4,0.0018552875695732839,2021-10-08
+Wyoming,Prison,Staff.Active,14,0.0137524557956778,2021-10-08
 Alabama,Prison,Residents.Tadmin,16743,0.7929809605001421,
 Alabama,Prison,Staff.Tested,,,
 Alabama,Prison,Residents.Completed,,,
@@ -360,7 +361,6 @@ Arkansas,Prison,Staff.Deaths,4,7.326007326007326e-4,
 Arkansas,Prison,Staff.Tested,,,
 Arkansas,Prison,Residents.Completed,,,
 Arkansas,Prison,Staff.Completed,,,
-California,Prison,Staff.Deaths,28,4.411463503017126e-4,
 California,Prison,Staff.Tested,,,
 Colorado,Prison,Residents.Tested,20775,1.1814046061984647,
 Colorado,Prison,Staff.Deaths,0,0,
@@ -558,512 +558,519 @@ Wyoming,Prison,Staff.Deaths,0,0,
 Wyoming,Prison,Staff.Tested,,,
 Wyoming,Prison,Residents.Completed,,,
 Wyoming,Prison,Staff.Completed,,,
-Alabama,Federal,Residents.Active,2,6.404098623118795e-4,2021-09-28
-Alabama,ICE,Residents.Active,2,0.01904761904761905,2021-09-28
-Alabama,Federal,Residents.Completed,2057,0.6586615433877682,2021-09-28
-Alabama,Federal,Residents.Confirmed,486,0.15561959654178675,2021-09-28
-Alabama,ICE,Residents.Confirmed,78,0.7428571428571429,2021-09-28
-Alabama,Federal,Residents.Deaths,5,0.001601024655779699,2021-09-28
-Alabama,ICE,Residents.Deaths,0,0,2021-09-28
-Alabama,Federal,Residents.Tested,2297,0.7355107268651937,2021-09-28
-Alabama,Federal,Staff.Active,20,,2021-09-28
-Alabama,Federal,Staff.Completed,337,,2021-09-28
-Alabama,Federal,Staff.Deaths,0,,2021-09-28
-Arizona,Federal,Residents.Active,33,0.008037018996590355,2021-09-28
-Arizona,ICE,Residents.Active,65,,2021-09-28
-Arizona,Federal,Residents.Completed,2831,0.6894788114953726,2021-09-28
-Arizona,Federal,Residents.Confirmed,1930,0.47004383828543594,2021-09-28
-Arizona,ICE,Residents.Confirmed,4202,,2021-09-28
-Arizona,Federal,Residents.Deaths,13,0.0031660983925962008,2021-09-28
-Arizona,ICE,Residents.Deaths,0,,2021-09-28
-Arizona,Federal,Residents.Tested,3555,0.865806137359961,2021-09-28
-Arizona,Federal,Staff.Active,40,,2021-09-28
-Arizona,Federal,Staff.Completed,670,,2021-09-28
-Arizona,Federal,Staff.Deaths,0,,2021-09-28
-Arkansas,Federal,Residents.Active,0,0,2021-09-28
-Arkansas,Federal,Residents.Completed,1872,0.5777777777777777,2021-09-28
-Arkansas,Federal,Residents.Confirmed,939,0.2898148148148148,2021-09-28
-Arkansas,Federal,Residents.Deaths,2,6.172839506172839e-4,2021-09-28
-Arkansas,Federal,Residents.Tested,3047,0.9404320987654321,2021-09-28
-Arkansas,Federal,Staff.Active,32,,2021-09-28
-Arkansas,Federal,Staff.Completed,233,,2021-09-28
-Arkansas,Federal,Staff.Deaths,0,,2021-09-28
-California,Federal,Residents.Active,120,0.008774495466510676,2021-09-28
-California,ICE,Residents.Active,12,0.010101010101010102,2021-09-28
-California,Federal,Residents.Completed,9531,0.6969143024276104,2021-09-28
-California,Federal,Residents.Confirmed,3975,0.29065516232816613,2021-09-28
-California,ICE,Residents.Confirmed,1243,1.0462962962962963,2021-09-28
-California,Federal,Residents.Deaths,22,0.0016086575021936238,2021-09-28
-California,ICE,Residents.Deaths,1,8.417508417508417e-4,2021-09-28
-California,Federal,Residents.Tested,11983,0.8762064931266452,2021-09-28
-California,Federal,Staff.Active,58,,2021-09-28
-California,Juvenile,Staff.Active,1,,2021-09-28
-California,Federal,Staff.Completed,1875,,2021-09-28
-California,Juvenile,Staff.Completed,617,,2021-09-28
-California,Juvenile,Staff.Confirmed,163,,2021-09-28
-California,Federal,Staff.Deaths,1,,2021-09-28
-California,Juvenile,Staff.Initiated,659,,2021-09-28
-Colorado,Federal,Residents.Active,3,,2021-09-28
-Colorado,ICE,Residents.Active,9,0.038135593220338986,2021-09-28
-Colorado,Juvenile,Residents.Active,0,0,2021-09-28
-Colorado,Federal,Residents.Completed,2365,,2021-09-28
-Colorado,Federal,Residents.Confirmed,1535,0.4181421955870335,2021-09-28
-Colorado,ICE,Residents.Confirmed,475,2.01271186440678,2021-09-28
-Colorado,Juvenile,Residents.Confirmed,144,0.6575342465753424,2021-09-28
-Colorado,Federal,Residents.Deaths,5,,2021-09-28
-Colorado,ICE,Residents.Deaths,0,0,2021-09-28
-Colorado,Juvenile,Residents.Deaths,0,0,2021-09-28
-Colorado,Juvenile,Residents.Tadmin,2541,11.602739726027398,2021-09-28
-Colorado,Federal,Residents.Tested,3114,0.8482702260964315,2021-09-28
-Colorado,Federal,Staff.Active,12,,2021-09-28
-Colorado,Federal,Staff.Completed,582,,2021-09-28
-Colorado,Federal,Staff.Deaths,0,,2021-09-28
-Connecticut,Federal,Residents.Active,1,9.416195856873823e-4,2021-09-28
-Connecticut,Federal,Residents.Completed,635,0.5979284369114878,2021-09-28
-Connecticut,Federal,Residents.Confirmed,215,0.2024482109227872,2021-09-28
-Connecticut,Juvenile,Residents.Confirmed,50,0.17667844522968199,2021-09-28
-Connecticut,Federal,Residents.Deaths,1,9.416195856873823e-4,2021-09-28
-Connecticut,Federal,Residents.Tested,980,0.9227871939736346,2021-09-28
-Connecticut,Federal,Staff.Active,0,,2021-09-28
-Connecticut,Federal,Staff.Completed,185,,2021-09-28
-Connecticut,Federal,Staff.Deaths,0,,2021-09-28
-District of Columbia,Federal,Residents.Active,0,,2021-09-28
-District of Columbia,Federal,Residents.Completed,0,,2021-09-28
-District of Columbia,Federal,Residents.Deaths,0,,2021-09-28
-District of Columbia,Federal,Staff.Active,10,,2021-09-28
-District of Columbia,Federal,Staff.Completed,574,,2021-09-28
-District of Columbia,Federal,Staff.Deaths,0,,2021-09-28
-Florida,Federal,Residents.Active,46,0.004622650989850267,2021-09-28
-Florida,ICE,Residents.Active,18,0.013605442176870748,2021-09-28
-Florida,Federal,Residents.Completed,7528,0.7565068837302784,2021-09-28
-Florida,Federal,Residents.Confirmed,2509,0.2521354637724852,2021-09-28
-Florida,ICE,Residents.Confirmed,909,0.6870748299319728,2021-09-28
-Florida,Federal,Residents.Deaths,9,9.044317154054868e-4,2021-09-28
-Florida,ICE,Residents.Deaths,1,7.558578987150416e-4,2021-09-28
-Florida,Federal,Residents.Tested,9383,0.9429203095166315,2021-09-28
-Florida,Federal,Staff.Active,26,,2021-09-28
-Florida,Federal,Staff.Completed,1095,,2021-09-28
-Florida,Federal,Staff.Deaths,2,,2021-09-28
-Georgia,Federal,Residents.Active,9,,2021-09-28
-Georgia,ICE,Residents.Active,30,0.021052631578947368,2021-09-28
-Georgia,Federal,Residents.Completed,1701,,2021-09-28
-Georgia,Federal,Residents.Confirmed,622,0.17249029395452026,2021-09-28
-Georgia,ICE,Residents.Confirmed,1519,1.0659649122807018,2021-09-28
-Georgia,Juvenile,Residents.Confirmed,243,,2021-09-28
-Georgia,Federal,Residents.Deaths,5,,2021-09-28
-Georgia,ICE,Residents.Deaths,4,0.002807017543859649,2021-09-28
-Georgia,Federal,Residents.Tested,2153,0.5970604547975596,2021-09-28
-Georgia,Federal,Staff.Active,16,,2021-09-28
-Georgia,Federal,Staff.Completed,393,,2021-09-28
-Georgia,Juvenile,Staff.Confirmed,729,,2021-09-28
-Georgia,Federal,Staff.Deaths,0,,2021-09-28
-Hawaii,Federal,Residents.Active,0,0,2021-09-28
-Hawaii,Federal,Residents.Completed,257,0.558695652173913,2021-09-28
-Hawaii,Federal,Residents.Confirmed,15,0.03260869565217391,2021-09-28
-Hawaii,Federal,Residents.Deaths,0,0,2021-09-28
-Hawaii,Federal,Residents.Tested,286,0.6217391304347826,2021-09-28
-Hawaii,Federal,Staff.Active,1,,2021-09-28
-Hawaii,Federal,Staff.Completed,134,,2021-09-28
-Hawaii,Federal,Staff.Deaths,0,,2021-09-28
+Alabama,Federal,Residents.Active,0,0,2021-10-08
+Alabama,ICE,Residents.Active,2,0.01904761904761905,2021-10-08
+Alabama,Federal,Residents.Completed,2166,0.6935638808837656,2021-10-08
+Alabama,Federal,Residents.Confirmed,475,0.1520973422990714,2021-10-08
+Alabama,ICE,Residents.Confirmed,78,0.7428571428571429,2021-10-08
+Alabama,Federal,Residents.Deaths,5,0.001601024655779699,2021-10-08
+Alabama,ICE,Residents.Deaths,0,0,2021-10-08
+Alabama,Federal,Residents.Tested,2245,0.7188600704450848,2021-10-08
+Alabama,Federal,Staff.Active,20,,2021-10-08
+Alabama,Federal,Staff.Completed,340,,2021-10-08
+Alabama,Federal,Staff.Deaths,0,,2021-10-08
+Arizona,Federal,Residents.Active,35,0.008524111056989771,2021-10-08
+Arizona,ICE,Residents.Active,102,,2021-10-08
+Arizona,Federal,Residents.Completed,3010,0.7330735509011204,2021-10-08
+Arizona,Federal,Residents.Confirmed,1910,0.4651729176814418,2021-10-08
+Arizona,ICE,Residents.Confirmed,4287,,2021-10-08
+Arizona,Federal,Residents.Deaths,13,0.0031660983925962008,2021-10-08
+Arizona,ICE,Residents.Deaths,0,,2021-10-08
+Arizona,Federal,Residents.Tested,3514,0.855820750121773,2021-10-08
+Arizona,Federal,Staff.Active,39,,2021-10-08
+Arizona,Federal,Staff.Completed,675,,2021-10-08
+Arizona,Federal,Staff.Deaths,0,,2021-10-08
+Arkansas,Federal,Residents.Active,2,6.172839506172839e-4,2021-10-08
+Arkansas,Federal,Residents.Completed,1994,0.6154320987654321,2021-10-08
+Arkansas,Federal,Residents.Confirmed,938,0.2895061728395062,2021-10-08
+Arkansas,Federal,Residents.Deaths,2,6.172839506172839e-4,2021-10-08
+Arkansas,Federal,Residents.Tested,3051,0.9416666666666667,2021-10-08
+Arkansas,Federal,Staff.Active,36,,2021-10-08
+Arkansas,Federal,Staff.Completed,233,,2021-10-08
+Arkansas,Federal,Staff.Deaths,0,,2021-10-08
+California,Federal,Residents.Active,24,0.0017548990933021352,2021-10-08
+California,ICE,Residents.Active,32,0.026936026936026935,2021-10-08
+California,Federal,Residents.Completed,10296,0.752851711026616,2021-10-08
+California,Federal,Residents.Confirmed,3951,0.288900263234864,2021-10-08
+California,ICE,Residents.Confirmed,1272,1.0707070707070707,2021-10-08
+California,Federal,Residents.Deaths,22,0.0016086575021936238,2021-10-08
+California,ICE,Residents.Deaths,1,8.417508417508417e-4,2021-10-08
+California,Federal,Residents.Tested,12118,0.8860778005264698,2021-10-08
+California,Federal,Staff.Active,39,,2021-10-08
+California,Juvenile,Staff.Active,3,,2021-10-08
+California,Federal,Staff.Completed,1886,,2021-10-08
+California,Juvenile,Staff.Completed,633,,2021-10-08
+California,Juvenile,Staff.Confirmed,166,,2021-10-08
+California,Federal,Staff.Deaths,1,,2021-10-08
+California,Juvenile,Staff.Deaths,0,,2021-10-08
+California,Juvenile,Staff.Initiated,670,,2021-10-08
+Colorado,Federal,Residents.Active,6,,2021-10-08
+Colorado,ICE,Residents.Active,9,0.038135593220338986,2021-10-08
+Colorado,Juvenile,Residents.Active,0,0,2021-10-08
+Colorado,Federal,Residents.Completed,2464,,2021-10-08
+Colorado,Federal,Residents.Confirmed,1528,0.416235358213021,2021-10-08
+Colorado,ICE,Residents.Confirmed,475,2.01271186440678,2021-10-08
+Colorado,Juvenile,Residents.Confirmed,144,0.6575342465753424,2021-10-08
+Colorado,Federal,Residents.Deaths,5,,2021-10-08
+Colorado,ICE,Residents.Deaths,0,0,2021-10-08
+Colorado,Juvenile,Residents.Deaths,0,0,2021-10-08
+Colorado,Juvenile,Residents.Tadmin,2558,11.680365296803654,2021-10-08
+Colorado,Federal,Residents.Tested,3121,0.850177063470444,2021-10-08
+Colorado,Federal,Staff.Active,15,,2021-10-08
+Colorado,Federal,Staff.Completed,582,,2021-10-08
+Colorado,Federal,Staff.Deaths,0,,2021-10-08
+Connecticut,Federal,Residents.Active,1,9.416195856873823e-4,2021-10-08
+Connecticut,Federal,Residents.Completed,714,0.672316384180791,2021-10-08
+Connecticut,Federal,Residents.Confirmed,217,0.20433145009416195,2021-10-08
+Connecticut,Juvenile,Residents.Confirmed,51,0.18021201413427562,2021-10-08
+Connecticut,Federal,Residents.Deaths,1,9.416195856873823e-4,2021-10-08
+Connecticut,Federal,Residents.Tested,975,0.9180790960451978,2021-10-08
+Connecticut,Federal,Staff.Active,0,,2021-10-08
+Connecticut,Federal,Staff.Completed,185,,2021-10-08
+Connecticut,Federal,Staff.Deaths,0,,2021-10-08
+District of Columbia,Federal,Residents.Active,0,,2021-10-08
+District of Columbia,Federal,Residents.Completed,0,,2021-10-08
+District of Columbia,Federal,Residents.Deaths,0,,2021-10-08
+District of Columbia,Federal,Staff.Active,12,,2021-10-08
+District of Columbia,Federal,Staff.Completed,574,,2021-10-08
+District of Columbia,Federal,Staff.Deaths,0,,2021-10-08
+Florida,Federal,Residents.Active,41,0.004120188925736107,2021-10-08
+Florida,ICE,Residents.Active,23,0.017384731670445956,2021-10-08
+Florida,Federal,Residents.Completed,7796,0.7834388503667973,2021-10-08
+Florida,Federal,Residents.Confirmed,2550,0.25625565269822126,2021-10-08
+Florida,ICE,Residents.Confirmed,929,0.7021919879062736,2021-10-08
+Florida,Federal,Residents.Deaths,9,9.044317154054868e-4,2021-10-08
+Florida,ICE,Residents.Deaths,1,7.558578987150416e-4,2021-10-08
+Florida,Federal,Residents.Tested,9407,0.9453321274243794,2021-10-08
+Florida,Federal,Staff.Active,24,,2021-10-08
+Florida,Federal,Staff.Completed,1132,,2021-10-08
+Florida,Federal,Staff.Deaths,2,,2021-10-08
+Georgia,Federal,Residents.Active,7,,2021-10-08
+Georgia,ICE,Residents.Active,28,0.019649122807017545,2021-10-08
+Georgia,Federal,Residents.Completed,1804,,2021-10-08
+Georgia,Federal,Residents.Confirmed,626,0.1735995562950638,2021-10-08
+Georgia,ICE,Residents.Confirmed,1536,1.0778947368421052,2021-10-08
+Georgia,Juvenile,Residents.Confirmed,243,,2021-10-08
+Georgia,Federal,Residents.Deaths,5,,2021-10-08
+Georgia,ICE,Residents.Deaths,4,0.002807017543859649,2021-10-08
+Georgia,Federal,Residents.Tested,2122,0.5884636716583472,2021-10-08
+Georgia,Federal,Staff.Active,16,,2021-10-08
+Georgia,Federal,Staff.Completed,396,,2021-10-08
+Georgia,Juvenile,Staff.Confirmed,730,,2021-10-08
+Georgia,Federal,Staff.Deaths,0,,2021-10-08
+Hawaii,Federal,Residents.Active,0,0,2021-10-08
+Hawaii,Federal,Residents.Completed,313,0.6804347826086956,2021-10-08
+Hawaii,Federal,Residents.Confirmed,15,0.03260869565217391,2021-10-08
+Hawaii,Federal,Residents.Deaths,0,0,2021-10-08
+Hawaii,Federal,Residents.Tested,288,0.6260869565217392,2021-10-08
+Hawaii,Federal,Staff.Active,1,,2021-10-08
+Hawaii,Federal,Staff.Completed,134,,2021-10-08
+Hawaii,Federal,Staff.Deaths,0,,2021-10-08
 Idaho,ICE,Residents.Active,0,,2021-08-03
 Idaho,ICE,Residents.Confirmed,1,,2021-08-03
 Idaho,ICE,Residents.Deaths,0,,2021-08-03
-Illinois,Federal,Residents.Active,4,6.983240223463687e-4,2021-09-28
-Illinois,ICE,Residents.Active,2,0.007905138339920948,2021-09-28
-Illinois,Federal,Residents.Completed,3906,0.681913407821229,2021-09-28
-Illinois,Federal,Residents.Confirmed,2392,0.4175977653631285,2021-09-28
-Illinois,ICE,Residents.Confirmed,166,0.6561264822134387,2021-09-28
-Illinois,Juvenile,Residents.Confirmed,48,0.12151898734177215,2021-09-28
-Illinois,Federal,Residents.Deaths,2,3.4916201117318437e-4,2021-09-28
-Illinois,ICE,Residents.Deaths,0,0,2021-09-28
-Illinois,Federal,Residents.Tested,5210,0.9095670391061452,2021-09-28
-Illinois,Federal,Staff.Active,5,,2021-09-28
-Illinois,Federal,Staff.Completed,817,,2021-09-28
-Illinois,Juvenile,Staff.Confirmed,187,,2021-09-28
-Illinois,Federal,Staff.Deaths,1,,2021-09-28
-Indiana,Federal,Residents.Active,4,0.0015497869043006587,2021-09-28
-Indiana,ICE,Residents.Active,1,0.016129032258064516,2021-09-28
-Indiana,Juvenile,Residents.Active,0,0,2021-09-28
-Indiana,Federal,Residents.Completed,1747,0.6768694304533127,2021-09-28
-Indiana,Federal,Residents.Confirmed,1031,0.3994575745834948,2021-09-28
-Indiana,ICE,Residents.Confirmed,43,0.6935483870967742,2021-09-28
-Indiana,Juvenile,Residents.Confirmed,97,0.3975409836065574,2021-09-28
-Indiana,Federal,Residents.Deaths,6,0.002324680356450988,2021-09-28
-Indiana,ICE,Residents.Deaths,0,0,2021-09-28
-Indiana,Juvenile,Residents.Deaths,0,0,2021-09-28
-Indiana,Juvenile,Residents.Tadmin,1308,5.360655737704918,2021-09-28
-Indiana,Federal,Residents.Tested,2420,0.9376210771018985,2021-09-28
-Indiana,Federal,Staff.Active,5,,2021-09-28
-Indiana,Juvenile,Staff.Active,2,,2021-09-28
-Indiana,Federal,Staff.Completed,329,,2021-09-28
-Indiana,Juvenile,Staff.Confirmed,146,,2021-09-28
-Indiana,Federal,Staff.Deaths,0,,2021-09-28
-Indiana,Juvenile,Staff.Deaths,0,,2021-09-28
-Indiana,Juvenile,Staff.Tested,520,,2021-09-28
-Iowa,ICE,Residents.Active,1,,2021-09-28
-Iowa,ICE,Residents.Confirmed,29,,2021-09-28
-Iowa,ICE,Residents.Deaths,0,,2021-09-28
-Kansas,Federal,Residents.Active,1,,2021-09-28
-Kansas,ICE,Residents.Active,4,0.07017543859649122,2021-09-28
-Kansas,Juvenile,Residents.Active,0,0,2021-09-28
-Kansas,Federal,Residents.Completed,1225,,2021-09-28
-Kansas,Federal,Residents.Confirmed,719,0.40415964024733,2021-09-28
-Kansas,ICE,Residents.Confirmed,153,2.6842105263157894,2021-09-28
-Kansas,Juvenile,Residents.Confirmed,43,0.25748502994011974,2021-09-28
-Kansas,Federal,Residents.Deaths,3,,2021-09-28
-Kansas,ICE,Residents.Deaths,0,0,2021-09-28
-Kansas,Juvenile,Residents.Deaths,0,0,2021-09-28
-Kansas,Juvenile,Residents.Initiated,101,0.6047904191616766,2021-09-28
-Kansas,Federal,Residents.Tested,1602,0.9005059021922428,2021-09-28
-Kansas,Federal,Staff.Active,1,,2021-09-28
-Kansas,Juvenile,Staff.Active,1,,2021-09-28
-Kansas,Federal,Staff.Completed,216,,2021-09-28
-Kansas,Juvenile,Staff.Confirmed,102,,2021-09-28
-Kansas,Federal,Staff.Deaths,0,,2021-09-28
-Kansas,Juvenile,Staff.Deaths,0,,2021-09-28
-Kansas,Juvenile,Staff.Initiated,199,,2021-09-28
-Kentucky,Federal,Residents.Active,3,4.610419548178884e-4,2021-09-28
-Kentucky,ICE,Residents.Active,0,,2021-09-28
-Kentucky,Federal,Residents.Completed,4868,0.748117412017827,2021-09-28
-Kentucky,Federal,Residents.Confirmed,1931,0.29675733825111417,2021-09-28
-Kentucky,ICE,Residents.Confirmed,12,,2021-09-28
-Kentucky,Federal,Residents.Deaths,17,0.0026125710773013677,2021-09-28
-Kentucky,ICE,Residents.Deaths,0,,2021-09-28
-Kentucky,Federal,Residents.Tested,5405,0.830643921930229,2021-09-28
-Kentucky,Federal,Staff.Active,25,,2021-09-28
-Kentucky,Federal,Staff.Completed,853,,2021-09-28
-Kentucky,Federal,Staff.Deaths,0,,2021-09-28
-Louisiana,Federal,Residents.Active,2,4.27715996578272e-4,2021-09-28
-Louisiana,ICE,Residents.Active,52,0.025365853658536587,2021-09-28
-Louisiana,Federal,Residents.Completed,3440,0.7356715141146278,2021-09-28
-Louisiana,Federal,Residents.Confirmed,1527,0.3265611633875107,2021-09-28
-Louisiana,ICE,Residents.Confirmed,2589,1.2629268292682927,2021-09-28
-Louisiana,Juvenile,Residents.Confirmed,70,,2021-09-28
-Louisiana,Federal,Residents.Deaths,9,0.001924721984602224,2021-09-28
-Louisiana,ICE,Residents.Deaths,1,4.878048780487805e-4,2021-09-28
-Louisiana,Federal,Residents.Tested,4693,1.0036355859709154,2021-09-28
-Louisiana,Federal,Staff.Active,37,,2021-09-28
-Louisiana,Federal,Staff.Completed,506,,2021-09-28
-Louisiana,Juvenile,Staff.Confirmed,122,,2021-09-28
-Louisiana,Federal,Staff.Deaths,1,,2021-09-28
-Maine,ICE,Residents.Active,0,,2021-09-28
-Maine,Juvenile,Residents.Completed,14,,2021-09-28
-Maine,ICE,Residents.Confirmed,1,,2021-09-28
-Maine,Juvenile,Residents.Confirmed,2,,2021-09-28
-Maine,ICE,Residents.Deaths,0,,2021-09-28
-Maine,Juvenile,Residents.Tadmin,502,,2021-09-28
-Maryland,Federal,Residents.Active,14,0.005247376311844078,2021-09-28
-Maryland,ICE,Residents.Active,0,0,2021-09-28
-Maryland,Federal,Residents.Completed,775,0.29047976011994003,2021-09-28
-Maryland,Juvenile,Residents.Completed,0,0,2021-09-28
-Maryland,Federal,Residents.Confirmed,391,0.3120510774142059,2021-09-28
-Maryland,ICE,Residents.Confirmed,4,0.10526315789473684,2021-09-28
-Maryland,Juvenile,Residents.Confirmed,106,0.23348017621145375,2021-09-28
-Maryland,Federal,Residents.Deaths,0,0,2021-09-28
-Maryland,ICE,Residents.Deaths,0,0,2021-09-28
-Maryland,Juvenile,Residents.Deaths,0,0,2021-09-28
-Maryland,Juvenile,Residents.Initiated,6,0.13333333333333333,2021-09-28
-Maryland,Juvenile,Residents.Tadmin,4275,10.452322738386307,2021-09-28
-Maryland,Federal,Residents.Tested,1182,0.9433359936153233,2021-09-28
-Maryland,Federal,Staff.Active,7,,2021-09-28
-Maryland,Federal,Staff.Completed,239,,2021-09-28
-Maryland,Juvenile,Staff.Confirmed,427,,2021-09-28
-Maryland,Federal,Staff.Deaths,0,,2021-09-28
-Maryland,Juvenile,Staff.Deaths,0,,2021-09-28
-Massachusetts,Federal,Residents.Active,0,0,2021-09-28
-Massachusetts,ICE,Residents.Active,1,0.007194244604316547,2021-09-28
-Massachusetts,Federal,Residents.Completed,704,0.6977205153617443,2021-09-28
-Massachusetts,Federal,Residents.Confirmed,367,0.36372646184340934,2021-09-28
-Massachusetts,ICE,Residents.Confirmed,27,0.19424460431654678,2021-09-28
-Massachusetts,Federal,Residents.Deaths,11,0.010901883052527254,2021-09-28
-Massachusetts,ICE,Residents.Deaths,0,0,2021-09-28
-Massachusetts,Federal,Residents.Tested,781,0.7740336967294351,2021-09-28
-Massachusetts,Federal,Staff.Active,7,,2021-09-28
-Massachusetts,Federal,Staff.Completed,354,,2021-09-28
-Massachusetts,Federal,Staff.Deaths,0,,2021-09-28
-Michigan,Federal,Residents.Active,0,0,2021-09-28
-Michigan,ICE,Residents.Active,0,,2021-09-28
-Michigan,Federal,Residents.Completed,787,0.5678210678210678,2021-09-28
-Michigan,Federal,Residents.Confirmed,285,0.20562770562770563,2021-09-28
-Michigan,ICE,Residents.Confirmed,79,,2021-09-28
-Michigan,Federal,Residents.Deaths,5,0.0021777003484320556,2021-09-28
-Michigan,ICE,Residents.Deaths,0,,2021-09-28
-Michigan,Federal,Residents.Tested,1094,0.7893217893217893,2021-09-28
-Michigan,Federal,Staff.Active,1,,2021-09-28
-Michigan,Federal,Staff.Completed,162,,2021-09-28
-Michigan,Federal,Staff.Deaths,0,,2021-09-28
-Minnesota,Federal,Residents.Active,0,0,2021-09-28
-Minnesota,ICE,Residents.Active,0,,2021-09-28
-Minnesota,Federal,Residents.Completed,1882,0.6211221122112212,2021-09-28
-Minnesota,Federal,Residents.Confirmed,1374,0.4534653465346535,2021-09-28
-Minnesota,ICE,Residents.Confirmed,51,,2021-09-28
-Minnesota,Federal,Residents.Deaths,1,3.3003300330033004e-4,2021-09-28
-Minnesota,ICE,Residents.Deaths,0,,2021-09-28
-Minnesota,Federal,Residents.Tested,2456,0.8105610561056106,2021-09-28
-Minnesota,Federal,Staff.Active,5,,2021-09-28
-Minnesota,Federal,Staff.Completed,607,,2021-09-28
-Minnesota,Federal,Staff.Deaths,0,,2021-09-28
-Mississippi,Federal,Residents.Active,5,0.0012422360248447205,2021-09-28
-Mississippi,ICE,Residents.Active,10,,2021-09-28
-Mississippi,Federal,Residents.Completed,2291,0.5691925465838509,2021-09-28
-Mississippi,Federal,Residents.Confirmed,653,0.1622360248447205,2021-09-28
-Mississippi,ICE,Residents.Confirmed,914,,2021-09-28
-Mississippi,Federal,Residents.Deaths,5,0.0012422360248447205,2021-09-28
-Mississippi,ICE,Residents.Deaths,0,,2021-09-28
-Mississippi,Federal,Residents.Tested,3003,0.7460869565217392,2021-09-28
-Mississippi,Federal,Staff.Active,0,,2021-09-28
-Mississippi,Federal,Staff.Completed,369,,2021-09-28
-Mississippi,Federal,Staff.Deaths,0,,2021-09-28
-Missouri,Federal,Residents.Active,4,0.004106776180698152,2021-09-28
-Missouri,ICE,Residents.Active,0,,2021-09-28
-Missouri,Federal,Residents.Completed,732,0.7515400410677618,2021-09-28
-Missouri,Federal,Residents.Confirmed,386,0.39630390143737165,2021-09-28
-Missouri,ICE,Residents.Confirmed,5,,2021-09-28
-Missouri,Juvenile,Residents.Confirmed,199,0.4617169373549884,2021-09-28
-Missouri,Federal,Residents.Deaths,20,0.02053388090349076,2021-09-28
-Missouri,ICE,Residents.Deaths,0,,2021-09-28
-Missouri,Federal,Residents.Tested,801,0.8223819301848049,2021-09-28
-Missouri,Federal,Staff.Active,1,,2021-09-28
-Missouri,Federal,Staff.Completed,406,,2021-09-28
-Missouri,Juvenile,Staff.Confirmed,224,,2021-09-28
-Missouri,Federal,Staff.Deaths,0,,2021-09-28
-Montana,Juvenile,Residents.Confirmed,25,0.2777777777777778,2021-09-28
-Montana,Juvenile,Staff.Confirmed,27,,2021-09-28
-Nebraska,ICE,Residents.Active,0,,2021-09-28
-Nebraska,Juvenile,Residents.Active,0,0,2021-09-28
-Nebraska,ICE,Residents.Confirmed,5,,2021-09-28
-Nebraska,ICE,Residents.Deaths,0,,2021-09-28
-Nevada,ICE,Residents.Active,1,0.003484320557491289,2021-09-28
-Nevada,ICE,Residents.Confirmed,150,0.5226480836236934,2021-09-28
-Nevada,ICE,Residents.Deaths,0,0,2021-09-28
-New Hampshire,Federal,Residents.Active,0,0,2021-09-28
-New Hampshire,ICE,Residents.Active,0,0,2021-09-28
-New Hampshire,Federal,Residents.Completed,570,0.776566757493188,2021-09-28
-New Hampshire,Federal,Residents.Confirmed,225,0.3065395095367847,2021-09-28
-New Hampshire,ICE,Residents.Confirmed,20,0.23255813953488372,2021-09-28
-New Hampshire,Federal,Residents.Deaths,0,0,2021-09-28
-New Hampshire,ICE,Residents.Deaths,0,0,2021-09-28
-New Hampshire,Federal,Residents.Tested,755,1.0286103542234333,2021-09-28
-New Hampshire,Federal,Staff.Active,2,,2021-09-28
-New Hampshire,Federal,Staff.Completed,125,,2021-09-28
-New Hampshire,Federal,Staff.Deaths,0,,2021-09-28
-New Jersey,Federal,Residents.Active,0,0,2021-09-28
-New Jersey,ICE,Residents.Active,1,0.0016181229773462784,2021-09-28
-New Jersey,Federal,Residents.Completed,2800,0.6591337099811676,2021-09-28
-New Jersey,Federal,Residents.Confirmed,2023,0.4762241054613936,2021-09-28
-New Jersey,ICE,Residents.Confirmed,181,0.2928802588996764,2021-09-28
-New Jersey,Federal,Residents.Deaths,3,7.062146892655367e-4,2021-09-28
-New Jersey,ICE,Residents.Deaths,0,0,2021-09-28
-New Jersey,Federal,Residents.Tested,3857,0.9079566854990584,2021-09-28
-New Jersey,Federal,Staff.Active,5,,2021-09-28
-New Jersey,Federal,Staff.Completed,418,,2021-09-28
-New Jersey,Federal,Staff.Deaths,0,,2021-09-28
-New Mexico,ICE,Residents.Active,21,,2021-09-28
-New Mexico,ICE,Residents.Confirmed,923,,2021-09-28
-New Mexico,Juvenile,Residents.Confirmed,25,,2021-09-28
-New Mexico,ICE,Residents.Deaths,0,,2021-09-28
-New Mexico,Juvenile,Staff.Confirmed,87,,2021-09-28
-New York,Federal,Residents.Active,1,2.6343519494204424e-4,2021-09-28
-New York,ICE,Residents.Active,5,0.015151515151515152,2021-09-28
-New York,Federal,Residents.Completed,1953,0.5144889357218124,2021-09-28
-New York,Federal,Residents.Confirmed,556,0.1464699683877766,2021-09-28
-New York,ICE,Residents.Confirmed,144,0.43636363636363634,2021-09-28
-New York,Federal,Residents.Deaths,1,2.6343519494204424e-4,2021-09-28
-New York,ICE,Residents.Deaths,0,0,2021-09-28
-New York,Federal,Residents.Tested,3087,0.8132244467860906,2021-09-28
-New York,Federal,Staff.Active,22,,2021-09-28
-New York,Federal,Staff.Completed,536,,2021-09-28
-New York,Federal,Staff.Deaths,0,,2021-09-28
-North Carolina,Federal,Residents.Active,7,0.001489995742869306,2021-09-28
-North Carolina,Federal,Residents.Completed,2793,0.5945083014048531,2021-09-28
-North Carolina,Federal,Residents.Confirmed,1094,0.23286504895700297,2021-09-28
-North Carolina,Juvenile,Residents.Confirmed,67,,2021-09-28
-North Carolina,Federal,Residents.Deaths,32,0.006811409110259685,2021-09-28
-North Carolina,Juvenile,Residents.Tadmin,2519,,2021-09-28
-North Carolina,Federal,Residents.Tested,2994,0.6372924648786717,2021-09-28
-North Carolina,Federal,Staff.Active,8,,2021-09-28
-North Carolina,Federal,Staff.Completed,916,,2021-09-28
-North Carolina,Federal,Staff.Deaths,1,,2021-09-28
-North Dakota,Juvenile,Residents.Active,0,,2021-09-28
+Illinois,Federal,Residents.Active,1,1.7458100558659218e-4,2021-10-08
+Illinois,ICE,Residents.Active,2,0.007905138339920948,2021-10-08
+Illinois,Federal,Residents.Completed,4105,0.7166550279329609,2021-10-08
+Illinois,Federal,Residents.Confirmed,2374,0.41445530726256985,2021-10-08
+Illinois,ICE,Residents.Confirmed,166,0.6561264822134387,2021-10-08
+Illinois,Juvenile,Residents.Confirmed,48,0.12151898734177215,2021-10-08
+Illinois,Federal,Residents.Deaths,2,3.4916201117318437e-4,2021-10-08
+Illinois,ICE,Residents.Deaths,0,0,2021-10-08
+Illinois,Federal,Residents.Tested,5224,0.9120111731843575,2021-10-08
+Illinois,Federal,Staff.Active,7,,2021-10-08
+Illinois,Federal,Staff.Completed,818,,2021-10-08
+Illinois,Juvenile,Staff.Confirmed,191,,2021-10-08
+Illinois,Federal,Staff.Deaths,1,,2021-10-08
+Indiana,Federal,Residents.Active,3,0.001162340178225494,2021-10-08
+Indiana,ICE,Residents.Active,1,0.016129032258064516,2021-10-08
+Indiana,Juvenile,Residents.Active,0,0,2021-10-08
+Indiana,Federal,Residents.Completed,1871,0.7249128244866331,2021-10-08
+Indiana,Federal,Residents.Confirmed,1025,0.3971328942270438,2021-10-08
+Indiana,ICE,Residents.Confirmed,43,0.6935483870967742,2021-10-08
+Indiana,Juvenile,Residents.Confirmed,97,0.3975409836065574,2021-10-08
+Indiana,Federal,Residents.Deaths,6,0.002324680356450988,2021-10-08
+Indiana,ICE,Residents.Deaths,0,0,2021-10-08
+Indiana,Juvenile,Residents.Deaths,0,0,2021-10-08
+Indiana,Juvenile,Residents.Tadmin,1330,5.450819672131147,2021-10-08
+Indiana,Federal,Residents.Tested,2391,0.9263851220457188,2021-10-08
+Indiana,Federal,Staff.Active,7,,2021-10-08
+Indiana,Juvenile,Staff.Active,2,,2021-10-08
+Indiana,Federal,Staff.Completed,333,,2021-10-08
+Indiana,Juvenile,Staff.Confirmed,148,,2021-10-08
+Indiana,Federal,Staff.Deaths,0,,2021-10-08
+Indiana,Juvenile,Staff.Deaths,0,,2021-10-08
+Indiana,Juvenile,Staff.Tested,527,,2021-10-08
+Iowa,ICE,Residents.Active,1,,2021-10-08
+Iowa,ICE,Residents.Confirmed,29,,2021-10-08
+Iowa,ICE,Residents.Deaths,0,,2021-10-08
+Kansas,Federal,Residents.Active,1,,2021-10-08
+Kansas,ICE,Residents.Active,4,0.07017543859649122,2021-10-08
+Kansas,Juvenile,Residents.Active,0,0,2021-10-08
+Kansas,Federal,Residents.Completed,1328,,2021-10-08
+Kansas,Federal,Residents.Confirmed,708,0.3979763912310287,2021-10-08
+Kansas,ICE,Residents.Confirmed,153,2.6842105263157894,2021-10-08
+Kansas,Juvenile,Residents.Confirmed,43,0.25748502994011974,2021-10-08
+Kansas,Federal,Residents.Deaths,3,,2021-10-08
+Kansas,ICE,Residents.Deaths,0,0,2021-10-08
+Kansas,Juvenile,Residents.Deaths,0,0,2021-10-08
+Kansas,Juvenile,Residents.Initiated,112,0.6706586826347305,2021-10-08
+Kansas,Federal,Residents.Tested,1581,0.8887015177065767,2021-10-08
+Kansas,Federal,Staff.Active,2,,2021-10-08
+Kansas,Juvenile,Staff.Active,1,,2021-10-08
+Kansas,Federal,Staff.Completed,216,,2021-10-08
+Kansas,Juvenile,Staff.Confirmed,103,,2021-10-08
+Kansas,Federal,Staff.Deaths,0,,2021-10-08
+Kansas,Juvenile,Staff.Deaths,0,,2021-10-08
+Kansas,Juvenile,Staff.Initiated,200,,2021-10-08
+Kentucky,Federal,Residents.Active,2,3.073613032119256e-4,2021-10-08
+Kentucky,ICE,Residents.Active,0,,2021-10-08
+Kentucky,Federal,Residents.Completed,5061,0.7777777777777778,2021-10-08
+Kentucky,Federal,Residents.Confirmed,1913,0.29399108652220685,2021-10-08
+Kentucky,ICE,Residents.Confirmed,12,,2021-10-08
+Kentucky,Federal,Residents.Deaths,17,0.0026125710773013677,2021-10-08
+Kentucky,ICE,Residents.Deaths,0,,2021-10-08
+Kentucky,Federal,Residents.Tested,5465,0.8398647610265868,2021-10-08
+Kentucky,Federal,Staff.Active,22,,2021-10-08
+Kentucky,Federal,Staff.Completed,865,,2021-10-08
+Kentucky,Federal,Staff.Deaths,0,,2021-10-08
+Louisiana,Federal,Residents.Active,5,0.00106928999144568,2021-10-08
+Louisiana,ICE,Residents.Active,15,0.007317073170731708,2021-10-08
+Louisiana,Federal,Residents.Completed,3631,0.7765183917878529,2021-10-08
+Louisiana,Federal,Residents.Confirmed,1527,0.3265611633875107,2021-10-08
+Louisiana,ICE,Residents.Confirmed,2617,1.2765853658536586,2021-10-08
+Louisiana,Juvenile,Residents.Confirmed,77,,2021-10-08
+Louisiana,Federal,Residents.Deaths,9,0.001924721984602224,2021-10-08
+Louisiana,ICE,Residents.Deaths,1,4.878048780487805e-4,2021-10-08
+Louisiana,Federal,Residents.Tested,4703,1.0057741659538066,2021-10-08
+Louisiana,Federal,Staff.Active,37,,2021-10-08
+Louisiana,Federal,Staff.Completed,516,,2021-10-08
+Louisiana,Juvenile,Staff.Confirmed,125,,2021-10-08
+Louisiana,Federal,Staff.Deaths,1,,2021-10-08
+Maine,ICE,Residents.Active,0,,2021-10-08
+Maine,Juvenile,Residents.Completed,22,,2021-10-08
+Maine,ICE,Residents.Confirmed,1,,2021-10-08
+Maine,Juvenile,Residents.Confirmed,2,,2021-10-08
+Maine,ICE,Residents.Deaths,0,,2021-10-08
+Maine,Juvenile,Residents.Tadmin,502,,2021-10-08
+Maryland,Federal,Residents.Active,5,0.0018740629685157421,2021-10-08
+Maryland,ICE,Residents.Active,0,0,2021-10-08
+Maryland,Federal,Residents.Completed,821,0.30772113943028484,2021-10-08
+Maryland,Juvenile,Residents.Completed,0,0,2021-10-08
+Maryland,Federal,Residents.Confirmed,394,0.31444533120510776,2021-10-08
+Maryland,ICE,Residents.Confirmed,4,0.10526315789473684,2021-10-08
+Maryland,Juvenile,Residents.Confirmed,108,0.23788546255506607,2021-10-08
+Maryland,Federal,Residents.Deaths,0,0,2021-10-08
+Maryland,ICE,Residents.Deaths,0,0,2021-10-08
+Maryland,Juvenile,Residents.Deaths,0,0,2021-10-08
+Maryland,Juvenile,Residents.Initiated,6,0.13333333333333333,2021-10-08
+Maryland,Juvenile,Residents.Tadmin,4373,10.691931540342297,2021-10-08
+Maryland,Federal,Residents.Tested,1188,0.9481245011971269,2021-10-08
+Maryland,Federal,Staff.Active,7,,2021-10-08
+Maryland,Federal,Staff.Completed,240,,2021-10-08
+Maryland,Juvenile,Staff.Confirmed,428,,2021-10-08
+Maryland,Federal,Staff.Deaths,0,,2021-10-08
+Maryland,Juvenile,Staff.Deaths,0,,2021-10-08
+Massachusetts,Federal,Residents.Active,0,0,2021-10-08
+Massachusetts,ICE,Residents.Active,1,0.007194244604316547,2021-10-08
+Massachusetts,Federal,Residents.Completed,788,0.7809712586719524,2021-10-08
+Massachusetts,Federal,Residents.Confirmed,367,0.36372646184340934,2021-10-08
+Massachusetts,ICE,Residents.Confirmed,27,0.19424460431654678,2021-10-08
+Massachusetts,Federal,Residents.Deaths,13,0.01288404360753221,2021-10-08
+Massachusetts,ICE,Residents.Deaths,0,0,2021-10-08
+Massachusetts,Federal,Residents.Tested,796,0.7888999008919723,2021-10-08
+Massachusetts,Federal,Staff.Active,7,,2021-10-08
+Massachusetts,Federal,Staff.Completed,357,,2021-10-08
+Massachusetts,Federal,Staff.Deaths,0,,2021-10-08
+Michigan,Federal,Residents.Active,1,4.3554006968641115e-4,2021-10-08
+Michigan,ICE,Residents.Active,0,,2021-10-08
+Michigan,Federal,Residents.Completed,870,0.6277056277056277,2021-10-08
+Michigan,Federal,Residents.Confirmed,289,0.2085137085137085,2021-10-08
+Michigan,ICE,Residents.Confirmed,79,,2021-10-08
+Michigan,Federal,Residents.Deaths,5,0.0021777003484320556,2021-10-08
+Michigan,ICE,Residents.Deaths,0,,2021-10-08
+Michigan,Federal,Residents.Tested,1129,0.8145743145743146,2021-10-08
+Michigan,Federal,Staff.Active,1,,2021-10-08
+Michigan,Federal,Staff.Completed,164,,2021-10-08
+Michigan,Federal,Staff.Deaths,0,,2021-10-08
+Minnesota,Federal,Residents.Active,0,0,2021-10-08
+Minnesota,ICE,Residents.Active,0,,2021-10-08
+Minnesota,Federal,Residents.Completed,2130,0.7029702970297029,2021-10-08
+Minnesota,Federal,Residents.Confirmed,1358,0.44818481848184816,2021-10-08
+Minnesota,ICE,Residents.Confirmed,51,,2021-10-08
+Minnesota,Federal,Residents.Deaths,1,3.3003300330033004e-4,2021-10-08
+Minnesota,ICE,Residents.Deaths,0,,2021-10-08
+Minnesota,Federal,Residents.Tested,2500,0.8250825082508251,2021-10-08
+Minnesota,Federal,Staff.Active,9,,2021-10-08
+Minnesota,Federal,Staff.Completed,611,,2021-10-08
+Minnesota,Federal,Staff.Deaths,0,,2021-10-08
+Mississippi,Federal,Residents.Active,8,0.001987577639751553,2021-10-08
+Mississippi,ICE,Residents.Active,8,,2021-10-08
+Mississippi,Federal,Residents.Completed,2495,0.6198757763975156,2021-10-08
+Mississippi,Federal,Residents.Confirmed,653,0.1622360248447205,2021-10-08
+Mississippi,ICE,Residents.Confirmed,918,,2021-10-08
+Mississippi,Federal,Residents.Deaths,5,0.0012422360248447205,2021-10-08
+Mississippi,ICE,Residents.Deaths,0,,2021-10-08
+Mississippi,Federal,Residents.Tested,2987,0.7421118012422361,2021-10-08
+Mississippi,Federal,Staff.Active,0,,2021-10-08
+Mississippi,Federal,Staff.Completed,370,,2021-10-08
+Mississippi,Federal,Staff.Deaths,0,,2021-10-08
+Missouri,Federal,Residents.Active,0,0,2021-10-08
+Missouri,ICE,Residents.Active,0,,2021-10-08
+Missouri,Federal,Residents.Completed,806,0.8275154004106776,2021-10-08
+Missouri,Federal,Residents.Confirmed,384,0.3942505133470226,2021-10-08
+Missouri,ICE,Residents.Confirmed,5,,2021-10-08
+Missouri,Juvenile,Residents.Confirmed,199,0.4617169373549884,2021-10-08
+Missouri,Federal,Residents.Deaths,20,0.02053388090349076,2021-10-08
+Missouri,ICE,Residents.Deaths,0,,2021-10-08
+Missouri,Federal,Residents.Tested,802,0.8234086242299795,2021-10-08
+Missouri,Federal,Staff.Active,0,,2021-10-08
+Missouri,Federal,Staff.Completed,413,,2021-10-08
+Missouri,Juvenile,Staff.Confirmed,228,,2021-10-08
+Missouri,Federal,Staff.Deaths,0,,2021-10-08
+Montana,Juvenile,Residents.Confirmed,25,0.2777777777777778,2021-10-08
+Montana,Juvenile,Staff.Confirmed,27,,2021-10-08
+Nebraska,ICE,Residents.Active,0,,2021-10-08
+Nebraska,Juvenile,Residents.Active,0,0,2021-10-08
+Nebraska,ICE,Residents.Confirmed,5,,2021-10-08
+Nebraska,ICE,Residents.Deaths,0,,2021-10-08
+Nevada,ICE,Residents.Active,1,0.003484320557491289,2021-10-08
+Nevada,ICE,Residents.Confirmed,150,0.5226480836236934,2021-10-08
+Nevada,ICE,Residents.Deaths,0,0,2021-10-08
+New Hampshire,Federal,Residents.Active,0,0,2021-10-08
+New Hampshire,ICE,Residents.Active,0,0,2021-10-08
+New Hampshire,Federal,Residents.Completed,577,0.7861035422343324,2021-10-08
+New Hampshire,Federal,Residents.Confirmed,249,0.33923705722070846,2021-10-08
+New Hampshire,ICE,Residents.Confirmed,20,0.23255813953488372,2021-10-08
+New Hampshire,Federal,Residents.Deaths,0,0,2021-10-08
+New Hampshire,ICE,Residents.Deaths,0,0,2021-10-08
+New Hampshire,Federal,Residents.Tested,811,1.1049046321525886,2021-10-08
+New Hampshire,Federal,Staff.Active,4,,2021-10-08
+New Hampshire,Federal,Staff.Completed,125,,2021-10-08
+New Hampshire,Federal,Staff.Deaths,0,,2021-10-08
+New Jersey,Federal,Residents.Active,0,0,2021-10-08
+New Jersey,ICE,Residents.Active,2,0.003236245954692557,2021-10-08
+New Jersey,Federal,Residents.Completed,2884,0.6789077212806026,2021-10-08
+New Jersey,Federal,Residents.Confirmed,2018,0.4750470809792844,2021-10-08
+New Jersey,ICE,Residents.Confirmed,183,0.2961165048543689,2021-10-08
+New Jersey,Federal,Residents.Deaths,3,7.062146892655367e-4,2021-10-08
+New Jersey,ICE,Residents.Deaths,0,0,2021-10-08
+New Jersey,Federal,Residents.Tested,3898,0.917608286252354,2021-10-08
+New Jersey,Federal,Staff.Active,7,,2021-10-08
+New Jersey,Federal,Staff.Completed,418,,2021-10-08
+New Jersey,Federal,Staff.Deaths,0,,2021-10-08
+New Mexico,ICE,Residents.Active,26,,2021-10-08
+New Mexico,ICE,Residents.Confirmed,950,,2021-10-08
+New Mexico,Juvenile,Residents.Confirmed,25,,2021-10-08
+New Mexico,ICE,Residents.Deaths,0,,2021-10-08
+New Mexico,Juvenile,Staff.Confirmed,87,,2021-10-08
+New York,Federal,Residents.Active,0,0,2021-10-08
+New York,ICE,Residents.Active,6,0.01818181818181818,2021-10-08
+New York,Federal,Residents.Completed,2066,0.5442571127502634,2021-10-08
+New York,Federal,Residents.Confirmed,541,0.14251844046364595,2021-10-08
+New York,ICE,Residents.Confirmed,146,0.44242424242424244,2021-10-08
+New York,Federal,Residents.Deaths,1,2.6343519494204424e-4,2021-10-08
+New York,ICE,Residents.Deaths,0,0,2021-10-08
+New York,Federal,Residents.Tested,3070,0.8087460484720759,2021-10-08
+New York,Federal,Staff.Active,23,,2021-10-08
+New York,Federal,Staff.Completed,558,,2021-10-08
+New York,Federal,Staff.Deaths,0,,2021-10-08
+North Carolina,Federal,Residents.Active,6,0.001277139208173691,2021-10-08
+North Carolina,Federal,Residents.Completed,2900,0.6172839506172839,2021-10-08
+North Carolina,Federal,Residents.Confirmed,1046,0.22264793529161345,2021-10-08
+North Carolina,Juvenile,Residents.Confirmed,74,,2021-10-08
+North Carolina,Federal,Residents.Deaths,32,0.006811409110259685,2021-10-08
+North Carolina,Juvenile,Residents.Tadmin,2584,,2021-10-08
+North Carolina,Federal,Residents.Tested,2984,0.6351638995317156,2021-10-08
+North Carolina,Federal,Staff.Active,13,,2021-10-08
+North Carolina,Federal,Staff.Completed,920,,2021-10-08
+North Carolina,Federal,Staff.Deaths,1,,2021-10-08
+North Dakota,Juvenile,Residents.Active,0,,2021-10-08
 North Dakota,Juvenile,Residents.Completed,0,,2021-09-28
-North Dakota,Juvenile,Residents.Confirmed,7,,2021-09-28
-North Dakota,Juvenile,Residents.Deaths,0,,2021-09-28
+North Dakota,Juvenile,Residents.Confirmed,7,,2021-10-08
+North Dakota,Juvenile,Residents.Deaths,0,,2021-10-08
 North Dakota,Juvenile,Residents.Initiated,0,,2021-09-28
-North Dakota,Juvenile,Residents.Tadmin,1306,,2021-09-28
-North Dakota,Juvenile,Staff.Active,1,,2021-09-28
-North Dakota,Juvenile,Staff.Confirmed,58,,2021-09-28
-North Dakota,Juvenile,Staff.Deaths,0,,2021-09-28
-North Dakota,Juvenile,Staff.Tested,201,,2021-09-28
-Not Available,Federal,Residents.Active,25,0.003117206982543641,2021-09-28
-Not Available,Federal,Residents.Confirmed,418,0.052119700748129674,2021-09-28
-Not Available,Federal,Residents.Deaths,17,0.002119700748129676,2021-09-28
-Not Available,ICE,Residents.Tadmin,356699,,2021-09-28
-Not Available,Federal,Residents.Tested,439,0.05473815461346634,2021-09-28
-Not Available,Federal,Staff.Active,0,,2021-09-28
-Not Available,Federal,Staff.Deaths,0,,2021-09-28
-Ohio,Federal,Residents.Active,0,0,2021-09-28
-Ohio,ICE,Residents.Active,0,0,2021-09-28
-Ohio,Federal,Residents.Completed,1179,0.48083197389885807,2021-09-28
-Ohio,Federal,Residents.Confirmed,538,0.21941272430668843,2021-09-28
-Ohio,ICE,Residents.Confirmed,78,0.49056603773584906,2021-09-28
-Ohio,Federal,Residents.Deaths,9,0.00367047308319739,2021-09-28
-Ohio,ICE,Residents.Deaths,0,0,2021-09-28
-Ohio,Federal,Residents.Tested,1447,0.5901305057096248,2021-09-28
-Ohio,Federal,Staff.Active,1,,2021-09-28
-Ohio,Federal,Staff.Completed,213,,2021-09-28
-Ohio,Federal,Staff.Deaths,0,,2021-09-28
-Oklahoma,Federal,Residents.Active,2,7.482229704451926e-4,2021-09-28
-Oklahoma,ICE,Residents.Active,0,0,2021-09-28
-Oklahoma,Federal,Residents.Completed,1259,0.4710063598952488,2021-09-28
-Oklahoma,Federal,Residents.Confirmed,899,0.3363262252151141,2021-09-28
-Oklahoma,ICE,Residents.Confirmed,114,0.9047619047619048,2021-09-28
-Oklahoma,Federal,Residents.Deaths,3,0.001122334455667789,2021-09-28
-Oklahoma,ICE,Residents.Deaths,0,0,2021-09-28
-Oklahoma,Federal,Residents.Tested,2206,0.8252899364010475,2021-09-28
-Oklahoma,Federal,Staff.Active,12,,2021-09-28
-Oklahoma,Federal,Staff.Completed,313,,2021-09-28
-Oklahoma,Federal,Staff.Deaths,0,,2021-09-28
-Oregon,Federal,Residents.Active,90,0.05073280721533258,2021-09-28
-Oregon,Federal,Residents.Completed,1127,0.6352874859075536,2021-09-28
-Oregon,Federal,Residents.Confirmed,329,0.185456595264938,2021-09-28
-Oregon,Federal,Residents.Deaths,2,0.0011273957158962795,2021-09-28
-Oregon,Federal,Residents.Tested,1535,0.8652762119503946,2021-09-28
-Oregon,Federal,Staff.Active,3,,2021-09-28
-Oregon,Federal,Staff.Completed,197,,2021-09-28
-Oregon,Federal,Staff.Deaths,0,,2021-09-28
-Pennsylvania,Federal,Residents.Active,2,2.1994941163532388e-4,2021-09-28
-Pennsylvania,ICE,Residents.Active,0,0,2021-09-28
-Pennsylvania,Juvenile,Residents.Active,0,0,2021-09-28
-Pennsylvania,Federal,Residents.Completed,6305,0.6933905201803585,2021-09-28
-Pennsylvania,Federal,Residents.Confirmed,3096,0.34048168921148136,2021-09-28
-Pennsylvania,ICE,Residents.Confirmed,483,1.0125786163522013,2021-09-28
-Pennsylvania,Juvenile,Residents.Confirmed,84,0.23140495867768596,2021-09-28
-Pennsylvania,Federal,Residents.Deaths,1,1.0997470581766194e-4,2021-09-28
-Pennsylvania,ICE,Residents.Deaths,0,0,2021-09-28
-Pennsylvania,Juvenile,Residents.Deaths,0,0,2021-09-28
-Pennsylvania,Federal,Residents.Tested,8135,0.8946442318266798,2021-09-28
-Pennsylvania,Federal,Staff.Active,7,,2021-09-28
-Pennsylvania,Federal,Staff.Completed,1318,,2021-09-28
-Pennsylvania,Juvenile,Staff.Confirmed,147,,2021-09-28
-Pennsylvania,Federal,Staff.Deaths,0,,2021-09-28
-Puerto Rico,Federal,Residents.Active,3,0.002527379949452401,2021-09-28
-Puerto Rico,ICE,Residents.Active,0,0,2021-09-28
-Puerto Rico,Federal,Residents.Completed,1307,1.101095197978096,2021-09-28
-Puerto Rico,Federal,Residents.Confirmed,58,0.04886267902274642,2021-09-28
-Puerto Rico,ICE,Residents.Confirmed,5,1.6666666666666667,2021-09-28
-Puerto Rico,Federal,Residents.Deaths,0,0,2021-09-28
-Puerto Rico,ICE,Residents.Deaths,0,0,2021-09-28
-Puerto Rico,Federal,Residents.Tested,1115,0.9393428812131424,2021-09-28
-Puerto Rico,Federal,Staff.Active,0,,2021-09-28
-Puerto Rico,Federal,Staff.Completed,193,,2021-09-28
-Puerto Rico,Federal,Staff.Deaths,0,,2021-09-28
-Rhode Island,ICE,Residents.Active,0,0,2021-09-28
-Rhode Island,ICE,Residents.Confirmed,60,2.4,2021-09-28
-Rhode Island,ICE,Residents.Deaths,0,0,2021-09-28
-South Carolina,Federal,Residents.Active,18,0.0032461677186654643,2021-09-28
-South Carolina,ICE,Residents.Active,0,,2021-09-28
-South Carolina,Federal,Residents.Completed,3337,0.6018034265103697,2021-09-28
-South Carolina,Federal,Residents.Confirmed,801,0.14445446348061317,2021-09-28
-South Carolina,ICE,Residents.Confirmed,4,,2021-09-28
-South Carolina,Juvenile,Residents.Confirmed,189,,2021-06-28
-South Carolina,Federal,Residents.Deaths,7,0.0012623985572587917,2021-09-28
-South Carolina,ICE,Residents.Deaths,0,,2021-09-28
-South Carolina,Federal,Residents.Tested,4009,0.7229936880072138,2021-09-28
-South Carolina,Federal,Staff.Active,19,,2021-09-28
-South Carolina,Federal,Staff.Completed,607,,2021-09-28
-South Carolina,Juvenile,Staff.Confirmed,293,,2021-06-28
-South Carolina,Federal,Staff.Deaths,0,,2021-09-28
-South Dakota,Federal,Residents.Active,0,0,2021-09-28
-South Dakota,Federal,Residents.Completed,279,0.5636363636363636,2021-09-28
-South Dakota,Federal,Residents.Confirmed,120,0.24242424242424243,2021-09-28
-South Dakota,Federal,Residents.Deaths,0,0,2021-09-28
-South Dakota,Federal,Residents.Tested,296,0.597979797979798,2021-09-28
-South Dakota,Federal,Staff.Active,0,,2021-09-28
-South Dakota,Federal,Staff.Completed,82,,2021-09-28
-South Dakota,Federal,Staff.Deaths,0,,2021-09-28
-Tennessee,Federal,Residents.Active,0,0,2021-09-28
-Tennessee,Federal,Residents.Completed,713,0.55703125,2021-09-28
-Tennessee,Federal,Residents.Confirmed,321,0.25078125,2021-09-28
-Tennessee,Federal,Residents.Deaths,2,0.0015625,2021-09-28
-Tennessee,Federal,Residents.Tested,1079,0.84296875,2021-09-28
-Tennessee,Federal,Staff.Active,1,,2021-09-28
-Tennessee,Federal,Staff.Completed,145,,2021-09-28
-Tennessee,Federal,Staff.Deaths,0,,2021-09-28
-Texas,Federal,Residents.Active,103,0.004328822392199714,2021-09-28
-Texas,ICE,Residents.Active,329,,2021-09-28
-Texas,Federal,Residents.Completed,12538,0.7121435874133818,2021-09-28
-Texas,Federal,Residents.Confirmed,6160,0.3498807224809724,2021-09-28
-Texas,ICE,Residents.Confirmed,12717,,2021-09-28
-Texas,Federal,Residents.Deaths,45,0.001891233083970749,2021-09-28
-Texas,ICE,Residents.Deaths,1,,2021-09-28
-Texas,Federal,Residents.Tested,14501,0.8236396682948994,2021-09-28
-Texas,Federal,Staff.Active,119,,2021-09-28
-Texas,Federal,Staff.Completed,2349,,2021-09-28
-Texas,Federal,Staff.Deaths,0,,2021-09-28
-Utah,ICE,Residents.Active,0,,2021-09-28
-Utah,ICE,Residents.Confirmed,21,,2021-09-28
-Utah,ICE,Residents.Deaths,0,,2021-09-28
-Virginia,Federal,Residents.Active,1,2.3963575365444525e-4,2021-09-28
-Virginia,ICE,Residents.Active,1,0.003389830508474576,2021-09-28
-Virginia,Federal,Residents.Completed,2954,0.7078840162952312,2021-09-28
-Virginia,Federal,Residents.Confirmed,953,0.22837287323268632,2021-09-28
-Virginia,ICE,Residents.Confirmed,430,1.4576271186440677,2021-09-28
-Virginia,Federal,Residents.Deaths,1,2.3963575365444525e-4,2021-09-28
-Virginia,ICE,Residents.Deaths,1,0.003389830508474576,2021-09-28
-Virginia,Federal,Residents.Tested,2853,0.6836808051761323,2021-09-28
-Virginia,Federal,Staff.Active,3,,2021-09-28
-Virginia,Federal,Staff.Completed,570,,2021-09-28
-Virginia,Federal,Staff.Deaths,0,,2021-09-28
-Washington,Federal,Residents.Active,2,0.002844950213371266,2021-09-28
-Washington,ICE,Residents.Active,0,0,2021-09-28
-Washington,Federal,Residents.Completed,524,0.7453769559032717,2021-09-28
-Washington,Federal,Residents.Confirmed,141,0.20056899004267426,2021-09-28
-Washington,ICE,Residents.Confirmed,304,0.8636363636363636,2021-09-28
-Washington,Federal,Residents.Deaths,0,0,2021-09-28
-Washington,ICE,Residents.Deaths,0,0,2021-09-28
-Washington,Federal,Residents.Tested,705,1.0028449502133712,2021-09-28
-Washington,Federal,Staff.Active,1,,2021-09-28
-Washington,Federal,Staff.Completed,103,,2021-09-28
-Washington,Federal,Staff.Deaths,0,,2021-09-28
-West Virginia,Federal,Residents.Active,33,0.0036768802228412255,2021-09-28
-West Virginia,ICE,Residents.Active,0,0,2021-09-28
-West Virginia,Juvenile,Residents.Active,2,0.009174311926605505,2021-09-28
-West Virginia,Federal,Residents.Completed,6032,0.6720891364902507,2021-09-28
+North Dakota,Juvenile,Residents.Tadmin,1343,,2021-10-08
+North Dakota,Juvenile,Staff.Active,1,,2021-10-08
+North Dakota,Juvenile,Staff.Confirmed,60,,2021-10-08
+North Dakota,Juvenile,Staff.Deaths,0,,2021-10-08
+North Dakota,Juvenile,Staff.Tested,212,,2021-10-08
+Not Available,Federal,Residents.Active,20,0.0024937655860349127,2021-10-08
+Not Available,Federal,Residents.Confirmed,418,0.052119700748129674,2021-10-08
+Not Available,Federal,Residents.Deaths,18,0.0022443890274314216,2021-10-08
+Not Available,ICE,Residents.Tadmin,366513,,2021-10-08
+Not Available,Federal,Residents.Tested,439,0.05473815461346634,2021-10-08
+Not Available,Federal,Staff.Active,0,,2021-10-08
+Not Available,Federal,Staff.Deaths,0,,2021-10-08
+Ohio,Federal,Residents.Active,0,0,2021-10-08
+Ohio,ICE,Residents.Active,0,0,2021-10-08
+Ohio,Federal,Residents.Completed,1234,0.5032626427406199,2021-10-08
+Ohio,Federal,Residents.Confirmed,535,0.21818923327895595,2021-10-08
+Ohio,ICE,Residents.Confirmed,78,0.49056603773584906,2021-10-08
+Ohio,Federal,Residents.Deaths,9,0.00367047308319739,2021-10-08
+Ohio,ICE,Residents.Deaths,0,0,2021-10-08
+Ohio,Federal,Residents.Tested,1526,0.6223491027732463,2021-10-08
+Ohio,Federal,Staff.Active,1,,2021-10-08
+Ohio,Federal,Staff.Completed,214,,2021-10-08
+Ohio,Federal,Staff.Deaths,0,,2021-10-08
+Oklahoma,Federal,Residents.Active,0,0,2021-10-08
+Oklahoma,ICE,Residents.Active,0,0,2021-10-08
+Oklahoma,Federal,Residents.Completed,1439,0.5383464272353161,2021-10-08
+Oklahoma,Federal,Residents.Confirmed,870,0.3254769921436588,2021-10-08
+Oklahoma,ICE,Residents.Confirmed,114,0.9047619047619048,2021-10-08
+Oklahoma,Federal,Residents.Deaths,3,0.001122334455667789,2021-10-08
+Oklahoma,ICE,Residents.Deaths,0,0,2021-10-08
+Oklahoma,Federal,Residents.Tested,2329,0.8713056490834269,2021-10-08
+Oklahoma,Federal,Staff.Active,12,,2021-10-08
+Oklahoma,Federal,Staff.Completed,316,,2021-10-08
+Oklahoma,Federal,Staff.Deaths,0,,2021-10-08
+Oregon,Federal,Residents.Active,26,0.014656144306651634,2021-10-08
+Oregon,Federal,Residents.Completed,1234,0.6956031567080045,2021-10-08
+Oregon,Federal,Residents.Confirmed,332,0.1871476888387824,2021-10-08
+Oregon,Federal,Residents.Deaths,2,0.0011273957158962795,2021-10-08
+Oregon,Federal,Residents.Tested,1530,0.8624577226606539,2021-10-08
+Oregon,Federal,Staff.Active,3,,2021-10-08
+Oregon,Federal,Staff.Completed,197,,2021-10-08
+Oregon,Federal,Staff.Deaths,0,,2021-10-08
+Pennsylvania,Federal,Residents.Active,18,0.001979544704717915,2021-10-08
+Pennsylvania,ICE,Residents.Active,0,0,2021-10-08
+Pennsylvania,Juvenile,Residents.Active,5,0.013774104683195593,2021-10-08
+Pennsylvania,Federal,Residents.Completed,6830,0.751127240734631,2021-10-08
+Pennsylvania,Federal,Residents.Confirmed,3068,0.3374023974485868,2021-10-08
+Pennsylvania,ICE,Residents.Confirmed,483,1.0125786163522013,2021-10-08
+Pennsylvania,Juvenile,Residents.Confirmed,84,0.23140495867768596,2021-10-08
+Pennsylvania,Federal,Residents.Deaths,1,1.0997470581766194e-4,2021-10-08
+Pennsylvania,ICE,Residents.Deaths,0,0,2021-10-08
+Pennsylvania,Juvenile,Residents.Deaths,0,0,2021-10-08
+Pennsylvania,Federal,Residents.Tested,8192,0.9009127900582866,2021-10-08
+Pennsylvania,Federal,Staff.Active,11,,2021-10-08
+Pennsylvania,Federal,Staff.Completed,1325,,2021-10-08
+Pennsylvania,Juvenile,Staff.Confirmed,153,,2021-10-08
+Pennsylvania,Federal,Staff.Deaths,0,,2021-10-08
+Puerto Rico,Federal,Residents.Active,0,0,2021-10-08
+Puerto Rico,ICE,Residents.Active,0,0,2021-10-08
+Puerto Rico,Federal,Residents.Completed,1393,1.173546756529065,2021-10-08
+Puerto Rico,Federal,Residents.Confirmed,58,0.04886267902274642,2021-10-08
+Puerto Rico,ICE,Residents.Confirmed,5,1.6666666666666667,2021-10-08
+Puerto Rico,Federal,Residents.Deaths,0,0,2021-10-08
+Puerto Rico,ICE,Residents.Deaths,0,0,2021-10-08
+Puerto Rico,Federal,Residents.Tested,1121,0.9443976411120472,2021-10-08
+Puerto Rico,Federal,Staff.Active,0,,2021-10-08
+Puerto Rico,Federal,Staff.Completed,193,,2021-10-08
+Puerto Rico,Federal,Staff.Deaths,0,,2021-10-08
+Rhode Island,ICE,Residents.Active,0,0,2021-10-08
+Rhode Island,ICE,Residents.Confirmed,60,2.4,2021-10-08
+Rhode Island,ICE,Residents.Deaths,0,0,2021-10-08
+South Carolina,Federal,Residents.Active,12,0.002164111812443643,2021-10-08
+South Carolina,ICE,Residents.Active,0,,2021-10-08
+South Carolina,Federal,Residents.Completed,3662,0.6604147880973851,2021-10-08
+South Carolina,Federal,Residents.Confirmed,820,0.1478809738503156,2021-10-08
+South Carolina,ICE,Residents.Confirmed,4,,2021-10-08
+South Carolina,Juvenile,Residents.Confirmed,228,,2021-10-08
+South Carolina,Federal,Residents.Deaths,7,0.0012623985572587917,2021-10-08
+South Carolina,ICE,Residents.Deaths,0,,2021-10-08
+South Carolina,Federal,Residents.Tested,4105,0.7403065825067628,2021-10-08
+South Carolina,Federal,Staff.Active,12,,2021-10-08
+South Carolina,Federal,Staff.Completed,629,,2021-10-08
+South Carolina,Juvenile,Staff.Confirmed,383,,2021-10-08
+South Carolina,Federal,Staff.Deaths,0,,2021-10-08
+South Dakota,Federal,Residents.Active,0,0,2021-10-08
+South Dakota,Federal,Residents.Completed,307,0.6202020202020202,2021-10-08
+South Dakota,Federal,Residents.Confirmed,115,0.23232323232323232,2021-10-08
+South Dakota,Federal,Residents.Deaths,0,0,2021-10-08
+South Dakota,Federal,Residents.Tested,296,0.597979797979798,2021-10-08
+South Dakota,Federal,Staff.Active,0,,2021-10-08
+South Dakota,Federal,Staff.Completed,82,,2021-10-08
+South Dakota,Federal,Staff.Deaths,0,,2021-10-08
+Tennessee,Federal,Residents.Active,1,7.8125e-4,2021-10-08
+Tennessee,Federal,Residents.Completed,785,0.61328125,2021-10-08
+Tennessee,Federal,Residents.Confirmed,321,0.25078125,2021-10-08
+Tennessee,Federal,Residents.Deaths,2,0.0015625,2021-10-08
+Tennessee,Federal,Residents.Tested,1091,0.85234375,2021-10-08
+Tennessee,Federal,Staff.Active,1,,2021-10-08
+Tennessee,Federal,Staff.Completed,149,,2021-10-08
+Tennessee,Federal,Staff.Deaths,0,,2021-10-08
+Texas,Federal,Residents.Active,107,0.004496931999663781,2021-10-08
+Texas,ICE,Residents.Active,298,,2021-10-08
+Texas,Federal,Residents.Completed,12974,0.7369078723162559,2021-10-08
+Texas,Federal,Residents.Confirmed,6143,0.34891514256503464,2021-10-08
+Texas,ICE,Residents.Confirmed,13022,,2021-10-08
+Texas,Federal,Residents.Deaths,46,0.0019332604858367656,2021-10-08
+Texas,ICE,Residents.Deaths,1,,2021-10-08
+Texas,Federal,Residents.Tested,14505,0.8238668635692378,2021-10-08
+Texas,Federal,Staff.Active,63,,2021-10-08
+Texas,Federal,Staff.Completed,2374,,2021-10-08
+Texas,Federal,Staff.Deaths,0,,2021-10-08
+Utah,ICE,Residents.Active,0,,2021-10-08
+Utah,ICE,Residents.Confirmed,21,,2021-10-08
+Utah,ICE,Residents.Deaths,0,,2021-10-08
+Virginia,Federal,Residents.Active,0,0,2021-10-08
+Virginia,ICE,Residents.Active,1,0.003389830508474576,2021-10-08
+Virginia,Federal,Residents.Completed,3038,0.7280134196022047,2021-10-08
+Virginia,Federal,Residents.Confirmed,948,0.2271746944644141,2021-10-08
+Virginia,ICE,Residents.Confirmed,430,1.4576271186440677,2021-10-08
+Virginia,Federal,Residents.Deaths,1,2.3963575365444525e-4,2021-10-08
+Virginia,ICE,Residents.Deaths,1,0.003389830508474576,2021-10-08
+Virginia,Federal,Residents.Tested,2902,0.6954229571052001,2021-10-08
+Virginia,Federal,Staff.Active,6,,2021-10-08
+Virginia,Federal,Staff.Completed,573,,2021-10-08
+Virginia,Federal,Staff.Deaths,0,,2021-10-08
+Washington,Federal,Residents.Active,2,0.002844950213371266,2021-10-08
+Washington,ICE,Residents.Active,0,0,2021-10-08
+Washington,Federal,Residents.Completed,614,0.8733997155049786,2021-10-08
+Washington,Federal,Residents.Confirmed,143,0.2034139402560455,2021-10-08
+Washington,ICE,Residents.Confirmed,304,0.8636363636363636,2021-10-08
+Washington,Federal,Residents.Deaths,0,0,2021-10-08
+Washington,ICE,Residents.Deaths,0,0,2021-10-08
+Washington,Federal,Residents.Tested,724,1.0298719772403984,2021-10-08
+Washington,Federal,Staff.Active,1,,2021-10-08
+Washington,Federal,Staff.Completed,108,,2021-10-08
+Washington,Federal,Staff.Deaths,0,,2021-10-08
+West Virginia,Federal,Residents.Active,19,0.002116991643454039,2021-10-08
+West Virginia,ICE,Residents.Active,0,0,2021-10-08
+West Virginia,Juvenile,Residents.Active,0,0,2021-10-08
+West Virginia,Federal,Residents.Completed,6418,0.7150974930362117,2021-10-08
 West Virginia,Juvenile,Residents.Completed,6,0.027522935779816515,2021-06-14
-West Virginia,Federal,Residents.Confirmed,1494,0.1664623955431755,2021-09-28
-West Virginia,ICE,Residents.Confirmed,2,1,2021-09-28
-West Virginia,Juvenile,Residents.Confirmed,34,0.1559633027522936,2021-09-28
-West Virginia,Federal,Residents.Deaths,2,2.2284122562674094e-4,2021-09-28
-West Virginia,ICE,Residents.Deaths,0,0,2021-09-28
-West Virginia,Juvenile,Residents.Initiated,74,0.3394495412844037,2021-09-28
-West Virginia,Juvenile,Residents.Tadmin,1512,6.935779816513762,2021-09-28
-West Virginia,Federal,Residents.Tested,6647,0.7406128133704736,2021-09-28
-West Virginia,Federal,Staff.Active,36,,2021-09-28
-West Virginia,Juvenile,Staff.Active,13,,2021-09-28
-West Virginia,Federal,Staff.Completed,1045,,2021-09-28
+West Virginia,Federal,Residents.Confirmed,1519,0.16924791086350974,2021-10-08
+West Virginia,ICE,Residents.Confirmed,2,1,2021-10-08
+West Virginia,Juvenile,Residents.Confirmed,34,0.1559633027522936,2021-10-08
+West Virginia,Federal,Residents.Deaths,2,2.2284122562674094e-4,2021-10-08
+West Virginia,ICE,Residents.Deaths,0,0,2021-10-08
+West Virginia,Juvenile,Residents.Initiated,74,0.3394495412844037,2021-10-08
+West Virginia,Juvenile,Residents.Tadmin,1543,7.077981651376147,2021-10-08
+West Virginia,Federal,Residents.Tested,6737,0.7506406685236768,2021-10-08
+West Virginia,Federal,Staff.Active,12,,2021-10-08
+West Virginia,Juvenile,Staff.Active,5,,2021-10-08
+West Virginia,Federal,Staff.Completed,1064,,2021-10-08
 West Virginia,Juvenile,Staff.Completed,206,,2021-06-14
-West Virginia,Juvenile,Staff.Confirmed,184,,2021-09-28
-West Virginia,Federal,Staff.Deaths,0,,2021-09-28
-West Virginia,Juvenile,Staff.Initiated,206,,2021-09-28
-West Virginia,Juvenile,Staff.Tested,5303,,2021-09-28
-Wisconsin,Federal,Residents.Active,0,0,2021-09-28
-Wisconsin,ICE,Residents.Active,0,0,2021-09-28
-Wisconsin,Juvenile,Residents.Active,10,0.08928571428571429,2021-09-28
-Wisconsin,Federal,Residents.Completed,563,0.5530451866404715,2021-09-28
-Wisconsin,Juvenile,Residents.Completed,19,0.16964285714285715,2021-09-28
-Wisconsin,Federal,Residents.Confirmed,587,0.5766208251473477,2021-09-28
-Wisconsin,ICE,Residents.Confirmed,6,0.08108108108108109,2021-09-28
-Wisconsin,Juvenile,Residents.Confirmed,36,0.32142857142857145,2021-09-28
-Wisconsin,Federal,Residents.Deaths,0,0,2021-09-28
-Wisconsin,ICE,Residents.Deaths,0,0,2021-09-28
-Wisconsin,Juvenile,Residents.Initiated,34,0.30357142857142855,2021-09-28
-Wisconsin,Juvenile,Residents.Tadmin,262,2.3392857142857144,2021-09-28
-Wisconsin,Federal,Residents.Tested,966,0.9489194499017681,2021-09-28
-Wisconsin,Juvenile,Residents.Vadmin,53,0.4732142857142857,2021-09-28
-Wisconsin,Federal,Staff.Active,0,,2021-09-28
-Wisconsin,Federal,Staff.Completed,77,,2021-09-28
-Wisconsin,Juvenile,Staff.Confirmed,122,,2021-09-28
-Wisconsin,Federal,Staff.Deaths,0,,2021-09-28
-,ICE,Residents.Active,3,,2021-09-28
-,ICE,Residents.Confirmed,403,,2021-09-28
-,ICE,Residents.Deaths,0,,2021-09-28
+West Virginia,Juvenile,Staff.Confirmed,184,,2021-10-08
+West Virginia,Federal,Staff.Deaths,0,,2021-10-08
+West Virginia,Juvenile,Staff.Initiated,206,,2021-10-08
+West Virginia,Juvenile,Staff.Tested,5468,,2021-10-08
+Wisconsin,Federal,Residents.Active,0,0,2021-10-08
+Wisconsin,ICE,Residents.Active,0,0,2021-10-08
+Wisconsin,Juvenile,Residents.Active,0,0,2021-10-08
+Wisconsin,Federal,Residents.Completed,576,0.5658153241650294,2021-10-08
+Wisconsin,Juvenile,Residents.Completed,25,0.22321428571428573,2021-10-08
+Wisconsin,Federal,Residents.Confirmed,584,0.5736738703339882,2021-10-08
+Wisconsin,ICE,Residents.Confirmed,6,0.08108108108108109,2021-10-08
+Wisconsin,Juvenile,Residents.Confirmed,36,0.32142857142857145,2021-10-08
+Wisconsin,Federal,Residents.Deaths,0,0,2021-10-08
+Wisconsin,ICE,Residents.Deaths,0,0,2021-10-08
+Wisconsin,Juvenile,Residents.Initiated,36,0.32142857142857145,2021-10-08
+Wisconsin,Juvenile,Residents.Tadmin,266,2.375,2021-10-08
+Wisconsin,Federal,Residents.Tested,983,0.9656188605108055,2021-10-08
+Wisconsin,Juvenile,Residents.Vadmin,61,0.5446428571428571,2021-10-08
+Wisconsin,Federal,Staff.Active,0,,2021-10-08
+Wisconsin,Federal,Staff.Completed,80,,2021-10-08
+Wisconsin,Juvenile,Staff.Confirmed,124,,2021-10-08
+Wisconsin,Federal,Staff.Deaths,0,,2021-10-08
+,Federal,Residents.Active,1,,2021-10-08
+,ICE,Residents.Active,3,,2021-10-01
+,Federal,Residents.Confirmed,6,,2021-10-08
+,ICE,Residents.Confirmed,403,,2021-10-01
+,Federal,Residents.Deaths,0,,2021-10-08
+,ICE,Residents.Deaths,0,,2021-10-01
+,Federal,Residents.Tested,6,,2021-10-08
+,Federal,Staff.Active,0,,2021-10-08
+,Federal,Staff.Deaths,0,,2021-10-08

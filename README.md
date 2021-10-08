@@ -72,7 +72,7 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 
 #### `_state_counts.csv`
 * **Row definition**: Each row represents a state prison agency (DOC), with federal (BOP) and immigration (ICE) totals reported as separate rows. 
-* **Facilities included**: Includes adult and juvenile state facilities, federal facilities, and immigration detention facilities. Data from county jails are NOT included in these aggregates, as our data for these facilities is not comprehensive. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
+* **Facilities included**: Includes adult state facilities, federal facilities, and immigration detention facilities. Data from county jails are NOT included in these aggregates, as our data for these facilities is not comprehensive. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
 
 | Variable               | Description                                                                                                        |
 |------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 
 #### `_national_counts.csv`
 * **Row definition**: Each row represents a COVID metric. 
-* **Facilities included**: Includes adult and juvenile state facilities, federal facilities, and immigration detention facilities. Data from county jails are NOT included in these aggregates, as our data for these facilities is not comprehensive. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
+* **Facilities included**: Includes adult state facilities, federal facilities, and immigration detention facilities. Data from county jails are NOT included in these aggregates, as our data for these facilities is not comprehensive. This file supplements information reported directly on agency websites with statewide totals collected by [The Marshall Project](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons).
 
 | Variable               | Description                                                                                                        |
 |------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -147,6 +147,6 @@ Our data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAl
 
 ## Contributors 
 
-For questions or feedback about the data, please reach out to Michael Everett (everett@law.ucla.edu), Hope Johnson (johnsonh@law.ucla.edu), Neal Marquez (marquezn@law.ucla.edu), and Erika Tyagi (tyagi@law.ucla.edu). 
+For questions or feedback about the data, please reach out to COVIDBehindBars@law.ucla.edu. 
 
-In cases when agencies do not publicly report comprehensive data for all facilities in a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other sources. Our data for several jails in California is collected by the [COVID In-Custody Project](https://covidincustody.org/). Our data for facilities in Massachusetts is reported by [the ACLU of Massachusetts](https://data.aclum.org/sjc-12926-tracker/). If you would like to contribute data on COVID in a facility that we don't currently include, please see [our template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589). 
+In cases when agencies do not publicly report comprehensive data for all facilities in a state, we supplement our data with statewide aggregate totals collected through public records requests, data collected by [The Marshall Project and the AP](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), and other sources. Our data for several jails in California is collected by the [COVID In-Custody Project](https://covidincustody.org/). Our data for facilities in Massachusetts is reported by [the ACLU of Massachusetts](https://data.aclum.org/sjc-12926-tracker/). Our data for deaths in Texas jails and prisons is collected by [the Texas Justice Initiative](https://texasjusticeinitiative.org/publications/covid-deaths-in-texas). If you would like to contribute data on COVID in a facility that we don't currently include, please see [our template](https://docs.google.com/spreadsheets/d/1cqjCvbXuUh5aIQeJ4NRKdUwVAb4adaWTK-nBPFAj0og/edit#gid=363817589). 
