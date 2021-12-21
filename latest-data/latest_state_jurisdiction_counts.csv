@@ -4,7 +4,7 @@ Alabama,Prison,Residents.Confirmed,2209,0.10392848741472595,2021-12-17
 Alabama,Prison,Residents.Deaths,70,0.003293342742884027,2021-12-17
 Alabama,Prison,Residents.Initiated,12090,0.5688073394495413,2021-12-17
 Alabama,Prison,Residents.Tested,20714,0.9745471653728535,2021-12-17
-Alabama,Prison,Staff.Active,7,0.0018990775908844276,2021-12-17
+Alabama,Prison,Staff.Active,5,0.0013564839934888768,2021-12-17
 Alabama,Prison,Staff.Confirmed,1219,0.33071079761258815,2021-12-17
 Alabama,Prison,Staff.Deaths,3,8.138903960933261e-4,2021-12-17
 Alabama,Prison,Staff.Initiated,881,0.23901247965274008,2021-12-17
@@ -15,7 +15,6 @@ Alaska,Prison,Residents.Initiated,2957,0.736671649227703,2021-12-17
 Alaska,Prison,Residents.Tadmin,65408,13.695142378559463,2021-12-17
 Alaska,Prison,Staff.Confirmed,565,0.38804945054945056,2021-12-17
 Alaska,Prison,Staff.Deaths,1,6.868131868131869e-4,2021-12-17
-Arizona,Prison,Residents.Completed,27674,0.6533050047214353,2021-11-16
 Arizona,Prison,Residents.Confirmed,12647,0.2979339913778888,2021-12-17
 Arizona,Prison,Residents.Deaths,65,0.001534466477809254,2021-12-17
 Arizona,Prison,Residents.Tested,51844,1.2213244128248015,2021-12-17
@@ -127,16 +126,13 @@ Maryland,Prison,Staff.Completed,4059,0.6722424643921828,2021-12-17
 Maryland,Prison,Staff.Confirmed,2874,0.47598542563762836,2021-12-17
 Maryland,Prison,Staff.Deaths,4,6.62471016893011e-4,2021-12-17
 Maryland,Prison,Staff.Initiated,4128,0.6836700894335873,2021-12-17
-Massachusetts,Prison,Residents.Active,0,0,2021-11-16
 Massachusetts,Prison,Residents.Completed,4429,0.5557786422386749,2021-12-17
 Massachusetts,Prison,Residents.Confirmed,3105,0.4437616121194798,2021-11-16
 Massachusetts,Prison,Residents.Deaths,21,0.003001286265542375,2021-11-16
 Massachusetts,Prison,Residents.Initiated,4800,0.6023340444221358,2021-12-17
-Massachusetts,Prison,Residents.Tadmin,40333,5.061237294516251,2021-11-16
 Massachusetts,Prison,Staff.Completed,2842,0.6168873453440417,2021-12-17
 Massachusetts,Prison,Staff.Confirmed,954,0.2070761884089429,2021-11-16
 Massachusetts,Prison,Staff.Initiated,2975,0.6457564575645757,2021-12-17
-Massachusetts,Prison,Staff.Tested,15517,3.368135446060343,2021-11-16
 Michigan,Prison,Residents.Active,213,0.005557294927989981,2021-12-17
 Michigan,Prison,Residents.Completed,22029,0.5759065122480458,2021-12-17
 Michigan,Prison,Residents.Confirmed,28065,0.7322323105823418,2021-12-17
@@ -333,6 +329,7 @@ Alaska,Prison,Staff.Completed,,,
 Arizona,Prison,Residents.Tadmin,,,
 Arizona,Prison,Staff.Deaths,,,
 Arizona,Prison,Staff.Tested,,,
+Arizona,Prison,Residents.Completed,,,
 Arizona,Prison,Staff.Completed,,,
 Arkansas,Prison,Residents.Deaths,52,0.0029712587852122737,
 Arkansas,Prison,Residents.Tadmin,,,
@@ -416,8 +413,10 @@ Maine,Prison,Staff.Completed,,,
 Maryland,Prison,Residents.Tadmin,82507,4.06158314462932,
 Maryland,Prison,Residents.Tested,,,
 Maryland,Prison,Staff.Tested,,,
+Massachusetts,Prison,Residents.Tadmin,40333,5.061237294516251,
 Massachusetts,Prison,Residents.Tested,,,
 Massachusetts,Prison,Staff.Deaths,,,
+Massachusetts,Prison,Staff.Tested,,,
 Michigan,Prison,Residents.Tadmin,989860,25.928855825649624,
 Michigan,Prison,Staff.Tested,,,
 Michigan,Prison,Staff.Completed,,,
