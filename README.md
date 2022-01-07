@@ -87,7 +87,11 @@ We also include the following geographic fields: `Address`, `Zipcode`, `City`, `
 | `Staff.Active`         | Number of staff currently infected with COVID                                                                      |
 | `Residents.Initiated`  | Cumulative number of incarcerated individuals who have received at least one dose of a vaccine                     |
 | `Staff.Initiated`      | Cumulative number of staff who have received at least one dose of a vaccine                                        |
+| `Residents.Initiated.Pct` | Cumulative percent of incarcerated individuals who have received at least one dose of a vaccine                 |
+| `Staff.Initiated.Pct`      | Cumulative percent of staff who have received at least one dose of a vaccine                                   |
 | `Residents.Completed`  | Cumulative number of incarcerated individuals who are fully vaccinated                                             |
+| `Residents.Completed`  | Cumulative number of incarcerated individuals who are fully vaccinated                                             |
+| `Residents.Completed.Pct`  | Cumulative percent of incarcerated individuals who are fully vaccinated                                             |
 | `Staff.Completed`      | Cumulative number of staff who are fully vaccinated                                                                |
 | `Residents.Vadmin`     | Cumulative number of vaccine doses administered to incarcerated individuals                                        |
 | `Staff.Vadmin`         | Cumulative number of vaccine doses administered to staff                                                           |
