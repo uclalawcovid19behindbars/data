@@ -1,24 +1,24 @@
 Measure,Count,Reporting,Missing
-Residents.Confirmed,445956,53,""
-Staff.Confirmed,133291,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
-Residents.Deaths,2876,52,Maine
-Staff.Deaths,266,42,"Arizona, Maine, Massachusetts, Mississippi, Nebraska
+Residents.Confirmed,469066,53,""
+Staff.Confirmed,146841,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
+Residents.Deaths,2961,52,Maine
+Staff.Deaths,286,42,"Arizona, Maine, Massachusetts, Mississippi, Nebraska
  New Jersey, Oklahoma, Pennsylvania, Utah, Wisconsin
  ICE"
-Residents.Tadmin,7986939,40,"Arizona, Arkansas, Florida, Georgia, Kansas
+Residents.Tadmin,8553562,40,"Arizona, Arkansas, Florida, Georgia, Kansas
  Kentucky, Louisiana, Montana, Nevada, Rhode Island
  Washington, Federal, District of Columbia"
-Residents.Initiated,1718862197,25,"Arkansas, Florida, Georgia, Hawaii, Illinois
- Indiana, Iowa, Kentucky, Louisiana, Mississippi
- Montana, Nebraska, Nevada, New Jersey, New Mexico
- New York, North Dakota, Oklahoma, Oregon, Rhode Island
- South Dakota, Tennessee, Texas, Utah, Vermont
- Wyoming, ICE, District of Columbia"
-Staff.Initiated,126334,15,"Alaska, Arizona, Arkansas, Delaware, Florida
+Residents.Initiated,436312,24,"Arizona, Arkansas, Florida, Georgia, Hawaii
+ Illinois, Indiana, Iowa, Kentucky, Louisiana
+ Mississippi, Montana, Nebraska, Nevada, New Mexico
+ New York, North Dakota, Oklahoma, Oregon, Pennsylvania
+ Rhode Island, South Dakota, Tennessee, Texas, Utah
+ Vermont, Wyoming, ICE, District of Columbia"
+Staff.Initiated,123004,15,"Alaska, Arizona, Arkansas, Delaware, Florida
  Georgia, Hawaii, Idaho, Illinois, Indiana
  Iowa, Kentucky, Louisiana, Maine, Michigan
  Mississippi, Missouri, Montana, Nebraska, Nevada
- New Hampshire, New Jersey, New Mexico, New York, North Dakota
- Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota
+ New Hampshire, New Mexico, New York, North Dakota, Oklahoma
+ Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota
  Tennessee, Texas, Utah, Vermont, Wisconsin
  Wyoming, ICE, District of Columbia"
