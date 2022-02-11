@@ -326,11 +326,11 @@ West Virginia,Prison,Staff.Initiated,812,0.43915630070308276,2022-01-27
 West Virginia,Prison,Staff.Tested,25072,13.559762033531639,2022-02-10
 Wisconsin,Prison,Residents.Active,610,0.023517618937466265,2022-02-10
 Wisconsin,Prison,Residents.Completed,15985,0.6131804058460241,2022-02-10
-Wisconsin,Prison,Residents.Completed.Pct,0.30181150049,1.1577409969312209e-5,2022-02-10
+Wisconsin,Prison,Residents.Completed.Pct,0.30181150048999994,1.1577409969312207e-5,2022-02-10
 Wisconsin,Prison,Residents.Confirmed,14953,0.5764900917572673,2022-02-10
 Wisconsin,Prison,Residents.Deaths,33,0.0017907532016496635,2022-02-10
 Wisconsin,Prison,Residents.Initiated,16284,0.6246499673942231,2022-02-10
-Wisconsin,Prison,Residents.Initiated.Pct,0.30578867425,1.1729973311212552e-5,2022-02-10
+Wisconsin,Prison,Residents.Initiated.Pct,0.30578867424999995,1.172997331121255e-5,2022-02-10
 Wisconsin,Prison,Residents.Tadmin,164418,6.338885033541522,2022-02-10
 Wisconsin,Prison,Staff.Confirmed,5226,0.5559574468085107,2022-02-10
 Wyoming,Prison,Residents.Active,121,0.06533477321814254,2022-02-07
@@ -1052,7 +1052,7 @@ Wisconsin,ICE,Residents.Active,7,0.0945945945945946,2022-02-10
 Wisconsin,Juvenile,Residents.Active,0,0,2022-02-10
 Wisconsin,Federal,Residents.Completed,667,0.6552062868369352,2022-02-10
 Wisconsin,Juvenile,Residents.Completed,11,0.09821428571428571,2022-02-10
-Wisconsin,Juvenile,Residents.Completed.Pct,0.0059090909099999995,5.275974026785714e-5,2022-02-10
+Wisconsin,Juvenile,Residents.Completed.Pct,0.00590909090999999,5.275974026785705e-5,2022-02-10
 Wisconsin,Federal,Residents.Confirmed,676,0.6640471512770137,2022-02-10
 Wisconsin,ICE,Residents.Confirmed,19,0.25675675675675674,2022-02-10
 Wisconsin,Juvenile,Residents.Confirmed,52,0.4642857142857143,2022-02-10
