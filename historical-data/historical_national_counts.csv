@@ -120,6 +120,8 @@ Date,Measure,Count,Reporting,Missing
  Tennessee, Wyoming"
 2022-03-13,Residents.Confirmed,535510,45,"Florida, Georgia, Kentucky, Massachusetts, Oklahoma
  Oregon, Tennessee, Wyoming"
+2022-03-20,Residents.Confirmed,524974,44,"Connecticut, Florida, Georgia, Kentucky, Massachusetts
+ Nevada, Oklahoma, Tennessee, Wyoming"
 2020-03-22,Staff.Confirmed,97,36,"Arizona, Connecticut, Georgia, Indiana, Kentucky
  Maine, Maryland, Michigan, Mississippi, Montana
  Nebraska, Ohio, Pennsylvania, South Dakota, Utah
@@ -332,6 +334,10 @@ Date,Measure,Count,Reporting,Missing
  Louisiana, Maine, Massachusetts, Mississippi, Nebraska
  New Mexico, Ohio, Oklahoma, Oregon, Tennessee
  Virginia, Wyoming, Federal, ICE"
+2022-03-20,Staff.Confirmed,167791,34,"Arkansas, Florida, Georgia, Hawaii, Kentucky
+ Louisiana, Maine, Massachusetts, Mississippi, Nebraska
+ Nevada, New Mexico, Ohio, Oklahoma, Tennessee
+ Virginia, Wyoming, Federal, ICE"
 2020-03-22,Residents.Deaths,2,51,"Kentucky, District of Columbia"
 2020-03-29,Residents.Deaths,15,49,"Kentucky, Mississippi, Nebraska, District of Columbia"
 2020-04-05,Residents.Deaths,32,52,District of Columbia
@@ -466,6 +472,8 @@ Date,Measure,Count,Reporting,Missing
  Mississippi, Tennessee"
 2022-03-13,Residents.Deaths,2727,45,"Arkansas, Georgia, Louisiana, Maine, Massachusetts
  Mississippi, Oregon, Tennessee"
+2022-03-20,Residents.Deaths,2692,44,"Arkansas, Connecticut, Georgia, Louisiana, Maine
+ Massachusetts, Mississippi, Nevada, Tennessee"
 2020-03-22,Staff.Deaths,0,49,"Kentucky, South Dakota, ICE, District of Columbia"
 2020-03-29,Staff.Deaths,2,47,"Kentucky, Mississippi, Nebraska, South Dakota, ICE
  District of Columbia"
@@ -839,6 +847,13 @@ Date,Measure,Count,Reporting,Missing
  Mississippi, Nebraska, New Hampshire, New Jersey, New Mexico
  North Carolina, Oklahoma, Oregon, Pennsylvania, Tennessee
  Utah, West Virginia, Wisconsin, Wyoming, ICE"
+2022-03-20,Staff.Deaths,216,22,"Arizona, Arkansas, California, Colorado, Connecticut
+ Delaware, Georgia, Hawaii, Idaho, Illinois
+ Iowa, Louisiana, Maine, Massachusetts, Minnesota
+ Mississippi, Nebraska, Nevada, New Hampshire, New Jersey
+ New Mexico, North Carolina, Oklahoma, Oregon, Pennsylvania
+ Tennessee, Utah, West Virginia, Wisconsin, Wyoming
+ ICE"
 2020-03-29,Residents.Tadmin,10,2,"Alabama, Alaska, Arizona, Arkansas, California
  Colorado, Connecticut, Delaware, Florida, Georgia
  Hawaii, Idaho, Illinois, Indiana, Iowa
@@ -1400,6 +1415,12 @@ Date,Measure,Count,Reporting,Missing
  Nevada, New Jersey, Oklahoma, Oregon, Rhode Island
  South Carolina, Tennessee, Virginia, Washington, Wyoming
  Federal, District of Columbia"
+2022-03-20,Residents.Tadmin,7652926,27,"Alabama, Arizona, Arkansas, Connecticut, Florida
+ Georgia, Kansas, Kentucky, Louisiana, Maine
+ Maryland, Massachusetts, Michigan, Mississippi, Montana
+ Nevada, New Jersey, Oklahoma, Rhode Island, South Carolina
+ Tennessee, Virginia, Washington, Wyoming, Federal
+ District of Columbia"
 2021-01-24,Residents.Initiated,15919,2,"Alabama, Alaska, Arizona, Arkansas, Colorado
  Connecticut, Delaware, Florida, Georgia, Hawaii
  Idaho, Illinois, Indiana, Iowa, Kansas
@@ -1795,6 +1816,13 @@ Date,Measure,Count,Reporting,Missing
  Texas, Utah, Vermont, Wyoming, ICE
  District of Columbia"
 2022-03-13,Residents.Initiated,459653,22,"Arizona, Arkansas, Delaware, Florida, Georgia
+ Hawaii, Illinois, Indiana, Iowa, Kentucky
+ Louisiana, Maryland, Mississippi, Montana, Nebraska
+ Nevada, New Mexico, New York, North Dakota, Oklahoma
+ Oregon, Rhode Island, South Dakota, Tennessee, Texas
+ Utah, Vermont, West Virginia, Wyoming, ICE
+ District of Columbia"
+2022-03-20,Residents.Initiated,459876,22,"Arizona, Arkansas, Delaware, Florida, Georgia
  Hawaii, Illinois, Indiana, Iowa, Kentucky
  Louisiana, Maryland, Mississippi, Montana, Nebraska
  Nevada, New Mexico, New York, North Dakota, Oklahoma
@@ -2287,6 +2315,15 @@ Date,Measure,Count,Reporting,Missing
  South Dakota, Tennessee, Texas, Utah, Vermont
  Virginia, Wisconsin, Wyoming, ICE, District of Columbia"
 2022-03-13,Staff.Initiated,117214,12,"Alaska, Arizona, Arkansas, Delaware, Florida
+ Georgia, Hawaii, Idaho, Illinois, Indiana
+ Iowa, Kentucky, Louisiana, Maine, Maryland
+ Michigan, Mississippi, Missouri, Montana, Nebraska
+ Nevada, New Hampshire, New Jersey, New Mexico, New York
+ North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina
+ South Dakota, Tennessee, Texas, Utah, Vermont
+ Virginia, West Virginia, Wisconsin, Wyoming, ICE
+ District of Columbia"
+2022-03-20,Staff.Initiated,117182,12,"Alaska, Arizona, Arkansas, Delaware, Florida
  Georgia, Hawaii, Idaho, Illinois, Indiana
  Iowa, Kentucky, Louisiana, Maine, Maryland
  Michigan, Mississippi, Missouri, Montana, Nebraska
