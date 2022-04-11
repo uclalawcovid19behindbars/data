@@ -1,24 +1,3 @@
-Measure,Count,Reporting,Missing
-Residents.Confirmed,597698,53,""
-Staff.Confirmed,205892,48,"Arkansas, Maine, Mississippi, Nebraska, ICE"
-Residents.Deaths,3081,52,Maine
-Staff.Deaths,309,42,"Arizona, Maine, Massachusetts, Mississippi, Nebraska
- New Jersey, Oklahoma, Pennsylvania, Utah, Wisconsin
- ICE"
-Residents.Tadmin,9701259,40,"Arizona, Arkansas, Florida, Georgia, Kansas
- Kentucky, Louisiana, Montana, Nevada, Rhode Island
- Washington, Federal, District of Columbia"
-Residents.Initiated,465960,23,"Arizona, Arkansas, Delaware, Florida, Georgia
- Hawaii, Illinois, Indiana, Iowa, Kentucky
- Louisiana, Maryland, Mississippi, Montana, Nebraska
- Nevada, New Mexico, New York, North Dakota, Oklahoma
- Oregon, Rhode Island, South Dakota, Tennessee, Texas
- Utah, Vermont, Wyoming, ICE, District of Columbia"
-Staff.Initiated,117943,13,"Alaska, Arizona, Arkansas, Delaware, Florida
- Georgia, Hawaii, Idaho, Illinois, Indiana
- Iowa, Kentucky, Louisiana, Maine, Maryland
- Michigan, Mississippi, Missouri, Montana, Nebraska
- Nevada, New Hampshire, New Jersey, New Mexico, New York
- North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina
- South Dakota, Tennessee, Texas, Utah, Vermont
- Virginia, Wisconsin, Wyoming, ICE, District of Columbia"
+version https://git-lfs.github.com/spec/v1
+oid sha256:325f4927ce508f326a8b21c08e6ee77c7861b5f275040fdcec1c32629dec16b6
+size 1268
